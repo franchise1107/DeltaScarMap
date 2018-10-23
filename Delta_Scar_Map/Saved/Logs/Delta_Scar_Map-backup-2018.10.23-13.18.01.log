@@ -1,0 +1,1673 @@
+﻿Log file open, 10/18/18 14:20:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Delta_Scar_Map
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.264461
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.067s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4233996
+LogInit: Engine Version: 4.20.1-4233996+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Jul 26 2018 10:07:30
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.18-18.20.21:745][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.18-18.20.21:745][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.18-18.20.21:755][  0]LogHAL: Display: Platform has ~ 32 GB [34254376960 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.18-18.20.21:755][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.18-18.20.21:755][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.18-18.20.21:755][  0]LogInit: Computer: IMSRADAW16
+[2018.10.18-18.20.21:756][  0]LogInit: User: sapienfm
+[2018.10.18-18.20.21:756][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.10.18-18.20.21:756][  0]LogInit: High frequency timer resolution =3.515625 MHz
+[2018.10.18-18.20.21:756][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2018.10.18-18.20.21:756][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.18-18.20.21:756][  0]LogMemory: Process Physical Memory: 99.16 MB used, 99.16 MB peak
+[2018.10.18-18.20.21:756][  0]LogMemory: Process Virtual Memory: 82.94 MB used, 82.94 MB peak
+[2018.10.18-18.20.21:756][  0]LogMemory: Physical Memory: 11497.14 MB used,  21170.38 MB free, 32667.52 MB total
+[2018.10.18-18.20.21:756][  0]LogMemory: Virtual Memory: 4637.18 MB used,  21170.38 MB free, 134217728.00 MB total
+[2018.10.18-18.20.21:765][  0]LogInit: Using OS detected language (en-US).
+[2018.10.18-18.20.21:765][  0]LogInit: Using OS detected locale (en-US).
+[2018.10.18-18.20.21:765][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.18-18.20.22:095][  0]LogStreaming: Display: Took  0.330s to InitEngineTextLocalization.
+[2018.10.18-18.20.22:095][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.18-18.20.22:133][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.18-18.20.22:133][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.18-18.20.22:303][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.18-18.20.22:303][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.18-18.20.22:361][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.10.18-18.20.22:361][  0]LogD3D11RHI:       8079/0/16333 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.10.18-18.20.22:367][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.10.18-18.20.22:367][  0]LogD3D11RHI:       128/0/16333 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.10.18-18.20.22:369][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.18-18.20.22:369][  0]LogD3D11RHI:       0/0/16333 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.18-18.20.22:369][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.18-18.20.22:376][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.18-18.20.22:376][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.18-18.20.22:376][  0]LogWindows: EnumDisplayDevices:
+[2018.10.18-18.20.22:376][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2018.10.18-18.20.22:376][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.10.18-18.20.22:376][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.10.18-18.20.22:376][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.10.18-18.20.22:376][  0]LogWindows:    4. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.10.18-18.20.22:377][  0]LogWindows:    5. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.10.18-18.20.22:377][  0]LogWindows:    6. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.10.18-18.20.22:377][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.10.18-18.20.22:377][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.10.18-18.20.22:377][  0]LogD3D11RHI:   Driver Version: 397.93 (internal:24.21.13.9793, unified:397.93)
+[2018.10.18-18.20.22:377][  0]LogD3D11RHI:      Driver Date: 5-22-2018
+[2018.10.18-18.20.22:377][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2018.10.18-18.20.22:410][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.18-18.20.22:429][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.10.18-18.20.22:478][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Intermediate/Shaders/WorkingDirectory/10116/).
+[2018.10.18-18.20.22:478][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/sapienfm/AppData/Local/Temp/UnrealShaderWorkingDir/B63AB7C3481FF6DFFEC85793B2831C22/'.
+[2018.10.18-18.20.22:638][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.18-18.20.22:648][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.18-18.20.22:658][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.18-18.20.22:669][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.18-18.20.22:680][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.18-18.20.22:691][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.18-18.20.22:706][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.18-18.20.22:722][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.18-18.20.22:727][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.18-18.20.22:798][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-18.20.22:798][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-18.20.22:798][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-18.20.22:798][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-18.20.22:798][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-18.20.22:798][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-18.20.22:798][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-18.20.22:798][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-18.20.22:798][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-18.20.22:798][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-18.20.22:798][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-18.20.22:798][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-18.20.22:798][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-18.20.22:798][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-18.20.22:798][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-18.20.22:798][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-18.20.22:798][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-18.20.22:798][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-18.20.22:799][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.18-18.20.22:853][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.18-18.20.22:853][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.18-18.20.22:871][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.18-18.20.22:871][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.18-18.20.22:882][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.18-18.20.22:894][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.18-18.20.22:907][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.18-18.20.22:917][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.18-18.20.22:925][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.18-18.20.22:925][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.18-18.20.22:970][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.18-18.20.22:970][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.18-18.20.22:970][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.18-18.20.23:536][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.18-18.20.23:582][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/sapienfm/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.18-18.20.23:582][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/sapienfm/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.18-18.20.23:582][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.18-18.20.23:582][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.18-18.20.23:582][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.18-18.20.23:582][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.18-18.20.23:593][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.18-18.20.23:605][  0]LogDerivedDataCache: Using Local data cache path C:/Users/sapienfm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.18-18.20.23:605][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.18-18.20.23:605][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.18-18.20.23:628][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.18-18.20.23:630][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.18-18.20.23:630][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.18-18.20.23:693][  0]LogAssetRegistry: FAssetRegistry took 0.0252 seconds to start up
+[2018.10.18-18.20.23:946][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.18-18.20.24:053][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.18-18.20.24:055][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.18-18.20.24:055][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.18-18.20.24:055][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.18-18.20.24:055][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.18-18.20.24:075][  0]LogNetVersion: Delta_Scar_Map 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2686675077)
+[2018.10.18-18.20.24:458][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.076114 seconds
+[2018.10.18-18.20.24:463][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.18-18.20.24:463][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.10.18-18.20.24:463][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.18-18.20.25:127][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.18-18.20.25:140][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.18-18.20.25:268][  0]SourceControl: Source control is disabled
+[2018.10.18-18.20.25:269][  0]SourceControl: Source control is disabled
+[2018.10.18-18.20.25:270][  0]SourceControl: Source control is disabled
+[2018.10.18-18.20.25:270][  0]SourceControl: Source control is disabled
+[2018.10.18-18.20.25:418][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.18-18.20.25:475][  0]LogOcInput: OculusInput pre-init called
+[2018.10.18-18.20.25:525][  0]LogEngine: Initializing Engine...
+[2018.10.18-18.20.25:525][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.18-18.20.25:526][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.18-18.20.25:526][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.18-18.20.25:526][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.18-18.20.25:526][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.18-18.20.25:694][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.18-18.20.25:704][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.18-18.20.25:716][  0]LogInit: XAudio2 using 'Crestron 420 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.18-18.20.25:741][  0]LogInit: FAudioDevice initialized.
+[2018.10.18-18.20.25:741][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.18-18.20.25:782][  0]LogDerivedDataCache: Saved boot cache 0.04s 71MB C:/Users/sapienfm/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.18-18.20.25:793][  0]LogInit: Texture streaming: Enabled
+[2018.10.18-18.20.25:805][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.18-18.20.25:816][  0]LogInit: Transaction tracking system initialized
+[2018.10.18-18.20.25:832][  0]BlueprintLog: New page: Editor Load
+[2018.10.18-18.20.25:884][  0]LocalizationService: Localization service is disabled
+[2018.10.18-18.20.26:096][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.18-18.20.26:096][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.18-18.20.26:096][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.18-18.20.26:096][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.18-18.20.26:096][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.18-18.20.26:096][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.18-18.20.26:096][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.18-18.20.26:189][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/' took 0.01s
+[2018.10.18-18.20.26:189][  0]SourceControl: Source control is disabled
+[2018.10.18-18.20.26:189][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.18-18.20.26:190][  0]LightingResults: New page: Lighting Build
+[2018.10.18-18.20.26:192][  0]MapCheck: New page: Map Check
+[2018.10.18-18.20.26:192][  0]LightingResults: New page: Lighting Build
+[2018.10.18-18.20.26:359][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.10.18-18.20.26:364][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.18-18.20.26:384][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.18-18.20.26:420][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 35.783ms to complete.
+[2018.10.18-18.20.26:420][  0]LogFileHelpers: Loading map 'Template_Default' took 0.230
+[2018.10.18-18.20.26:562][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.18-18.20.26:569][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.18-18.20.26:575][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.18-18.20.26:580][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.18-18.20.26:607][  0]LogCollectionManager: Loaded 0 collections in 0.001338 seconds
+[2018.10.18-18.20.26:692][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Collections/' took 0.01s
+[2018.10.18-18.20.26:692][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/Developers/sapienfm/Collections/' took 0.01s
+[2018.10.18-18.20.26:692][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/Collections/' took 0.01s
+[2018.10.18-18.20.26:692][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.10.18-18.20.26:703][  0]LogContentBrowser: Native class hierarchy populated in 0.0094 seconds. Added 2573 classes and 605 folders.
+[2018.10.18-18.20.26:716][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.10.18-18.20.26:806][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.10.18-18.20.26:845][  0]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.18-18.20.26:849][  0]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.18-18.20.26:906][  0]LogRenderer: Reallocating scene render targets to support 1528x924 Format 10 NumSamples 1 (Frame:1).
+[2018.10.18-18.20.27:013][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.10.18-18.20.27:013][  0]LogLoad: (Engine Initialization) Total time: 6.62 seconds
+[2018.10.18-18.20.27:013][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.18-18.20.27:023][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.18-18.20.27:045][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.10.18-18.20.27:066][  1]LogAssetRegistry: Asset discovery search completed in 3.3940 seconds
+[2018.10.18-18.20.27:067][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.10.18-18.20.27:067][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000036 seconds (updated 0 objects)
+[2018.10.18-18.20.29:402][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-18.20.29:405][278]LogSlate: Took 0.001754 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.18-18.20.29:414][278]LogSlate: Took 0.001519 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.18-18.20.35:309][968]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.18-18.20.35:709][968]LogAIModule: Creating AISystem for world Delta-Scar-Map
+[2018.10.18-18.20.35:719][968]LogAssetEditorManager: Opening Asset editor for World /Game/Delta-Scar-Map.Delta-Scar-Map
+[2018.10.18-18.20.35:738][968]Cmd: MAP LOAD FILE="../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.18-18.20.35:738][968]LightingResults: New page: Lighting Build
+[2018.10.18-18.20.35:738][968]LoadErrors: New page: Loading map: Delta-Scar-Map.umap
+[2018.10.18-18.20.35:739][968]MapCheck: New page: Map Check
+[2018.10.18-18.20.35:739][968]LightingResults: New page: Lighting Build
+[2018.10.18-18.20.35:762][968]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.18-18.20.35:799][968]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.18-18.20.35:844][968]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 44.663ms to complete.
+[2018.10.18-18.20.35:844][968]LogFileHelpers: Loading map 'Delta-Scar-Map' took 0.106
+[2018.10.18-18.23.57:778][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.18-18.24.07:750][429]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.18-18.24.09:557][429]LogSlate: Window 'Choose Location for importing the scene content' being destroyed
+[2018.10.18-18.24.09:575][429]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.18-18.24.09:581][429]LogFactory: FactoryCreateFile: World with FbxSceneImportFactory (0 0 ../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/assets/order temple.fbx)
+[2018.10.18-18.24.09:613][429]LogFbx: Loading FBX Scene from ../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/assets/order temple.fbx
+[2018.10.18-18.24.09:629][429]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.18-18.24.09:634][429]LogFbx: =================================================
+[2018.10.18-18.24.09:634][429]LogFbx: Dumping Node START [pCube1] 
+[2018.10.18-18.24.09:634][429]LogFbx: 	Total Deformer Count -538386696.
+[2018.10.18-18.24.09:634][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.09:634][429]LogFbx: 		[Node Attribute Child 1] pCube1 (Type Mesh).
+[2018.10.18-18.24.09:634][429]LogFbx: Dumping Node END [pCube1]
+[2018.10.18-18.24.09:634][429]LogFbx: =================================================
+[2018.10.18-18.24.09:634][429]LogFbx: Dumping Node START [pDisc1] 
+[2018.10.18-18.24.09:634][429]LogFbx: 	Total Deformer Count -538386696.
+[2018.10.18-18.24.09:634][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.09:634][429]LogFbx: 		[Node Attribute Child 1] pDisc1 (Type Mesh).
+[2018.10.18-18.24.09:634][429]LogFbx: Dumping Node END [pDisc1]
+[2018.10.18-18.24.09:634][429]LogFbx: =================================================
+[2018.10.18-18.24.09:634][429]LogFbx: Dumping Node START [pCone1] 
+[2018.10.18-18.24.09:634][429]LogFbx: 	Total Deformer Count -538386696.
+[2018.10.18-18.24.09:634][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.09:634][429]LogFbx: 		[Node Attribute Child 1] pCone1 (Type Mesh).
+[2018.10.18-18.24.09:634][429]LogFbx: Dumping Node END [pCone1]
+[2018.10.18-18.24.09:634][429]LogFbx: =================================================
+[2018.10.18-18.24.09:634][429]LogFbx: Dumping Node START [pTorus1] 
+[2018.10.18-18.24.09:634][429]LogFbx: 	Total Deformer Count -538386696.
+[2018.10.18-18.24.09:634][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.09:634][429]LogFbx: 		[Node Attribute Child 1] pTorus1 (Type Mesh).
+[2018.10.18-18.24.09:634][429]LogFbx: Dumping Node END [pTorus1]
+[2018.10.18-18.24.09:634][429]LogFbx: =================================================
+[2018.10.18-18.24.09:634][429]LogFbx: Dumping Node START [pPlatonic1] 
+[2018.10.18-18.24.09:634][429]LogFbx: 	Total Deformer Count -1514794048.
+[2018.10.18-18.24.09:634][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.09:634][429]LogFbx: 		[Node Attribute Child 1] pPlatonic1 (Type Mesh).
+[2018.10.18-18.24.09:634][429]LogFbx: Dumping Node END [pPlatonic1]
+[2018.10.18-18.24.09:634][429]LogFbx: =================================================
+[2018.10.18-18.24.09:634][429]LogFbx: Dumping Node START [pCylinder1] 
+[2018.10.18-18.24.09:634][429]LogFbx: 	Total Deformer Count -1514794048.
+[2018.10.18-18.24.09:634][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.09:634][429]LogFbx: 		[Node Attribute Child 1] pCylinder1 (Type Mesh).
+[2018.10.18-18.24.09:634][429]LogFbx: Dumping Node END [pCylinder1]
+[2018.10.18-18.24.09:634][429]LogFbx: =================================================
+[2018.10.18-18.24.09:634][429]LogFbx: Dumping Node START [pCylinder2] 
+[2018.10.18-18.24.09:634][429]LogFbx: 	Total Deformer Count -1514794048.
+[2018.10.18-18.24.09:634][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.09:634][429]LogFbx: 		[Node Attribute Child 1] pCylinder2 (Type Mesh).
+[2018.10.18-18.24.09:634][429]LogFbx: Dumping Node END [pCylinder2]
+[2018.10.18-18.24.09:634][429]LogFbx: =================================================
+[2018.10.18-18.24.09:634][429]LogFbx: Dumping Node START [pCylinder3] 
+[2018.10.18-18.24.09:634][429]LogFbx: 	Total Deformer Count -1514794048.
+[2018.10.18-18.24.09:634][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.09:634][429]LogFbx: 		[Node Attribute Child 1] pCylinder3 (Type Mesh).
+[2018.10.18-18.24.09:634][429]LogFbx: Dumping Node END [pCylinder3]
+[2018.10.18-18.24.09:634][429]LogFbx: =================================================
+[2018.10.18-18.24.09:634][429]LogFbx: Dumping Node START [pCylinder4] 
+[2018.10.18-18.24.09:634][429]LogFbx: 	Total Deformer Count -1514794048.
+[2018.10.18-18.24.09:634][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.09:634][429]LogFbx: 		[Node Attribute Child 1] pCylinder4 (Type Mesh).
+[2018.10.18-18.24.09:634][429]LogFbx: Dumping Node END [pCylinder4]
+[2018.10.18-18.24.09:634][429]LogFbx: =================================================
+[2018.10.18-18.24.09:634][429]LogFbx: Dumping Node START [pCylinder5] 
+[2018.10.18-18.24.09:634][429]LogFbx: 	Total Deformer Count -1514794048.
+[2018.10.18-18.24.09:634][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.09:634][429]LogFbx: 		[Node Attribute Child 1] pCylinder5 (Type Mesh).
+[2018.10.18-18.24.09:634][429]LogFbx: Dumping Node END [pCylinder5]
+[2018.10.18-18.24.09:634][429]LogFbx: =================================================
+[2018.10.18-18.24.09:634][429]LogFbx: Dumping Node START [pCylinder6] 
+[2018.10.18-18.24.09:634][429]LogFbx: 	Total Deformer Count -1514794048.
+[2018.10.18-18.24.09:634][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.09:634][429]LogFbx: 		[Node Attribute Child 1] pCylinder6 (Type Mesh).
+[2018.10.18-18.24.09:634][429]LogFbx: Dumping Node END [pCylinder6]
+[2018.10.18-18.24.09:634][429]LogFbx: =================================================
+[2018.10.18-18.24.09:634][429]LogFbx: Dumping Node START [pCylinder7] 
+[2018.10.18-18.24.09:634][429]LogFbx: 	Total Deformer Count -1514794048.
+[2018.10.18-18.24.09:634][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.09:634][429]LogFbx: 		[Node Attribute Child 1] pCylinder7 (Type Mesh).
+[2018.10.18-18.24.09:634][429]LogFbx: Dumping Node END [pCylinder7]
+[2018.10.18-18.24.09:635][429]LogFbx: =================================================
+[2018.10.18-18.24.09:635][429]LogFbx: Dumping Node START [pCylinder8] 
+[2018.10.18-18.24.09:635][429]LogFbx: 	Total Deformer Count -1514794048.
+[2018.10.18-18.24.09:635][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.09:635][429]LogFbx: 		[Node Attribute Child 1] pCylinder8 (Type Mesh).
+[2018.10.18-18.24.09:635][429]LogFbx: Dumping Node END [pCylinder8]
+[2018.10.18-18.24.09:635][429]LogFbx: =================================================
+[2018.10.18-18.24.09:635][429]LogFbx: Dumping Node START [pCylinder9] 
+[2018.10.18-18.24.09:635][429]LogFbx: 	Total Deformer Count -1514794048.
+[2018.10.18-18.24.09:635][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.09:635][429]LogFbx: 		[Node Attribute Child 1] pCylinder9 (Type Mesh).
+[2018.10.18-18.24.09:635][429]LogFbx: Dumping Node END [pCylinder9]
+[2018.10.18-18.24.09:635][429]LogFbx: =================================================
+[2018.10.18-18.24.09:635][429]LogFbx: Dumping Node START [pCylinder10] 
+[2018.10.18-18.24.09:635][429]LogFbx: 	Total Deformer Count -1514794048.
+[2018.10.18-18.24.09:635][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.09:635][429]LogFbx: 		[Node Attribute Child 1] pCylinder10 (Type Mesh).
+[2018.10.18-18.24.09:635][429]LogFbx: Dumping Node END [pCylinder10]
+[2018.10.18-18.24.09:635][429]LogFbx: =================================================
+[2018.10.18-18.24.09:635][429]LogFbx: Dumping Node START [pCylinder11] 
+[2018.10.18-18.24.09:635][429]LogFbx: 	Total Deformer Count -1514794048.
+[2018.10.18-18.24.09:635][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.09:635][429]LogFbx: 		[Node Attribute Child 1] pCylinder11 (Type Mesh).
+[2018.10.18-18.24.09:635][429]LogFbx: Dumping Node END [pCylinder11]
+[2018.10.18-18.24.09:635][429]LogFbx: =================================================
+[2018.10.18-18.24.09:635][429]LogFbx: Dumping Node START [pPlatonic1] 
+[2018.10.18-18.24.09:635][429]LogFbx: 	Total Deformer Count -1514794048.
+[2018.10.18-18.24.09:635][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.09:635][429]LogFbx: 		[Node Attribute Child 1] pPlatonic1 (Type Mesh).
+[2018.10.18-18.24.09:635][429]LogFbx: Dumping Node END [pPlatonic1]
+[2018.10.18-18.24.09:635][429]LogFbx: =================================================
+[2018.10.18-18.24.09:635][429]LogFbx: Dumping Node START [pCube1] 
+[2018.10.18-18.24.09:635][429]LogFbx: 	Total Deformer Count -538386640.
+[2018.10.18-18.24.09:635][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.09:635][429]LogFbx: 		[Node Attribute Child 1] pCube1 (Type Mesh).
+[2018.10.18-18.24.09:635][429]LogFbx: Dumping Node END [pCube1]
+[2018.10.18-18.24.09:635][429]LogFbx: =================================================
+[2018.10.18-18.24.09:635][429]LogFbx: Dumping Node START [pDisc1] 
+[2018.10.18-18.24.09:635][429]LogFbx: 	Total Deformer Count -538386640.
+[2018.10.18-18.24.09:635][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.09:635][429]LogFbx: 		[Node Attribute Child 1] pDisc1 (Type Mesh).
+[2018.10.18-18.24.09:635][429]LogFbx: Dumping Node END [pDisc1]
+[2018.10.18-18.24.09:635][429]LogFbx: =================================================
+[2018.10.18-18.24.09:635][429]LogFbx: Dumping Node START [pCone1] 
+[2018.10.18-18.24.09:635][429]LogFbx: 	Total Deformer Count -538386640.
+[2018.10.18-18.24.09:635][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.09:635][429]LogFbx: 		[Node Attribute Child 1] pCone1 (Type Mesh).
+[2018.10.18-18.24.09:635][429]LogFbx: Dumping Node END [pCone1]
+[2018.10.18-18.24.09:635][429]LogFbx: =================================================
+[2018.10.18-18.24.09:635][429]LogFbx: Dumping Node START [pTorus1] 
+[2018.10.18-18.24.09:635][429]LogFbx: 	Total Deformer Count -538386640.
+[2018.10.18-18.24.09:635][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.09:635][429]LogFbx: 		[Node Attribute Child 1] pTorus1 (Type Mesh).
+[2018.10.18-18.24.09:635][429]LogFbx: Dumping Node END [pTorus1]
+[2018.10.18-18.24.09:635][429]LogFbx: =================================================
+[2018.10.18-18.24.09:635][429]LogFbx: Dumping Node START [pCylinder1] 
+[2018.10.18-18.24.09:635][429]LogFbx: 	Total Deformer Count -1514791744.
+[2018.10.18-18.24.09:635][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.09:635][429]LogFbx: 		[Node Attribute Child 1] pCylinder1 (Type Mesh).
+[2018.10.18-18.24.09:635][429]LogFbx: Dumping Node END [pCylinder1]
+[2018.10.18-18.24.09:635][429]LogFbx: =================================================
+[2018.10.18-18.24.09:635][429]LogFbx: Dumping Node START [pCylinder2] 
+[2018.10.18-18.24.09:635][429]LogFbx: 	Total Deformer Count -1514791744.
+[2018.10.18-18.24.09:635][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.09:635][429]LogFbx: 		[Node Attribute Child 1] pCylinder2 (Type Mesh).
+[2018.10.18-18.24.09:635][429]LogFbx: Dumping Node END [pCylinder2]
+[2018.10.18-18.24.09:635][429]LogFbx: =================================================
+[2018.10.18-18.24.09:635][429]LogFbx: Dumping Node START [pCylinder3] 
+[2018.10.18-18.24.09:635][429]LogFbx: 	Total Deformer Count -1514791744.
+[2018.10.18-18.24.09:635][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.09:635][429]LogFbx: 		[Node Attribute Child 1] pCylinder3 (Type Mesh).
+[2018.10.18-18.24.09:635][429]LogFbx: Dumping Node END [pCylinder3]
+[2018.10.18-18.24.09:635][429]LogFbx: =================================================
+[2018.10.18-18.24.09:635][429]LogFbx: Dumping Node START [pCylinder4] 
+[2018.10.18-18.24.09:635][429]LogFbx: 	Total Deformer Count -1514791744.
+[2018.10.18-18.24.09:635][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.09:635][429]LogFbx: 		[Node Attribute Child 1] pCylinder4 (Type Mesh).
+[2018.10.18-18.24.09:635][429]LogFbx: Dumping Node END [pCylinder4]
+[2018.10.18-18.24.09:635][429]LogFbx: =================================================
+[2018.10.18-18.24.09:636][429]LogFbx: Dumping Node START [pCylinder5] 
+[2018.10.18-18.24.09:636][429]LogFbx: 	Total Deformer Count -1514791744.
+[2018.10.18-18.24.09:636][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.09:636][429]LogFbx: 		[Node Attribute Child 1] pCylinder5 (Type Mesh).
+[2018.10.18-18.24.09:636][429]LogFbx: Dumping Node END [pCylinder5]
+[2018.10.18-18.24.09:636][429]LogFbx: =================================================
+[2018.10.18-18.24.09:636][429]LogFbx: Dumping Node START [pCylinder6] 
+[2018.10.18-18.24.09:636][429]LogFbx: 	Total Deformer Count -1516060096.
+[2018.10.18-18.24.09:636][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.09:636][429]LogFbx: 		[Node Attribute Child 1] pCylinder6 (Type Mesh).
+[2018.10.18-18.24.09:636][429]LogFbx: Dumping Node END [pCylinder6]
+[2018.10.18-18.24.09:636][429]LogFbx: =================================================
+[2018.10.18-18.24.09:636][429]LogFbx: Dumping Node START [pCylinder7] 
+[2018.10.18-18.24.09:636][429]LogFbx: 	Total Deformer Count -1516060096.
+[2018.10.18-18.24.09:636][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.09:636][429]LogFbx: 		[Node Attribute Child 1] pCylinder7 (Type Mesh).
+[2018.10.18-18.24.09:636][429]LogFbx: Dumping Node END [pCylinder7]
+[2018.10.18-18.24.09:636][429]LogFbx: =================================================
+[2018.10.18-18.24.09:636][429]LogFbx: Dumping Node START [pCylinder8] 
+[2018.10.18-18.24.09:636][429]LogFbx: 	Total Deformer Count -1516060096.
+[2018.10.18-18.24.09:636][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.09:636][429]LogFbx: 		[Node Attribute Child 1] pCylinder8 (Type Mesh).
+[2018.10.18-18.24.09:636][429]LogFbx: Dumping Node END [pCylinder8]
+[2018.10.18-18.24.09:636][429]LogFbx: =================================================
+[2018.10.18-18.24.09:636][429]LogFbx: Dumping Node START [pCylinder9] 
+[2018.10.18-18.24.09:636][429]LogFbx: 	Total Deformer Count -1516060096.
+[2018.10.18-18.24.09:636][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.09:636][429]LogFbx: 		[Node Attribute Child 1] pCylinder9 (Type Mesh).
+[2018.10.18-18.24.09:636][429]LogFbx: Dumping Node END [pCylinder9]
+[2018.10.18-18.24.09:636][429]LogFbx: =================================================
+[2018.10.18-18.24.09:636][429]LogFbx: Dumping Node START [pCylinder10] 
+[2018.10.18-18.24.09:636][429]LogFbx: 	Total Deformer Count -1516060096.
+[2018.10.18-18.24.09:636][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.09:636][429]LogFbx: 		[Node Attribute Child 1] pCylinder10 (Type Mesh).
+[2018.10.18-18.24.09:636][429]LogFbx: Dumping Node END [pCylinder10]
+[2018.10.18-18.24.09:636][429]LogFbx: =================================================
+[2018.10.18-18.24.09:636][429]LogFbx: Dumping Node START [pCylinder11] 
+[2018.10.18-18.24.09:636][429]LogFbx: 	Total Deformer Count -1516060096.
+[2018.10.18-18.24.09:636][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.09:636][429]LogFbx: 		[Node Attribute Child 1] pCylinder11 (Type Mesh).
+[2018.10.18-18.24.09:636][429]LogFbx: Dumping Node END [pCylinder11]
+[2018.10.18-18.24.11:266][429]LogSlate: Window 'FBX Scene Import Options' being destroyed
+[2018.10.18-18.24.11:277][429]LogFbx: =================================================
+[2018.10.18-18.24.11:278][429]LogFbx: Dumping Node START [pCube1] 
+[2018.10.18-18.24.11:278][429]LogFbx: 	Total Deformer Count -523923768.
+[2018.10.18-18.24.11:278][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.11:278][429]LogFbx: 		[Node Attribute Child 1] pCube1 (Type Mesh).
+[2018.10.18-18.24.11:278][429]LogFbx: Dumping Node END [pCube1]
+[2018.10.18-18.24.11:278][429]LogFbx: =================================================
+[2018.10.18-18.24.11:278][429]LogFbx: Dumping Node START [pDisc1] 
+[2018.10.18-18.24.11:278][429]LogFbx: 	Total Deformer Count -523923768.
+[2018.10.18-18.24.11:278][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.11:278][429]LogFbx: 		[Node Attribute Child 1] pDisc1 (Type Mesh).
+[2018.10.18-18.24.11:278][429]LogFbx: Dumping Node END [pDisc1]
+[2018.10.18-18.24.11:278][429]LogFbx: =================================================
+[2018.10.18-18.24.11:278][429]LogFbx: Dumping Node START [pCone1] 
+[2018.10.18-18.24.11:278][429]LogFbx: 	Total Deformer Count -523923768.
+[2018.10.18-18.24.11:278][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.11:278][429]LogFbx: 		[Node Attribute Child 1] pCone1 (Type Mesh).
+[2018.10.18-18.24.11:278][429]LogFbx: Dumping Node END [pCone1]
+[2018.10.18-18.24.11:278][429]LogFbx: =================================================
+[2018.10.18-18.24.11:278][429]LogFbx: Dumping Node START [pTorus1] 
+[2018.10.18-18.24.11:278][429]LogFbx: 	Total Deformer Count -523923768.
+[2018.10.18-18.24.11:278][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.11:278][429]LogFbx: 		[Node Attribute Child 1] pTorus1 (Type Mesh).
+[2018.10.18-18.24.11:278][429]LogFbx: Dumping Node END [pTorus1]
+[2018.10.18-18.24.11:278][429]LogFbx: =================================================
+[2018.10.18-18.24.11:278][429]LogFbx: Dumping Node START [pPlatonic1] 
+[2018.10.18-18.24.11:278][429]LogFbx: 	Total Deformer Count -1520756672.
+[2018.10.18-18.24.11:278][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.11:278][429]LogFbx: 		[Node Attribute Child 1] pPlatonic1 (Type Mesh).
+[2018.10.18-18.24.11:278][429]LogFbx: Dumping Node END [pPlatonic1]
+[2018.10.18-18.24.11:278][429]LogFbx: =================================================
+[2018.10.18-18.24.11:278][429]LogFbx: Dumping Node START [pCylinder1] 
+[2018.10.18-18.24.11:278][429]LogFbx: 	Total Deformer Count -1520756672.
+[2018.10.18-18.24.11:278][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.11:278][429]LogFbx: 		[Node Attribute Child 1] pCylinder1 (Type Mesh).
+[2018.10.18-18.24.11:278][429]LogFbx: Dumping Node END [pCylinder1]
+[2018.10.18-18.24.11:278][429]LogFbx: =================================================
+[2018.10.18-18.24.11:278][429]LogFbx: Dumping Node START [pCylinder2] 
+[2018.10.18-18.24.11:278][429]LogFbx: 	Total Deformer Count -1520756672.
+[2018.10.18-18.24.11:278][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.11:278][429]LogFbx: 		[Node Attribute Child 1] pCylinder2 (Type Mesh).
+[2018.10.18-18.24.11:278][429]LogFbx: Dumping Node END [pCylinder2]
+[2018.10.18-18.24.11:278][429]LogFbx: =================================================
+[2018.10.18-18.24.11:278][429]LogFbx: Dumping Node START [pCylinder3] 
+[2018.10.18-18.24.11:278][429]LogFbx: 	Total Deformer Count -1520756672.
+[2018.10.18-18.24.11:278][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.11:278][429]LogFbx: 		[Node Attribute Child 1] pCylinder3 (Type Mesh).
+[2018.10.18-18.24.11:278][429]LogFbx: Dumping Node END [pCylinder3]
+[2018.10.18-18.24.11:278][429]LogFbx: =================================================
+[2018.10.18-18.24.11:278][429]LogFbx: Dumping Node START [pCylinder4] 
+[2018.10.18-18.24.11:278][429]LogFbx: 	Total Deformer Count -1520756672.
+[2018.10.18-18.24.11:278][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.11:278][429]LogFbx: 		[Node Attribute Child 1] pCylinder4 (Type Mesh).
+[2018.10.18-18.24.11:278][429]LogFbx: Dumping Node END [pCylinder4]
+[2018.10.18-18.24.11:278][429]LogFbx: =================================================
+[2018.10.18-18.24.11:278][429]LogFbx: Dumping Node START [pCylinder5] 
+[2018.10.18-18.24.11:278][429]LogFbx: 	Total Deformer Count -1520756672.
+[2018.10.18-18.24.11:278][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.11:278][429]LogFbx: 		[Node Attribute Child 1] pCylinder5 (Type Mesh).
+[2018.10.18-18.24.11:278][429]LogFbx: Dumping Node END [pCylinder5]
+[2018.10.18-18.24.11:278][429]LogFbx: =================================================
+[2018.10.18-18.24.11:278][429]LogFbx: Dumping Node START [pCylinder6] 
+[2018.10.18-18.24.11:278][429]LogFbx: 	Total Deformer Count -1520756672.
+[2018.10.18-18.24.11:278][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.11:278][429]LogFbx: 		[Node Attribute Child 1] pCylinder6 (Type Mesh).
+[2018.10.18-18.24.11:278][429]LogFbx: Dumping Node END [pCylinder6]
+[2018.10.18-18.24.11:278][429]LogFbx: =================================================
+[2018.10.18-18.24.11:278][429]LogFbx: Dumping Node START [pCylinder7] 
+[2018.10.18-18.24.11:278][429]LogFbx: 	Total Deformer Count -1520756672.
+[2018.10.18-18.24.11:278][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.11:278][429]LogFbx: 		[Node Attribute Child 1] pCylinder7 (Type Mesh).
+[2018.10.18-18.24.11:278][429]LogFbx: Dumping Node END [pCylinder7]
+[2018.10.18-18.24.11:278][429]LogFbx: =================================================
+[2018.10.18-18.24.11:278][429]LogFbx: Dumping Node START [pCylinder8] 
+[2018.10.18-18.24.11:278][429]LogFbx: 	Total Deformer Count -1520756672.
+[2018.10.18-18.24.11:278][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.11:278][429]LogFbx: 		[Node Attribute Child 1] pCylinder8 (Type Mesh).
+[2018.10.18-18.24.11:278][429]LogFbx: Dumping Node END [pCylinder8]
+[2018.10.18-18.24.11:278][429]LogFbx: =================================================
+[2018.10.18-18.24.11:278][429]LogFbx: Dumping Node START [pCylinder9] 
+[2018.10.18-18.24.11:278][429]LogFbx: 	Total Deformer Count -1520756672.
+[2018.10.18-18.24.11:279][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.11:279][429]LogFbx: 		[Node Attribute Child 1] pCylinder9 (Type Mesh).
+[2018.10.18-18.24.11:279][429]LogFbx: Dumping Node END [pCylinder9]
+[2018.10.18-18.24.11:279][429]LogFbx: =================================================
+[2018.10.18-18.24.11:279][429]LogFbx: Dumping Node START [pCylinder10] 
+[2018.10.18-18.24.11:279][429]LogFbx: 	Total Deformer Count -1520756672.
+[2018.10.18-18.24.11:279][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.11:279][429]LogFbx: 		[Node Attribute Child 1] pCylinder10 (Type Mesh).
+[2018.10.18-18.24.11:279][429]LogFbx: Dumping Node END [pCylinder10]
+[2018.10.18-18.24.11:279][429]LogFbx: =================================================
+[2018.10.18-18.24.11:279][429]LogFbx: Dumping Node START [pCylinder11] 
+[2018.10.18-18.24.11:279][429]LogFbx: 	Total Deformer Count -1520756672.
+[2018.10.18-18.24.11:279][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.11:279][429]LogFbx: 		[Node Attribute Child 1] pCylinder11 (Type Mesh).
+[2018.10.18-18.24.11:279][429]LogFbx: Dumping Node END [pCylinder11]
+[2018.10.18-18.24.11:279][429]LogFbx: =================================================
+[2018.10.18-18.24.11:279][429]LogFbx: Dumping Node START [pPlatonic1] 
+[2018.10.18-18.24.11:279][429]LogFbx: 	Total Deformer Count -1520756672.
+[2018.10.18-18.24.11:279][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.11:279][429]LogFbx: 		[Node Attribute Child 1] pPlatonic1 (Type Mesh).
+[2018.10.18-18.24.11:279][429]LogFbx: Dumping Node END [pPlatonic1]
+[2018.10.18-18.24.11:279][429]LogFbx: =================================================
+[2018.10.18-18.24.11:279][429]LogFbx: Dumping Node START [pCube1] 
+[2018.10.18-18.24.11:279][429]LogFbx: 	Total Deformer Count -523923096.
+[2018.10.18-18.24.11:279][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.11:279][429]LogFbx: 		[Node Attribute Child 1] pCube1 (Type Mesh).
+[2018.10.18-18.24.11:279][429]LogFbx: Dumping Node END [pCube1]
+[2018.10.18-18.24.11:279][429]LogFbx: =================================================
+[2018.10.18-18.24.11:279][429]LogFbx: Dumping Node START [pDisc1] 
+[2018.10.18-18.24.11:279][429]LogFbx: 	Total Deformer Count -523923096.
+[2018.10.18-18.24.11:279][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.11:279][429]LogFbx: 		[Node Attribute Child 1] pDisc1 (Type Mesh).
+[2018.10.18-18.24.11:279][429]LogFbx: Dumping Node END [pDisc1]
+[2018.10.18-18.24.11:279][429]LogFbx: =================================================
+[2018.10.18-18.24.11:279][429]LogFbx: Dumping Node START [pCone1] 
+[2018.10.18-18.24.11:279][429]LogFbx: 	Total Deformer Count -523923096.
+[2018.10.18-18.24.11:279][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.11:279][429]LogFbx: 		[Node Attribute Child 1] pCone1 (Type Mesh).
+[2018.10.18-18.24.11:279][429]LogFbx: Dumping Node END [pCone1]
+[2018.10.18-18.24.11:279][429]LogFbx: =================================================
+[2018.10.18-18.24.11:279][429]LogFbx: Dumping Node START [pTorus1] 
+[2018.10.18-18.24.11:279][429]LogFbx: 	Total Deformer Count -523923096.
+[2018.10.18-18.24.11:279][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.11:279][429]LogFbx: 		[Node Attribute Child 1] pTorus1 (Type Mesh).
+[2018.10.18-18.24.11:279][429]LogFbx: Dumping Node END [pTorus1]
+[2018.10.18-18.24.11:279][429]LogFbx: =================================================
+[2018.10.18-18.24.11:279][429]LogFbx: Dumping Node START [pCylinder1] 
+[2018.10.18-18.24.11:279][429]LogFbx: 	Total Deformer Count -1520752192.
+[2018.10.18-18.24.11:279][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.11:279][429]LogFbx: 		[Node Attribute Child 1] pCylinder1 (Type Mesh).
+[2018.10.18-18.24.11:279][429]LogFbx: Dumping Node END [pCylinder1]
+[2018.10.18-18.24.11:279][429]LogFbx: =================================================
+[2018.10.18-18.24.11:279][429]LogFbx: Dumping Node START [pCylinder2] 
+[2018.10.18-18.24.11:279][429]LogFbx: 	Total Deformer Count -1520752192.
+[2018.10.18-18.24.11:279][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.11:279][429]LogFbx: 		[Node Attribute Child 1] pCylinder2 (Type Mesh).
+[2018.10.18-18.24.11:279][429]LogFbx: Dumping Node END [pCylinder2]
+[2018.10.18-18.24.11:279][429]LogFbx: =================================================
+[2018.10.18-18.24.11:279][429]LogFbx: Dumping Node START [pCylinder3] 
+[2018.10.18-18.24.11:279][429]LogFbx: 	Total Deformer Count -1520752192.
+[2018.10.18-18.24.11:279][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.11:279][429]LogFbx: 		[Node Attribute Child 1] pCylinder3 (Type Mesh).
+[2018.10.18-18.24.11:279][429]LogFbx: Dumping Node END [pCylinder3]
+[2018.10.18-18.24.11:279][429]LogFbx: =================================================
+[2018.10.18-18.24.11:279][429]LogFbx: Dumping Node START [pCylinder4] 
+[2018.10.18-18.24.11:279][429]LogFbx: 	Total Deformer Count -1520752192.
+[2018.10.18-18.24.11:279][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.11:279][429]LogFbx: 		[Node Attribute Child 1] pCylinder4 (Type Mesh).
+[2018.10.18-18.24.11:279][429]LogFbx: Dumping Node END [pCylinder4]
+[2018.10.18-18.24.11:279][429]LogFbx: =================================================
+[2018.10.18-18.24.11:279][429]LogFbx: Dumping Node START [pCylinder5] 
+[2018.10.18-18.24.11:279][429]LogFbx: 	Total Deformer Count -1520752192.
+[2018.10.18-18.24.11:279][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.11:279][429]LogFbx: 		[Node Attribute Child 1] pCylinder5 (Type Mesh).
+[2018.10.18-18.24.11:279][429]LogFbx: Dumping Node END [pCylinder5]
+[2018.10.18-18.24.11:280][429]LogFbx: =================================================
+[2018.10.18-18.24.11:280][429]LogFbx: Dumping Node START [pCylinder6] 
+[2018.10.18-18.24.11:280][429]LogFbx: 	Total Deformer Count -1520752192.
+[2018.10.18-18.24.11:280][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.11:280][429]LogFbx: 		[Node Attribute Child 1] pCylinder6 (Type Mesh).
+[2018.10.18-18.24.11:280][429]LogFbx: Dumping Node END [pCylinder6]
+[2018.10.18-18.24.11:280][429]LogFbx: =================================================
+[2018.10.18-18.24.11:280][429]LogFbx: Dumping Node START [pCylinder7] 
+[2018.10.18-18.24.11:280][429]LogFbx: 	Total Deformer Count -1520752192.
+[2018.10.18-18.24.11:280][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.11:280][429]LogFbx: 		[Node Attribute Child 1] pCylinder7 (Type Mesh).
+[2018.10.18-18.24.11:280][429]LogFbx: Dumping Node END [pCylinder7]
+[2018.10.18-18.24.11:280][429]LogFbx: =================================================
+[2018.10.18-18.24.11:280][429]LogFbx: Dumping Node START [pCylinder8] 
+[2018.10.18-18.24.11:280][429]LogFbx: 	Total Deformer Count -1520752192.
+[2018.10.18-18.24.11:280][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.11:280][429]LogFbx: 		[Node Attribute Child 1] pCylinder8 (Type Mesh).
+[2018.10.18-18.24.11:280][429]LogFbx: Dumping Node END [pCylinder8]
+[2018.10.18-18.24.11:280][429]LogFbx: =================================================
+[2018.10.18-18.24.11:280][429]LogFbx: Dumping Node START [pCylinder9] 
+[2018.10.18-18.24.11:280][429]LogFbx: 	Total Deformer Count -1520752192.
+[2018.10.18-18.24.11:280][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.11:280][429]LogFbx: 		[Node Attribute Child 1] pCylinder9 (Type Mesh).
+[2018.10.18-18.24.11:280][429]LogFbx: Dumping Node END [pCylinder9]
+[2018.10.18-18.24.11:280][429]LogFbx: =================================================
+[2018.10.18-18.24.11:280][429]LogFbx: Dumping Node START [pCylinder10] 
+[2018.10.18-18.24.11:280][429]LogFbx: 	Total Deformer Count -1520752192.
+[2018.10.18-18.24.11:280][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.11:280][429]LogFbx: 		[Node Attribute Child 1] pCylinder10 (Type Mesh).
+[2018.10.18-18.24.11:280][429]LogFbx: Dumping Node END [pCylinder10]
+[2018.10.18-18.24.11:280][429]LogFbx: =================================================
+[2018.10.18-18.24.11:280][429]LogFbx: Dumping Node START [pCylinder11] 
+[2018.10.18-18.24.11:280][429]LogFbx: 	Total Deformer Count -1520752192.
+[2018.10.18-18.24.11:280][429]LogFbx: 	Attribute () Type (4).
+[2018.10.18-18.24.11:280][429]LogFbx: 		[Node Attribute Child 1] pCylinder11 (Type Mesh).
+[2018.10.18-18.24.11:280][429]LogFbx: Dumping Node END [pCylinder11]
+[2018.10.18-18.24.11:375][429]LogLinker: Can't find file '/Game/lambert2'
+[2018.10.18-18.24.11:375][429]LogLinker: Can't find file '/Game/lambert2'
+[2018.10.18-18.24.11:380][429]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2018.10.18-18.24.11:418][429]LogLinker: Can't find file '/Game/phong1'
+[2018.10.18-18.24.11:418][429]LogLinker: Can't find file '/Game/phong1'
+[2018.10.18-18.24.11:422][429]LogMaterial: Display: Missing cached shader map for material phong1, compiling. 
+[2018.10.18-18.24.11:432][429]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.18-18.24.11:432][429]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.18-18.24.11:432][429]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.18-18.24.11:434][429]LogLinker: Can't find file '/Game/blinn2'
+[2018.10.18-18.24.11:435][429]LogLinker: Can't find file '/Game/blinn2'
+[2018.10.18-18.24.11:439][429]LogMaterial: Display: Missing cached shader map for material blinn2, compiling. 
+[2018.10.18-18.24.11:449][429]LogFbx: Warning: Triangulating static mesh pCube1
+[2018.10.18-18.24.11:456][429]LogStaticMesh: Building static mesh pCube1...
+[2018.10.18-18.24.11:461][429]LogStaticMesh: Built static mesh [0.00s] /Game/pCube1.pCube1
+[2018.10.18-18.24.11:463][429]LogStaticMesh: Warning: pCube1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.10.18-18.24.11:463][429]LogStaticMesh: Warning: pCube1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.10.18-18.24.11:472][429]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.10.18-18.24.11:475][429]LogLinker: Can't find file '/Game/lambert4'
+[2018.10.18-18.24.11:475][429]LogLinker: Can't find file '/Game/lambert4'
+[2018.10.18-18.24.11:479][429]LogMaterial: Display: Missing cached shader map for material lambert4, compiling. 
+[2018.10.18-18.24.11:494][429]LogLinker: Can't find file '/Game/lambert3'
+[2018.10.18-18.24.11:494][429]LogLinker: Can't find file '/Game/lambert3'
+[2018.10.18-18.24.11:498][429]LogMaterial: Display: Missing cached shader map for material lambert3, compiling. 
+[2018.10.18-18.24.11:510][429]LogFbx: Warning: Triangulating static mesh pDisc1
+[2018.10.18-18.24.11:515][429]LogStaticMesh: Building static mesh pDisc1...
+[2018.10.18-18.24.11:517][429]LogStaticMesh: Built static mesh [0.00s] /Game/pDisc1.pDisc1
+[2018.10.18-18.24.11:526][429]LogLinker: Can't find file '/Game/blinn1'
+[2018.10.18-18.24.11:526][429]LogLinker: Can't find file '/Game/blinn1'
+[2018.10.18-18.24.11:530][429]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2018.10.18-18.24.11:540][429]LogFbx: Warning: Triangulating static mesh pCone1
+[2018.10.18-18.24.11:543][429]LogStaticMesh: Building static mesh pCone1...
+[2018.10.18-18.24.11:545][429]LogStaticMesh: Built static mesh [0.00s] /Game/pCone1.pCone1
+[2018.10.18-18.24.11:552][429]LogFbx: Warning: Triangulating static mesh pTorus1
+[2018.10.18-18.24.11:595][429]LogStaticMesh: Building static mesh pTorus1...
+[2018.10.18-18.24.11:610][429]LogStaticMesh: Built static mesh [0.02s] /Game/pTorus1.pTorus1
+[2018.10.18-18.24.11:620][429]LogLinker: Can't find file '/Game/phong2'
+[2018.10.18-18.24.11:620][429]LogLinker: Can't find file '/Game/phong2'
+[2018.10.18-18.24.11:624][429]LogMaterial: Display: Missing cached shader map for material phong2, compiling. 
+[2018.10.18-18.24.11:636][429]LogStaticMesh: Building static mesh pPlatonic1...
+[2018.10.18-18.24.11:637][429]LogStaticMesh: Built static mesh [0.00s] /Game/pPlatonic1.pPlatonic1
+[2018.10.18-18.24.11:643][429]LogFbx: Warning: Triangulating static mesh pCylinder1
+[2018.10.18-18.24.11:646][429]LogStaticMesh: Building static mesh pCylinder1...
+[2018.10.18-18.24.11:650][429]LogStaticMesh: Built static mesh [0.00s] /Game/pCylinder1.pCylinder1
+[2018.10.18-18.24.11:656][429]LogFbx: Warning: Triangulating static mesh pCylinder2
+[2018.10.18-18.24.11:659][429]LogStaticMesh: Building static mesh pCylinder2...
+[2018.10.18-18.24.11:662][429]LogStaticMesh: Built static mesh [0.00s] /Game/pCylinder2.pCylinder2
+[2018.10.18-18.24.11:669][429]LogFbx: Warning: Triangulating static mesh pCylinder3
+[2018.10.18-18.24.11:672][429]LogStaticMesh: Building static mesh pCylinder3...
+[2018.10.18-18.24.11:675][429]LogStaticMesh: Built static mesh [0.00s] /Game/pCylinder3.pCylinder3
+[2018.10.18-18.24.11:682][429]LogFbx: Warning: Triangulating static mesh pCylinder4
+[2018.10.18-18.24.11:686][429]LogStaticMesh: Building static mesh pCylinder4...
+[2018.10.18-18.24.11:689][429]LogStaticMesh: Built static mesh [0.00s] /Game/pCylinder4.pCylinder4
+[2018.10.18-18.24.11:695][429]LogFbx: Warning: Triangulating static mesh pCylinder5
+[2018.10.18-18.24.11:698][429]LogStaticMesh: Building static mesh pCylinder5...
+[2018.10.18-18.24.11:700][429]LogStaticMesh: Built static mesh [0.00s] /Game/pCylinder5.pCylinder5
+[2018.10.18-18.24.11:706][429]LogFbx: Warning: Triangulating static mesh pCylinder6
+[2018.10.18-18.24.11:711][429]LogStaticMesh: Building static mesh pCylinder6...
+[2018.10.18-18.24.11:713][429]LogStaticMesh: Built static mesh [0.00s] /Game/pCylinder6.pCylinder6
+[2018.10.18-18.24.11:720][429]LogFbx: Warning: Triangulating static mesh pCylinder7
+[2018.10.18-18.24.11:724][429]LogStaticMesh: Building static mesh pCylinder7...
+[2018.10.18-18.24.11:727][429]LogStaticMesh: Built static mesh [0.00s] /Game/pCylinder7.pCylinder7
+[2018.10.18-18.24.11:734][429]LogFbx: Warning: Triangulating static mesh pCylinder8
+[2018.10.18-18.24.11:739][429]LogStaticMesh: Building static mesh pCylinder8...
+[2018.10.18-18.24.11:742][429]LogStaticMesh: Built static mesh [0.00s] /Game/pCylinder8.pCylinder8
+[2018.10.18-18.24.11:749][429]LogFbx: Warning: Triangulating static mesh pCylinder9
+[2018.10.18-18.24.11:753][429]LogStaticMesh: Building static mesh pCylinder9...
+[2018.10.18-18.24.11:756][429]LogStaticMesh: Built static mesh [0.00s] /Game/pCylinder9.pCylinder9
+[2018.10.18-18.24.11:763][429]LogFbx: Warning: Triangulating static mesh pCylinder10
+[2018.10.18-18.24.11:768][429]LogStaticMesh: Building static mesh pCylinder10...
+[2018.10.18-18.24.11:772][429]LogStaticMesh: Built static mesh [0.00s] /Game/pCylinder10.pCylinder10
+[2018.10.18-18.24.11:778][429]LogFbx: Warning: Triangulating static mesh pCylinder11
+[2018.10.18-18.24.11:783][429]LogStaticMesh: Building static mesh pCylinder11...
+[2018.10.18-18.24.11:786][429]LogStaticMesh: Built static mesh [0.00s] /Game/pCylinder11.pCylinder11
+[2018.10.18-18.24.11:886][429]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FbxScene_order_temple.FbxScene_order_temple
+[2018.10.18-18.24.12:230][429]LogShaderCompilers: Display: Shaders left to compile 122
+[2018.10.18-18.24.12:474][429]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.10.18-18.24.13:462][429]LogShaderCompilers: Display: Shaders left to compile 112
+[2018.10.18-18.24.13:463][429]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.18-18.24.13:463][429]FBXImport: Warning: pCube1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.10.18-18.24.13:463][429]FBXImport: Warning: pCube1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.10.18-18.24.13:601][429]LogShaderCompilers: Display: Shaders left to compile 102
+[2018.10.18-18.24.14:686][500]LogShaderCompilers: Display: Shaders left to compile 92
+[2018.10.18-18.24.15:058][529]LogShaderCompilers: Display: Shaders left to compile 82
+[2018.10.18-18.24.15:068][530]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.10.18-18.24.16:441][664]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.10.18-18.24.16:663][685]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.10.18-18.24.17:289][746]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.10.18-18.24.17:592][778]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.10.18-18.24.18:702][895]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.18-18.24.19:145][941]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.18-18.24.19:252][951]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.18-18.24.29:264][132]LogSlate: Window 'Message Log' being destroyed
+[2018.10.18-18.24.29:267][132]LogSlate: Window 'Message Log' being destroyed
+[2018.10.18-18.24.36:945][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.18-18.24.52:276][885]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-18.24.52:336][892]LogSlate: Window 'FbxScene_order_temple*' being destroyed
+[2018.10.18-18.24.52:339][892]LogSlate: Window 'FbxScene_order_temple*' being destroyed
+[2018.10.18-18.25.00:421][849]Cmd: TRANSACTION UNDO
+[2018.10.18-18.25.00:421][849]LogEditorTransaction: Undo Move Actors
+[2018.10.18-18.25.05:384][440]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-18.25.05:707][478]LogSlate: Took 0.002452 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.18-18.25.21:298][338]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-18.25.36:839][195]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-18.25.43:381][972]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.18-18.25.45:327][199]LogEditorViewport: Clicking on Actor (LMB): FbxScene_order_temple_C (FbxScene_order_temple)
+[2018.10.18-18.25.47:718][478]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.18-18.25.48:609][585]MapCheck: New page: Map Check
+[2018.10.18-18.25.48:624][585]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.18-18.25.48:627][585]LightingResults: New page: Lighting Build - Oct 18, 2018, 10:25:48 AM
+[2018.10.18-18.25.48:666][585]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.10.18-18.25.48:780][585]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.10.18-18.25.48:790][585]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.10.18-18.25.49:838][585]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.10.18-18.25.49:838][585]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10116
+[2018.10.18-18.25.54:282][585]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.10.18-18.25.54:283][585]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.10.18-18.25.54:283][585]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.10.18-18.25.54:283][585]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.10.18-18.25.54:283][585]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.10.18-18.25.54:283][585]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.10.18-18.25.54:492][585]LogEditorBuildUtils: Build time 0:05
+[2018.10.18-18.25.54:522][586]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer blinn2, compiling. 
+[2018.10.18-18.25.54:528][586]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.18-18.25.54:528][586]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer blinn2, compiling. 
+[2018.10.18-18.25.54:542][587]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.18-18.25.54:542][587]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer phong2, compiling. 
+[2018.10.18-18.25.54:547][587]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.18-18.25.54:547][587]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer phong2, compiling. 
+[2018.10.18-18.25.54:562][588]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.18-18.25.54:562][588]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer phong1, compiling. 
+[2018.10.18-18.25.54:569][588]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer phong1, compiling. 
+[2018.10.18-18.25.54:586][589]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer blinn1, compiling. 
+[2018.10.18-18.25.54:592][589]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer blinn1, compiling. 
+[2018.10.18-18.25.54:605][590]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer lambert4, compiling. 
+[2018.10.18-18.25.54:611][590]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer lambert4, compiling. 
+[2018.10.18-18.25.54:624][591]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer lambert3, compiling. 
+[2018.10.18-18.25.54:630][591]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer lambert3, compiling. 
+[2018.10.18-18.25.54:642][592]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer lambert2, compiling. 
+[2018.10.18-18.25.54:647][592]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer lambert2, compiling. 
+[2018.10.18-18.25.56:943][593]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.18-18.25.56:943][593]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.18-18.26.01:621][973]LightingResults: Warning: bldg6_Form22_2 Object has overlapping UVs.
+[2018.10.18-18.26.01:621][973]LightingResults: bldg6_Form22_2 Lightmap UV are overlapping by 4.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.10.18-18.26.01:811][991]Job is a success!
+[2018.10.18-18.26.01:844][992]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.18-18.26.01:905][992]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.043s
+[2018.10.18-18.26.01:905][992]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.10.18-18.26.01:905][992]LogVolumetricLightmapImport:      BrickData 1280x10x5 = 2.3Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2018.10.18-18.26.01:905][992]LogVolumetricLightmapImport:      Bricks at Level
+[2018.10.18-18.26.01:905][992]LogVolumetricLightmapImport:          0: 0.2% covering 100.0% of volume
+[2018.10.18-18.26.01:905][992]LogVolumetricLightmapImport:          1: 3.9% covering 25.0% of volume
+[2018.10.18-18.26.01:905][992]LogVolumetricLightmapImport:          2: 95.8% covering 9.6% of volume
+[2018.10.18-18.26.01:947][992]LogMaterial: Warning: Material /Game/lambert2.lambert2 needed to have new flag set bUsedWithStaticLighting !
+[2018.10.18-18.26.01:950][992]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2018.10.18-18.26.01:977][992]LogMaterial: Warning: Material /Game/phong1.phong1 needed to have new flag set bUsedWithStaticLighting !
+[2018.10.18-18.26.01:979][992]LogMaterial: Display: Missing cached shader map for material phong1, compiling. 
+[2018.10.18-18.26.01:994][992]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.10.18-18.26.01:994][992]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.18-18.26.01:994][992]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.18-18.26.01:994][992]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.18-18.26.01:994][992]LogMaterial: Warning: Material /Game/blinn2.blinn2 needed to have new flag set bUsedWithStaticLighting !
+[2018.10.18-18.26.01:997][992]LogMaterial: Display: Missing cached shader map for material blinn2, compiling. 
+[2018.10.18-18.26.02:011][992]LogMaterial: Warning: Material /Game/lambert4.lambert4 needed to have new flag set bUsedWithStaticLighting !
+[2018.10.18-18.26.02:014][992]LogMaterial: Display: Missing cached shader map for material lambert4, compiling. 
+[2018.10.18-18.26.02:036][992]LogMaterial: Warning: Material /Game/lambert3.lambert3 needed to have new flag set bUsedWithStaticLighting !
+[2018.10.18-18.26.02:039][992]LogMaterial: Display: Missing cached shader map for material lambert3, compiling. 
+[2018.10.18-18.26.02:057][992]LogMaterial: Warning: Material /Game/blinn1.blinn1 needed to have new flag set bUsedWithStaticLighting !
+[2018.10.18-18.26.02:059][992]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2018.10.18-18.26.02:075][992]LogMaterial: Warning: Material /Game/phong2.phong2 needed to have new flag set bUsedWithStaticLighting !
+[2018.10.18-18.26.02:077][992]LogMaterial: Display: Missing cached shader map for material phong2, compiling. 
+[2018.10.18-18.26.02:746][992]LogShaderCompilers: Display: Shaders left to compile 186
+[2018.10.18-18.26.02:746][992]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.10.18-18.26.02:747][992]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.10.18-18.26.02:747][992]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2018.10.18-18.26.02:747][992]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2018.10.18-18.26.02:927][992]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2018.10.18-18.26.02:927][992]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X512)
+[2018.10.18-18.26.02:983][992]Lightmass on IMSRADAW16: 5.33 sec total, 155 ms importing, 9 ms setup, 1.00 sec photons, 4.11 sec processing, 0 ms extra exporting [63/63 mappings]. Threads: 28.6 sec total, 7.91 sec processing.
+[2018.10.18-18.26.03:027][992]LogStaticLightingSystem: Illumination: 14.3 sec (639 ms encoding lightmaps, 176 ms encoding shadowmaps)
+[2018.10.18-18.26.03:027][992]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.10.18-18.26.03:027][992]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.10.18-18.26.03:318][992]DumpUnbuiltLightIteractions
+[2018.10.18-18.26.03:318][992]Lights with unbuilt interactions: 0
+[2018.10.18-18.26.03:318][992]
+[2018.10.18-18.26.03:318][992]Primitives with unbuilt interactions: 0
+[2018.10.18-18.26.14:048][992]LogShaderCompilers: Display: Shaders left to compile 176
+[2018.10.18-18.26.14:048][992]LogShaderCompilers: Display: Shaders left to compile 166
+[2018.10.18-18.26.14:048][992]LogShaderCompilers: Display: Shaders left to compile 156
+[2018.10.18-18.26.14:048][992]LogShaderCompilers: Display: Shaders left to compile 146
+[2018.10.18-18.26.14:048][992]LogShaderCompilers: Display: Shaders left to compile 136
+[2018.10.18-18.26.14:048][992]LogShaderCompilers: Display: Shaders left to compile 126
+[2018.10.18-18.26.14:048][992]LogShaderCompilers: Display: Shaders left to compile 116
+[2018.10.18-18.26.14:048][992]LogShaderCompilers: Display: Shaders left to compile 106
+[2018.10.18-18.26.14:048][992]LogShaderCompilers: Display: Shaders left to compile 96
+[2018.10.18-18.26.14:048][992]LogShaderCompilers: Display: Shaders left to compile 86
+[2018.10.18-18.26.14:048][992]LogShaderCompilers: Display: Shaders left to compile 76
+[2018.10.18-18.26.14:048][992]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.10.18-18.26.14:048][992]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.10.18-18.26.14:048][992]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.10.18-18.26.14:048][992]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.10.18-18.26.14:048][992]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.10.18-18.26.14:048][992]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.18-18.26.14:048][992]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.18-18.26.14:089][993]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.10.18-18.26.14:089][993]MapCheck: New page: Delta-Scar-Map - Oct 18, 2018, 10:26:14 AM
+[2018.10.18-18.26.14:146][993]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 56.698ms to complete.
+[2018.10.18-18.26.14:148][993]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-18.26.31:226][ 44]LogSlate: Window 'Message Log' being destroyed
+[2018.10.18-18.26.31:230][ 44]LogSlate: Window 'Message Log' being destroyed
+[2018.10.18-18.26.32:281][169]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.18-18.26.34:214][394]LogEditorViewport: Clicking on Actor (LMB): FbxScene_order_temple_C (FbxScene_order_temple)
+[2018.10.18-18.26.37:396][772]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-18.26.40:235][111]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FbxScene_order_temple.FbxScene_order_temple
+[2018.10.18-18.26.40:482][111]LogSlate: Took 0.002191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.18-18.26.42:769][380]LogSlate: Window 'FbxScene_order_temple*' being destroyed
+[2018.10.18-18.26.44:227][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-18.26.51:049][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-18.26.59:511][369]LogEditorTransaction: Undo Set Scale
+[2018.10.18-18.27.00:238][369]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.721 s
+[2018.10.18-18.27.00:238][369]LogOutputDevice: Error: === Handled ensure: ===
+[2018.10.18-18.27.00:238][369]LogOutputDevice: Error: 
+[2018.10.18-18.27.00:238][369]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2018.10.18-18.27.00:238][369]LogOutputDevice: Error: 
+[2018.10.18-18.27.00:238][369]LogOutputDevice: Error: Stack: 
+[2018.10.18-18.27.00:238][369]LogOutputDevice: Error: [Callstack] 0x00007ffb79367136 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.18-18.27.00:238][369]LogOutputDevice: Error: [Callstack] 0x00007ffb790a0c82 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.18-18.27.00:238][369]LogOutputDevice: Error: [Callstack] 0x00007ffb790bb346 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.18-18.27.00:238][369]LogOutputDevice: Error: [Callstack] 0x00007ffb7403ee3f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.18-18.27.00:238][369]LogOutputDevice: Error: [Callstack] 0x00007ffb73fe4464 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.18-18.27.00:238][369]LogOutputDevice: Error: [Callstack] 0x00007ffb6afb41a9 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.10.18-18.27.00:238][369]LogOutputDevice: Error: [Callstack] 0x00007ffb6afb4ee5 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.10.18-18.27.00:238][369]LogOutputDevice: Error: [Callstack] 0x00007ffb6af61a51 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.10.18-18.27.00:238][369]LogOutputDevice: Error: [Callstack] 0x00007ffb754dd0d2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.18-18.27.00:238][369]LogOutputDevice: Error: [Callstack] 0x00007ffb754a3f79 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.18-18.27.00:238][369]LogOutputDevice: Error: [Callstack] 0x00007ffb75546a2e UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.18-18.27.00:238][369]LogOutputDevice: Error: [Callstack] 0x00007ffb753593b0 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.18-18.27.00:238][369]LogOutputDevice: Error: [Callstack] 0x00007ffb752f1444 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.18-18.27.00:238][369]LogOutputDevice: Error: [Callstack] 0x00007ffb70fd0004 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.18-18.27.00:238][369]LogOutputDevice: Error: [Callstack] 0x00007ffb70c48d60 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.18-18.27.00:238][369]LogOutputDevice: Error: [Callstack] 0x00007ffb70bdf869 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.18-18.27.00:238][369]LogOutputDevice: Error: [Callstack] 0x00007ffb70fd4823 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.18-18.27.00:238][369]LogOutputDevice: Error: [Callstack] 0x00007ffb70fbb540 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.18-18.27.00:238][369]LogOutputDevice: Error: [Callstack] 0x00007ffb70f6b514 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.18-18.27.00:238][369]LogOutputDevice: Error: [Callstack] 0x00007ffb70fc0efa UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.18-18.27.00:238][369]LogOutputDevice: Error: [Callstack] 0x00007ffb70b7b41b UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.18-18.27.00:238][369]LogOutputDevice: Error: [Callstack] 0x00007ffb70c0842e UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.18-18.27.00:238][369]LogOutputDevice: Error: [Callstack] 0x00007ffb70c55d8d UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.18-18.27.00:238][369]LogOutputDevice: Error: [Callstack] 0x00007ffb73fe4d16 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.18-18.27.00:238][369]LogOutputDevice: Error: [Callstack] 0x00007ffb7401015b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.18-18.27.00:238][369]LogOutputDevice: Error: [Callstack] 0x00007ffb73ff6485 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.18-18.27.00:238][369]LogOutputDevice: Error: [Callstack] 0x00007ffb74062d25 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.18-18.27.00:238][369]LogOutputDevice: Error: [Callstack] 0x00007ffb740a9acd UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.18-18.27.00:238][369]LogOutputDevice: Error: [Callstack] 0x00007ffb7403c77f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.18-18.27.00:238][369]LogOutputDevice: Error: [Callstack] 0x00007ffb70be05b8 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.18-18.27.00:239][369]LogOutputDevice: Error: [Callstack] 0x00007ffb752f24df UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.18-18.27.00:239][369]LogOutputDevice: Error: [Callstack] 0x00007ffb7533437e UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.18-18.27.00:239][369]LogOutputDevice: Error: [Callstack] 0x00007ffb748934fe UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.18-18.27.00:239][369]LogOutputDevice: Error: [Callstack] 0x00007ffb74881498 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.18-18.27.00:239][369]LogOutputDevice: Error: [Callstack] 0x00007ffb752b70ac UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.18-18.27.00:239][369]LogOutputDevice: Error: [Callstack] 0x00007ffb7533606c UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.18-18.27.00:239][369]LogOutputDevice: Error: [Callstack] 0x00007ffb75329846 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.18-18.27.00:239][369]LogOutputDevice: Error: [Callstack] 0x00007ffb78a6ce45 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.18-18.27.00:239][369]LogOutputDevice: Error: [Callstack] 0x00007ffb78a60270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.18-18.27.00:239][369]LogOutputDevice: Error: [Callstack] 0x00007ffb78a6f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.18-18.27.00:239][369]LogOutputDevice: Error: [Callstack] 0x00007ffb78a5c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.18-18.27.00:239][369]LogOutputDevice: Error: [Callstack] 0x00007ffc10316cc1 USER32.dll!UnknownFunction []
+[2018.10.18-18.27.00:239][369]LogOutputDevice: Error: [Callstack] 0x00007ffc10316693 USER32.dll!UnknownFunction []
+[2018.10.18-18.27.00:239][369]LogOutputDevice: Error: [Callstack] 0x00007ffb78a70646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.18-18.27.00:239][369]LogOutputDevice: Error: [Callstack] 0x00007ff613e454e5 UE4Editor.exe!UnknownFunction []
+[2018.10.18-18.27.00:239][369]LogOutputDevice: Error: [Callstack] 0x00007ff613e55b3c UE4Editor.exe!UnknownFunction []
+[2018.10.18-18.27.00:239][369]LogOutputDevice: Error: [Callstack] 0x00007ff613e55bba UE4Editor.exe!UnknownFunction []
+[2018.10.18-18.27.00:239][369]LogOutputDevice: Error: [Callstack] 0x00007ff613e63dac UE4Editor.exe!UnknownFunction []
+[2018.10.18-18.27.00:239][369]LogOutputDevice: Error: [Callstack] 0x00007ff613e65aaa UE4Editor.exe!UnknownFunction []
+[2018.10.18-18.27.00:239][369]LogOutputDevice: Error: [Callstack] 0x00007ffc12303034 KERNEL32.DLL!UnknownFunction []
+[2018.10.18-18.27.00:239][369]LogOutputDevice: Error: [Callstack] 0x00007ffc12721431 ntdll.dll!UnknownFunction []
+[2018.10.18-18.27.00:239][369]LogOutputDevice: Error: 
+[2018.10.18-18.27.00:246][369]LogStats:                SubmitErrorReport -  0.000 s
+[2018.10.18-18.27.00:842][369]LogStats:                    SendNewReport -  0.597 s
+[2018.10.18-18.27.00:842][369]LogStats:             FDebug::EnsureFailed -  1.325 s
+[2018.10.18-18.27.00:870][369]Cmd: TRANSACTION UNDO
+[2018.10.18-18.27.00:870][369]LogEditorTransaction: Undo Clicking on Actors
+[2018.10.18-18.27.00:876][369]Cmd: TRANSACTION UNDO
+[2018.10.18-18.27.00:876][369]LogEditorTransaction: Undo Clicking on Actors
+[2018.10.18-18.27.04:412][786]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-18.27.11:611][640]LogStaticMesh: Warning: C:\Users\sapienfm\Documents\GitHub\DeltaScarMap\Delta_Scar_Map\Content\Delta-Scar-Map.umap: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.FbxScene_order_temple_C_0.pDisc1
+Current: 2000.000000,-0.000004,119.798325|0.000000,0.000000,89.999985|50.000000,50.000000,50.000000 Cached: 2000.000000,-4.979833,20.000000|0.000000,0.000000,0.000000|5.000000,5.000000,5.000000
+[2018.10.18-18.27.13:082][807]LogStaticMesh: Warning: C:\Users\sapienfm\Documents\GitHub\DeltaScarMap\Delta_Scar_Map\Content\Delta-Scar-Map.umap: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.FbxScene_order_temple_C_0.pCone1
+Current: 2000.000000,-0.000008,160.000000|0.000000,0.000000,-89.999977|40.000000,7.207531,40.000000 Cached: 2000.000000,-9.000000,20.000002|0.000000,0.000000,-179.999969|4.000000,0.720753,4.000000
+[2018.10.18-18.27.14:448][962]LogStaticMesh: Warning: C:\Users\sapienfm\Documents\GitHub\DeltaScarMap\Delta_Scar_Map\Content\Delta-Scar-Map.umap: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.FbxScene_order_temple_C_0.pTorus1
+Current: 2000.000000,-0.000008,169.999985|0.000000,0.000000,89.999985|40.000000,20.000000,40.000000 Cached: 2000.000000,-9.999999,20.000002|0.000000,0.000000,0.000000|4.000000,2.000000,4.000000
+[2018.10.18-18.27.15:824][118]LogStaticMesh: Warning: C:\Users\sapienfm\Documents\GitHub\DeltaScarMap\Delta_Scar_Map\Content\Delta-Scar-Map.umap: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.FbxScene_order_temple_C_0.pPlatonic1
+Current: 2000.000000,-0.000008,175.000000|0.000000,0.000000,89.999985|10.000000,10.000000,10.000000 Cached: 2000.000000,-10.500001,20.000002|0.000000,0.000000,0.000000|1.000000,1.000000,1.000000
+[2018.10.18-18.27.17:025][253]LogStaticMesh: Warning: C:\Users\sapienfm\Documents\GitHub\DeltaScarMap\Delta_Scar_Map\Content\Delta-Scar-Map.umap: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.FbxScene_order_temple_C_0.pCylinder1
+Current: 2050.000000,49.999992,70.000000|0.000000,0.000000,89.999985|5.000000,50.000000,5.000000 Cached: 2005.000000,0.000001,25.000000|0.000000,0.000000,0.000000|0.500000,5.000000,0.500000
+[2018.10.18-18.27.18:570][429]LogStaticMesh: Warning: C:\Users\sapienfm\Documents\GitHub\DeltaScarMap\Delta_Scar_Map\Content\Delta-Scar-Map.umap: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.FbxScene_order_temple_C_0.pCylinder2
+Current: 1950.000000,-49.999992,70.000000|0.000000,0.000000,89.999985|5.000000,50.000000,5.000000 Cached: 1995.000000,-0.000001,15.000000|0.000000,0.000000,0.000000|0.500000,5.000000,0.500000
+[2018.10.18-18.27.20:010][593]LogStaticMesh: Warning: C:\Users\sapienfm\Documents\GitHub\DeltaScarMap\Delta_Scar_Map\Content\Delta-Scar-Map.umap: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.FbxScene_order_temple_C_0.pCylinder3
+Current: 2050.000000,-49.999992,70.000000|0.000000,0.000000,89.999985|5.000000,50.000000,5.000000 Cached: 2005.000000,-0.000001,15.000000|0.000000,0.000000,0.000000|0.500000,5.000000,0.500000
+[2018.10.18-18.27.21:381][748]LogStaticMesh: Warning: C:\Users\sapienfm\Documents\GitHub\DeltaScarMap\Delta_Scar_Map\Content\Delta-Scar-Map.umap: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.FbxScene_order_temple_C_0.pCylinder4
+Current: 1950.000000,49.999992,70.000000|0.000000,0.000000,89.999985|5.000000,50.000000,5.000000 Cached: 1995.000000,0.000001,25.000000|0.000000,0.000000,0.000000|0.500000,5.000000,0.500000
+[2018.10.18-18.27.23:854][ 36]LogStaticMesh: Warning: C:\Users\sapienfm\Documents\GitHub\DeltaScarMap\Delta_Scar_Map\Content\Delta-Scar-Map.umap: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.FbxScene_order_temple_C_0.pCylinder5
+Current: 1950.000000,0.000000,70.000000|0.000000,0.000000,89.999985|5.000000,50.000000,5.000000 Cached: 1990.000000,9.959665,19.999998|0.000000,0.000000,0.000000|1.000000,10.000000,1.000000
+[2018.10.18-18.27.28:843][620]LogStaticMesh: Warning: C:\Users\sapienfm\Documents\GitHub\DeltaScarMap\Delta_Scar_Map\Content\Delta-Scar-Map.umap: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.FbxScene_order_temple_C_0.pCylinder6
+Current: 2050.000000,0.000000,70.000000|0.000000,0.000000,89.999985|5.000000,50.000000,5.000000 Cached: 2005.000000,0.000000,20.000000|0.000000,0.000000,0.000000|0.500000,5.000000,0.500000
+[2018.10.18-18.27.33:065][117]LogStaticMesh: Warning: C:\Users\sapienfm\Documents\GitHub\DeltaScarMap\Delta_Scar_Map\Content\Delta-Scar-Map.umap: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.FbxScene_order_temple_C_0.pCylinder7
+Current: 2000.000000,49.999992,70.000000|0.000000,0.000000,89.999985|5.000000,50.000000,5.000000 Cached: 2000.000000,0.000001,25.000000|0.000000,0.000000,0.000000|0.500000,5.000000,0.500000
+[2018.10.18-18.27.36:799][556]LogStaticMesh: Warning: C:\Users\sapienfm\Documents\GitHub\DeltaScarMap\Delta_Scar_Map\Content\Delta-Scar-Map.umap: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.FbxScene_order_temple_C_0.pCylinder8
+Current: 2000.000000,-49.999992,120.000000|-0.000020,-89.999985,-179.999969|5.000000,60.000004,5.000000 Cached: 2000.000000,-5.000001,15.000002|-90.000000,56.309914,33.690109|0.500000,6.000000,0.500000
+[2018.10.18-18.27.39:955][925]LogStaticMesh: Warning: C:\Users\sapienfm\Documents\GitHub\DeltaScarMap\Delta_Scar_Map\Content\Delta-Scar-Map.umap: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.FbxScene_order_temple_C_0.pCylinder9
+Current: 2000.000000,49.999996,119.999992|-0.000020,-89.999985,-179.999969|5.000000,60.000004,5.000000 Cached: 2000.000000,-4.999999,25.000000|-90.000000,56.309914,33.690109|0.500000,6.000000,0.500000
+[2018.10.18-18.27.42:827][261]LogStaticMesh: Warning: C:\Users\sapienfm\Documents\GitHub\DeltaScarMap\Delta_Scar_Map\Content\Delta-Scar-Map.umap: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.FbxScene_order_temple_C_0.pCylinder10
+Current: 2050.000000,-0.000004,119.999992|0.000000,0.000000,-180.000000|5.000000,60.000004,5.000000 Cached: 2005.000000,-5.000000,20.000000|0.000000,0.000000,90.000015|0.500000,6.000000,0.500000
+[2018.10.18-18.27.46:364][676]LogStaticMesh: Warning: C:\Users\sapienfm\Documents\GitHub\DeltaScarMap\Delta_Scar_Map\Content\Delta-Scar-Map.umap: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.FbxScene_order_temple_C_0.pCylinder11
+Current: 1950.000000,-0.000004,119.999992|0.000000,0.000000,-180.000000|5.000000,60.000004,5.000000 Cached: 1995.000000,-5.000000,20.000000|0.000000,0.000000,90.000015|0.500000,6.000000,0.500000
+[2018.10.18-18.27.51:431][273]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-18.28.25:494][334]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-18.28.35:281][505]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-18.28.37:639][788]Cmd: TRANSACTION UNDO
+[2018.10.18-18.28.37:639][788]LogEditorTransaction: Undo Set Rotation
+[2018.10.18-18.28.40:298][105]Cmd: TRANSACTION UNDO
+[2018.10.18-18.28.40:298][105]LogEditorTransaction: Undo Set Rotation
+[2018.10.18-18.30.48:183][593]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Delta-Scar-Map_Auto1F37FFDC6433B9D7669BE47AF4B8885E5.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/Delta-Scar-Map_Auto1.umap'
+[2018.10.18-18.30.48:188][593]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Delta-Scar-Map' took 0.187
+[2018.10.18-18.30.48:188][593]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.187
+[2018.10.18-18.30.48:190][593]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pCube1] ([1] browsable assets)...
+[2018.10.18-18.30.48:198][593]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/pCube1.pCube1]
+[2018.10.18-18.30.48:198][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/pCube1]
+[2018.10.18-18.30.48:198][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pCube1" FILE="../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/pCube1_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.10.18-18.30.48:212][593]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/pCube1_Auto19D5107B946BB0D3C1920CCB0D56E4FBA.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/pCube1_Auto1.uasset'
+[2018.10.18-18.30.48:213][593]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/order_temple] ([1] browsable assets)...
+[2018.10.18-18.30.48:213][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/order_temple]
+[2018.10.18-18.30.48:220][593]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/order_temple_Auto10BC81496469534AB7DD125A36E750DF1.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/order_temple_Auto1.uasset'
+[2018.10.18-18.30.48:221][593]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Delta-Scar-Map_BuiltData] ([1] browsable assets)...
+[2018.10.18-18.30.48:221][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/Delta-Scar-Map_BuiltData]
+[2018.10.18-18.30.48:269][593]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Delta-Scar-Map_BuiltData_Auto11702B680429C4C41CA15D385C91FFAE2.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/Delta-Scar-Map_BuiltData_Auto1.uasset'
+[2018.10.18-18.30.48:271][593]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/lambert2] ([1] browsable assets)...
+[2018.10.18-18.30.48:278][593]OBJ SavePackage:     Rendered thumbnail for [Material /Game/lambert2.lambert2]
+[2018.10.18-18.30.48:278][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/lambert2]
+[2018.10.18-18.30.48:278][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/lambert2" FILE="../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/lambert2_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.10.18-18.30.48:292][593]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/lambert2_Auto1B31FB8AC46820D47855222BA2A6BC2E2.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/lambert2_Auto1.uasset'
+[2018.10.18-18.30.48:293][593]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/phong1] ([1] browsable assets)...
+[2018.10.18-18.30.48:302][593]OBJ SavePackage:     Rendered thumbnail for [Material /Game/phong1.phong1]
+[2018.10.18-18.30.48:302][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/phong1]
+[2018.10.18-18.30.48:302][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/phong1" FILE="../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/phong1_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.10.18-18.30.48:316][593]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/phong1_Auto17442AC5348F70DF81C4B52AE43FBA40F.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/phong1_Auto1.uasset'
+[2018.10.18-18.30.48:317][593]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/blinn2] ([1] browsable assets)...
+[2018.10.18-18.30.48:326][593]OBJ SavePackage:     Rendered thumbnail for [Material /Game/blinn2.blinn2]
+[2018.10.18-18.30.48:326][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/blinn2]
+[2018.10.18-18.30.48:326][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blinn2" FILE="../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/blinn2_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.10.18-18.30.48:340][593]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/blinn2_Auto1EE581DCB45FEC3B3B59DB1AD1E574921.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/blinn2_Auto1.uasset'
+[2018.10.18-18.30.48:341][593]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pDisc1] ([1] browsable assets)...
+[2018.10.18-18.30.48:350][593]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/pDisc1.pDisc1]
+[2018.10.18-18.30.48:350][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/pDisc1]
+[2018.10.18-18.30.48:350][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pDisc1" FILE="../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/pDisc1_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.10.18-18.30.48:363][593]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/pDisc1_Auto1E910C1CD48A39E373BA69E8556693C2B.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/pDisc1_Auto1.uasset'
+[2018.10.18-18.30.48:364][593]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/lambert4] ([1] browsable assets)...
+[2018.10.18-18.30.48:373][593]OBJ SavePackage:     Rendered thumbnail for [Material /Game/lambert4.lambert4]
+[2018.10.18-18.30.48:373][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/lambert4]
+[2018.10.18-18.30.48:373][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/lambert4" FILE="../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/lambert4_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.10.18-18.30.48:388][593]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/lambert4_Auto198773FD64C5F460DEFA270BEAD58CD2B.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/lambert4_Auto1.uasset'
+[2018.10.18-18.30.48:390][593]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/lambert3] ([1] browsable assets)...
+[2018.10.18-18.30.48:398][593]OBJ SavePackage:     Rendered thumbnail for [Material /Game/lambert3.lambert3]
+[2018.10.18-18.30.48:398][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/lambert3]
+[2018.10.18-18.30.48:398][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/lambert3" FILE="../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/lambert3_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.10.18-18.30.48:413][593]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/lambert3_Auto15932331449284A620D9923A0412606E9.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/lambert3_Auto1.uasset'
+[2018.10.18-18.30.48:415][593]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pCone1] ([1] browsable assets)...
+[2018.10.18-18.30.48:423][593]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/pCone1.pCone1]
+[2018.10.18-18.30.48:423][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/pCone1]
+[2018.10.18-18.30.48:423][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pCone1" FILE="../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/pCone1_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.10.18-18.30.48:436][593]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/pCone1_Auto1378043C540BAAC955B98A2B47BD12351.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/pCone1_Auto1.uasset'
+[2018.10.18-18.30.48:437][593]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/blinn1] ([1] browsable assets)...
+[2018.10.18-18.30.48:445][593]OBJ SavePackage:     Rendered thumbnail for [Material /Game/blinn1.blinn1]
+[2018.10.18-18.30.48:445][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/blinn1]
+[2018.10.18-18.30.48:445][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blinn1" FILE="../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/blinn1_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.10.18-18.30.48:458][593]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/blinn1_Auto1B116C0E34078152804022C9893F778A6.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/blinn1_Auto1.uasset'
+[2018.10.18-18.30.48:459][593]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pTorus1] ([1] browsable assets)...
+[2018.10.18-18.30.48:468][593]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/pTorus1.pTorus1]
+[2018.10.18-18.30.48:468][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/pTorus1]
+[2018.10.18-18.30.48:468][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pTorus1" FILE="../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/pTorus1_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.10.18-18.30.48:486][593]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/pTorus1_Auto14E745CD8454DC3DB7593CD8392AFA95B.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/pTorus1_Auto1.uasset'
+[2018.10.18-18.30.48:487][593]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pPlatonic1] ([1] browsable assets)...
+[2018.10.18-18.30.48:496][593]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/pPlatonic1.pPlatonic1]
+[2018.10.18-18.30.48:496][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/pPlatonic1]
+[2018.10.18-18.30.48:509][593]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/pPlatonic1_Auto1DEC6BE924B959E0C10080598B8CE8E63.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/pPlatonic1_Auto1.uasset'
+[2018.10.18-18.30.48:510][593]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/phong2] ([1] browsable assets)...
+[2018.10.18-18.30.48:519][593]OBJ SavePackage:     Rendered thumbnail for [Material /Game/phong2.phong2]
+[2018.10.18-18.30.48:519][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/phong2]
+[2018.10.18-18.30.48:519][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/phong2" FILE="../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/phong2_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.10.18-18.30.48:532][593]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/phong2_Auto1FD6394A24EC480F6A83B549513CD2798.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/phong2_Auto1.uasset'
+[2018.10.18-18.30.48:534][593]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pCylinder1] ([1] browsable assets)...
+[2018.10.18-18.30.48:542][593]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/pCylinder1.pCylinder1]
+[2018.10.18-18.30.48:542][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/pCylinder1]
+[2018.10.18-18.30.48:556][593]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/pCylinder1_Auto15B424F5149C26FC4E69C89AA1BC95529.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/pCylinder1_Auto1.uasset'
+[2018.10.18-18.30.48:557][593]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pCylinder2] ([1] browsable assets)...
+[2018.10.18-18.30.48:566][593]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/pCylinder2.pCylinder2]
+[2018.10.18-18.30.48:566][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/pCylinder2]
+[2018.10.18-18.30.48:580][593]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/pCylinder2_Auto111003B124115D9B714FEDE8092D65B61.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/pCylinder2_Auto1.uasset'
+[2018.10.18-18.30.48:581][593]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pCylinder3] ([1] browsable assets)...
+[2018.10.18-18.30.48:590][593]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/pCylinder3.pCylinder3]
+[2018.10.18-18.30.48:590][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/pCylinder3]
+[2018.10.18-18.30.48:604][593]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/pCylinder3_Auto1AE4213E84C3C54EF7528EAA931DEDEC6.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/pCylinder3_Auto1.uasset'
+[2018.10.18-18.30.48:605][593]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pCylinder4] ([1] browsable assets)...
+[2018.10.18-18.30.48:614][593]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/pCylinder4.pCylinder4]
+[2018.10.18-18.30.48:614][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/pCylinder4]
+[2018.10.18-18.30.48:628][593]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/pCylinder4_Auto137BFA2CB4CC19DAF6CE6D4A1345380B3.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/pCylinder4_Auto1.uasset'
+[2018.10.18-18.30.48:629][593]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pCylinder5] ([1] browsable assets)...
+[2018.10.18-18.30.48:638][593]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/pCylinder5.pCylinder5]
+[2018.10.18-18.30.48:638][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/pCylinder5]
+[2018.10.18-18.30.48:653][593]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/pCylinder5_Auto19B78BD194C50B53CB081B5B6F6086D7E.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/pCylinder5_Auto1.uasset'
+[2018.10.18-18.30.48:654][593]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pCylinder6] ([1] browsable assets)...
+[2018.10.18-18.30.48:664][593]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/pCylinder6.pCylinder6]
+[2018.10.18-18.30.48:664][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/pCylinder6]
+[2018.10.18-18.30.48:679][593]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/pCylinder6_Auto13281F80D4616CDD7CD1BADBE6EFBD924.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/pCylinder6_Auto1.uasset'
+[2018.10.18-18.30.48:680][593]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pCylinder7] ([1] browsable assets)...
+[2018.10.18-18.30.48:688][593]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/pCylinder7.pCylinder7]
+[2018.10.18-18.30.48:688][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/pCylinder7]
+[2018.10.18-18.30.48:703][593]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/pCylinder7_Auto17492F4104B1EB8082B9C1ABEBB1E03F8.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/pCylinder7_Auto1.uasset'
+[2018.10.18-18.30.48:704][593]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pCylinder8] ([1] browsable assets)...
+[2018.10.18-18.30.48:713][593]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/pCylinder8.pCylinder8]
+[2018.10.18-18.30.48:713][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/pCylinder8]
+[2018.10.18-18.30.48:729][593]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/pCylinder8_Auto1ED5E31A941E5391B32529E8383DBDFA1.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/pCylinder8_Auto1.uasset'
+[2018.10.18-18.30.48:730][593]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pCylinder9] ([1] browsable assets)...
+[2018.10.18-18.30.48:739][593]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/pCylinder9.pCylinder9]
+[2018.10.18-18.30.48:739][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/pCylinder9]
+[2018.10.18-18.30.48:755][593]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/pCylinder9_Auto16F148FC74506A7A6D8A5649C953CE9C6.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/pCylinder9_Auto1.uasset'
+[2018.10.18-18.30.48:756][593]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pCylinder10] ([1] browsable assets)...
+[2018.10.18-18.30.48:765][593]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/pCylinder10.pCylinder10]
+[2018.10.18-18.30.48:765][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/pCylinder10]
+[2018.10.18-18.30.48:781][593]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/pCylinder10_Auto19B88BD3A497913F5216287B7A0AB16AE.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/pCylinder10_Auto1.uasset'
+[2018.10.18-18.30.48:782][593]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pCylinder11] ([1] browsable assets)...
+[2018.10.18-18.30.48:791][593]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/pCylinder11.pCylinder11]
+[2018.10.18-18.30.48:791][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/pCylinder11]
+[2018.10.18-18.30.48:807][593]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/pCylinder11_Auto1917B56C349456183E734DE87829DD8FB.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/pCylinder11_Auto1.uasset'
+[2018.10.18-18.30.48:808][593]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FbxScene_order_temple] ([1] browsable assets)...
+[2018.10.18-18.30.48:817][593]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FbxScene_order_temple.FbxScene_order_temple]
+[2018.10.18-18.30.48:818][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/FbxScene_order_temple]
+[2018.10.18-18.30.48:847][593]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/FbxScene_order_temple_Auto19D044DCB492ADD097ED5D39B905B0E55.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/FbxScene_order_temple_Auto1.uasset'
+[2018.10.18-18.30.48:847][593]LogFileHelpers: Auto-saving content packages took 0.658
+[2018.10.18-18.33.43:237][122]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.18-18.33.56:084][649]LogEditorViewport: Clicking on Actor (LMB): FbxScene_order_temple_C (FbxScene_order_temple)
+[2018.10.18-18.34.00:174][131]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.18-18.34.02:442][397]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.18-18.34.03:295][498]MapCheck: New page: Map Check
+[2018.10.18-18.34.03:313][498]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.18-18.34.03:315][498]LightingResults: New page: Lighting Build - Oct 18, 2018, 10:34:03 AM
+[2018.10.18-18.34.03:323][498]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.10.18-18.34.03:325][498]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.10.18-18.34.03:325][498]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.10.18-18.34.03:326][498]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.10.18-18.34.03:326][498]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10116
+[2018.10.18-18.34.07:879][498]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.10.18-18.34.07:880][498]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.10.18-18.34.07:880][498]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.10.18-18.34.07:880][498]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.10.18-18.34.07:880][498]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.10.18-18.34.07:880][498]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.10.18-18.34.07:999][498]LogEditorBuildUtils: Build time 0:04
+[2018.10.18-18.34.08:006][498]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer blinn2, compiling. 
+[2018.10.18-18.34.08:012][498]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer blinn2, compiling. 
+[2018.10.18-18.34.08:020][499]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.18-18.34.08:024][499]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.18-18.34.08:024][499]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer phong2, compiling. 
+[2018.10.18-18.34.08:031][499]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.18-18.34.08:031][499]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer phong2, compiling. 
+[2018.10.18-18.34.08:042][499]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.18-18.34.08:059][500]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer phong1, compiling. 
+[2018.10.18-18.34.08:065][500]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer phong1, compiling. 
+[2018.10.18-18.34.08:077][501]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer blinn1, compiling. 
+[2018.10.18-18.34.08:083][501]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer blinn1, compiling. 
+[2018.10.18-18.34.08:096][502]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer lambert4, compiling. 
+[2018.10.18-18.34.08:101][502]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer lambert4, compiling. 
+[2018.10.18-18.34.08:116][503]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer lambert3, compiling. 
+[2018.10.18-18.34.08:121][503]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer lambert3, compiling. 
+[2018.10.18-18.34.08:135][504]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer lambert2, compiling. 
+[2018.10.18-18.34.08:141][504]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer lambert2, compiling. 
+[2018.10.18-18.34.10:385][505]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.18-18.34.10:385][505]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.18-18.34.13:545][548]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.18-18.34.14:813][661]LightingResults: Warning: bldg6_Form22_2 Object has overlapping UVs.
+[2018.10.18-18.34.14:813][661]LightingResults: bldg6_Form22_2 Lightmap UV are overlapping by 4.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.10.18-18.34.15:012][680]Job is a success!
+[2018.10.18-18.34.15:066][681]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.18-18.34.15:120][681]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.041s
+[2018.10.18-18.34.15:120][681]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.10.18-18.34.15:120][681]LogVolumetricLightmapImport:      BrickData 1280x10x5 = 2.3Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2018.10.18-18.34.15:120][681]LogVolumetricLightmapImport:      Bricks at Level
+[2018.10.18-18.34.15:120][681]LogVolumetricLightmapImport:          0: 0.2% covering 100.0% of volume
+[2018.10.18-18.34.15:120][681]LogVolumetricLightmapImport:          1: 3.9% covering 25.0% of volume
+[2018.10.18-18.34.15:120][681]LogVolumetricLightmapImport:          2: 95.8% covering 9.6% of volume
+[2018.10.18-18.34.15:684][681]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.10.18-18.34.15:684][681]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.10.18-18.34.15:684][681]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2018.10.18-18.34.15:684][681]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2018.10.18-18.34.15:792][681]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2018.10.18-18.34.15:792][681]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X512)
+[2018.10.18-18.34.15:811][681]Lightmass on IMSRADAW16: 4.89 sec total, 124 ms importing, 11 ms setup, 1.01 sec photons, 3.71 sec processing, 0 ms extra exporting [63/63 mappings]. Threads: 25.8 sec total, 7.45 sec processing.
+[2018.10.18-18.34.15:848][681]LogStaticLightingSystem: Illumination: 12.5 sec (521 ms encoding lightmaps, 104 ms encoding shadowmaps)
+[2018.10.18-18.34.15:848][681]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.10.18-18.34.15:848][681]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.10.18-18.34.15:887][681]DumpUnbuiltLightIteractions
+[2018.10.18-18.34.15:887][681]Lights with unbuilt interactions: 0
+[2018.10.18-18.34.15:887][681]
+[2018.10.18-18.34.15:887][681]Primitives with unbuilt interactions: 0
+[2018.10.18-18.34.15:946][682]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.10.18-18.34.15:946][682]MapCheck: New page: Delta-Scar-Map - Oct 18, 2018, 10:34:15 AM
+[2018.10.18-18.34.16:003][682]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 57.272ms to complete.
+[2018.10.18-18.34.17:531][861]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-18.34.17:621][872]LogSlate: Window 'Message Log' being destroyed
+[2018.10.18-18.34.17:625][872]LogSlate: Window 'Message Log' being destroyed
+[2018.10.18-18.34.30:636][425]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-18.34.30:694][432]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.18-18.34.30:709][432]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel' has LevelScriptBlueprint '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map' with GeneratedClass '/Game/Delta-Scar-Map.Delta-Scar-Map_C' with ClassGeneratedBy '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map'
+[2018.10.18-18.34.30:709][432]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.10.18-18.34.30:711][432]LogPlayLevel: [PlayLevel] Compiling FbxScene_order_temple before play...
+[2018.10.18-18.34.30:853][432]LogPlayLevel: PlayLevel: Blueprint regeneration took 143 ms (1 blueprints)
+[2018.10.18-18.34.30:867][432]PIE: New page: PIE session: Delta-Scar-Map (Oct 18, 2018, 10:34:30 AM)
+[2018.10.18-18.34.30:867][432]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Delta-Scar-Map
+[2018.10.18-18.34.30:871][432]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004072s)
+[2018.10.18-18.34.30:872][432]LogAIModule: Creating AISystem for world Delta-Scar-Map
+[2018.10.18-18.34.30:872][432]LogPlayLevel: PIE: World Init took: (0.000757s)
+[2018.10.18-18.34.30:872][432]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Delta-Scar-Map.Delta-Scar-Map to /Game/UEDPIE_0_Delta-Scar-Map.Delta-Scar-Map (0.005342s)
+[2018.10.18-18.34.30:903][432]LogInit: XAudio2 using 'Crestron 420 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.18-18.34.30:910][432]LogInit: FAudioDevice initialized.
+[2018.10.18-18.34.30:951][432]LogLoad: Game class is 'GameModeBase'
+[2018.10.18-18.34.30:955][432]LogWorld: Bringing World /Game/UEDPIE_0_Delta-Scar-Map.Delta-Scar-Map up for play (max tick rate 0) at 2018.10.18-14.34.30
+[2018.10.18-18.34.30:955][432]LogWorld: Bringing up level for play took: 0.001865
+[2018.10.18-18.34.30:973][432]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.10.18-18.34.30:974][432]PIE: Play in editor start time for /Game/UEDPIE_0_Delta-Scar-Map -0.33
+[2018.10.18-18.34.30:974][432]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel' has LevelScriptBlueprint '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map' with GeneratedClass '/Game/Delta-Scar-Map.Delta-Scar-Map_C' with ClassGeneratedBy '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map'
+[2018.10.18-18.35.30:975][629]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel' has LevelScriptBlueprint '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map' with GeneratedClass '/Game/Delta-Scar-Map.Delta-Scar-Map_C' with ClassGeneratedBy '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map'
+[2018.10.18-18.35.30:976][629]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.18-18.35.31:011][629]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.18-18.35.31:011][629]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel' has LevelScriptBlueprint '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map' with GeneratedClass '/Game/Delta-Scar-Map.Delta-Scar-Map_C' with ClassGeneratedBy '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map'
+[2018.10.18-18.35.31:056][629]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.18-18.35.31:075][630]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.10.18-18.35.31:487][679]Cmd: SELECT NONE
+[2018.10.18-18.37.45:758][399]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.18-18.37.47:006][544]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.18-18.37.47:250][544]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Delta-Scar-MapD12A377D412766F12132F2B071EACA0D.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map.umap'
+[2018.10.18-18.37.47:277][544]LogFileHelpers: Saving map 'Delta-Scar-Map' took 0.267
+[2018.10.18-18.37.47:278][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Delta-Scar-Map_BuiltData" FILE="../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map_BuiltData.uasset" SILENT=true
+[2018.10.18-18.37.47:404][544]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Delta-Scar-Map_BuiltData44D1F6114573B025B0CCD7AFFAB1E4D0.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map_BuiltData.uasset'
+[2018.10.18-18.37.47:412][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pCube1" FILE="../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/pCube1.uasset" SILENT=true
+[2018.10.18-18.37.47:419][544]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/pCube1A9979A24438FDFC6F8D3AF9E252A5AA2.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/pCube1.uasset'
+[2018.10.18-18.37.47:427][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/order_temple" FILE="../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/order_temple.uasset" SILENT=true
+[2018.10.18-18.37.47:434][544]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/order_temple84A75A7B4AD0D1F8B329C88B020847D2.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/order_temple.uasset'
+[2018.10.18-18.37.47:441][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/lambert2" FILE="../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/lambert2.uasset" SILENT=true
+[2018.10.18-18.37.47:448][544]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/lambert2E4D76F1E41447FCEA47969AB416D6F0C.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/lambert2.uasset'
+[2018.10.18-18.37.47:455][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/phong1" FILE="../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/phong1.uasset" SILENT=true
+[2018.10.18-18.37.47:461][544]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/phong12923DA5B4BF062008F8A9DAA9A1C5556.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/phong1.uasset'
+[2018.10.18-18.37.47:469][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blinn2" FILE="../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/blinn2.uasset" SILENT=true
+[2018.10.18-18.37.47:475][544]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/blinn2D54886F44AD0E34AAC26DCBBE886E84E.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/blinn2.uasset'
+[2018.10.18-18.37.47:483][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pDisc1" FILE="../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/pDisc1.uasset" SILENT=true
+[2018.10.18-18.37.47:490][544]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/pDisc10A26DB2946974C1C48A37FB5B4CC4B43.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/pDisc1.uasset'
+[2018.10.18-18.37.47:498][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/lambert4" FILE="../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/lambert4.uasset" SILENT=true
+[2018.10.18-18.37.47:504][544]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/lambert4DFB1C6CD42A99CF2466C7D81EF739E3C.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/lambert4.uasset'
+[2018.10.18-18.37.47:512][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/lambert3" FILE="../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/lambert3.uasset" SILENT=true
+[2018.10.18-18.37.47:520][544]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/lambert3B251F73B4E6E15688236089C0A9AF5A8.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/lambert3.uasset'
+[2018.10.18-18.37.47:528][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pCone1" FILE="../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/pCone1.uasset" SILENT=true
+[2018.10.18-18.37.47:535][544]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/pCone13916551247194C644AD2699DD9A36DA9.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/pCone1.uasset'
+[2018.10.18-18.37.47:542][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blinn1" FILE="../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/blinn1.uasset" SILENT=true
+[2018.10.18-18.37.47:548][544]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/blinn19ED53B8B42166D1096E28D8113AAAE1D.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/blinn1.uasset'
+[2018.10.18-18.37.47:556][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pTorus1" FILE="../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/pTorus1.uasset" SILENT=true
+[2018.10.18-18.37.47:568][544]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/pTorus17998597A4879311841807E8CAE3F2F32.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/pTorus1.uasset'
+[2018.10.18-18.37.47:576][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pPlatonic1" FILE="../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/pPlatonic1.uasset" SILENT=true
+[2018.10.18-18.37.47:583][544]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/pPlatonic1818AFAB34292113D41261C922E96DDC3.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/pPlatonic1.uasset'
+[2018.10.18-18.37.47:591][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/phong2" FILE="../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/phong2.uasset" SILENT=true
+[2018.10.18-18.37.47:597][544]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/phong2A48A23584FCFF0B4EC60C0ADAC6BB296.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/phong2.uasset'
+[2018.10.18-18.37.47:604][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pCylinder1" FILE="../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/pCylinder1.uasset" SILENT=true
+[2018.10.18-18.37.47:613][544]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/pCylinder1DB9F6AF54ADEDC531B32218A824D32BC.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/pCylinder1.uasset'
+[2018.10.18-18.37.47:621][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pCylinder2" FILE="../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/pCylinder2.uasset" SILENT=true
+[2018.10.18-18.37.47:629][544]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/pCylinder292C25FD64966B2C7C260F2B96C66E4ED.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/pCylinder2.uasset'
+[2018.10.18-18.37.47:636][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pCylinder3" FILE="../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/pCylinder3.uasset" SILENT=true
+[2018.10.18-18.37.47:645][544]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/pCylinder32063823241B094E26A5EF4AA18C45398.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/pCylinder3.uasset'
+[2018.10.18-18.37.47:654][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pCylinder4" FILE="../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/pCylinder4.uasset" SILENT=true
+[2018.10.18-18.37.47:662][544]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/pCylinder411FC743D43B54A7E8DAC7EABD643C3E3.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/pCylinder4.uasset'
+[2018.10.18-18.37.47:670][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pCylinder5" FILE="../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/pCylinder5.uasset" SILENT=true
+[2018.10.18-18.37.47:678][544]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/pCylinder5A034B9434F1373CA4BB717BF867EEC9A.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/pCylinder5.uasset'
+[2018.10.18-18.37.47:686][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pCylinder6" FILE="../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/pCylinder6.uasset" SILENT=true
+[2018.10.18-18.37.47:694][544]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/pCylinder6F383BDFE40BEC80F9AADAD9E7AD73717.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/pCylinder6.uasset'
+[2018.10.18-18.37.47:702][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pCylinder7" FILE="../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/pCylinder7.uasset" SILENT=true
+[2018.10.18-18.37.47:711][544]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/pCylinder7BCAA6E2343E847A69711789E15335090.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/pCylinder7.uasset'
+[2018.10.18-18.37.47:719][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pCylinder8" FILE="../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/pCylinder8.uasset" SILENT=true
+[2018.10.18-18.37.47:727][544]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/pCylinder882F57E134B0AF2D8DDFD729C06D01DD1.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/pCylinder8.uasset'
+[2018.10.18-18.37.47:734][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pCylinder9" FILE="../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/pCylinder9.uasset" SILENT=true
+[2018.10.18-18.37.47:743][544]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/pCylinder923B9EC3C4F92612794D125BDC32829D4.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/pCylinder9.uasset'
+[2018.10.18-18.37.47:749][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pCylinder10" FILE="../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/pCylinder10.uasset" SILENT=true
+[2018.10.18-18.37.47:757][544]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/pCylinder106C9126844DB48F908DA369AC6667EDB0.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/pCylinder10.uasset'
+[2018.10.18-18.37.47:765][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pCylinder11" FILE="../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/pCylinder11.uasset" SILENT=true
+[2018.10.18-18.37.47:778][544]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/pCylinder11CF79A9DA4B040F7291C288A4309B2BA0.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/pCylinder11.uasset'
+[2018.10.18-18.37.47:803][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxScene_order_temple" FILE="../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/FbxScene_order_temple.uasset" SILENT=true
+[2018.10.18-18.37.47:836][544]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/FbxScene_order_templeC03C953F42BFBBD4F66DDEBED70C5CFB.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/FbxScene_order_temple.uasset'
+[2018.10.18-18.37.49:246][712]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-18.37.49:487][725]LogSlate: Window 'Delta_Scar_Map - Unreal Editor' being destroyed
+[2018.10.18-18.37.49:683][726]Cmd: QUIT_EDITOR
+[2018.10.18-18.37.49:705][726]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.18-18.37.49:714][726]LogExit: Preparing to exit.
+[2018.10.18-18.37.50:199][726]LogExit: Editor shut down
+[2018.10.18-18.37.50:199][726]LogExit: Transaction tracking system shut down
+[2018.10.18-18.37.50:622][726]LogExit: Object subsystem successfully closed.
+[2018.10.18-18.37.50:637][726]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.10.18-18.37.50:641][726]LogD3D11RHI: Shutdown
+[2018.10.18-18.37.50:641][726]LogD3D11RHI: CleanupD3DDevice
+[2018.10.18-18.37.50:642][726]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.10.18-18.37.50:651][726]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (620)
+[2018.10.18-18.37.50:651][726]LogModuleManager: Shutting down and abandoning module Voice (618)
+[2018.10.18-18.37.50:651][726]LogModuleManager: Shutting down and abandoning module BlueprintGraph (616)
+[2018.10.18-18.37.50:651][726]LogModuleManager: Shutting down and abandoning module MeshBuilder (614)
+[2018.10.18-18.37.50:651][726]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (612)
+[2018.10.18-18.37.50:651][726]LogModuleManager: Shutting down and abandoning module AddContentDialog (610)
+[2018.10.18-18.37.50:652][726]LogModuleManager: Shutting down and abandoning module WidgetCarousel (609)
+[2018.10.18-18.37.50:652][726]LogModuleManager: Shutting down and abandoning module EditorWidgets (606)
+[2018.10.18-18.37.50:652][726]LogModuleManager: Shutting down and abandoning module CollectionManager (604)
+[2018.10.18-18.37.50:652][726]LogModuleManager: Shutting down and abandoning module SceneOutliner (602)
+[2018.10.18-18.37.50:652][726]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (600)
+[2018.10.18-18.37.50:652][726]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.10.18-18.37.50:652][726]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.10.18-18.37.50:652][726]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.10.18-18.37.50:652][726]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.10.18-18.37.50:652][726]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.10.18-18.37.50:652][726]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.10.18-18.37.50:652][726]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.10.18-18.37.50:652][726]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.10.18-18.37.50:652][726]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.10.18-18.37.50:652][726]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.10.18-18.37.50:652][726]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.10.18-18.37.50:652][726]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.10.18-18.37.50:652][726]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.10.18-18.37.50:652][726]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.10.18-18.37.50:652][726]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.10.18-18.37.50:652][726]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.10.18-18.37.50:652][726]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.10.18-18.37.50:652][726]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.10.18-18.37.50:652][726]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.10.18-18.37.50:652][726]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.10.18-18.37.50:652][726]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.10.18-18.37.50:652][726]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.10.18-18.37.50:652][726]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.10.18-18.37.50:652][726]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.10.18-18.37.50:652][726]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.10.18-18.37.50:652][726]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.10.18-18.37.50:652][726]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.10.18-18.37.50:652][726]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.10.18-18.37.50:652][726]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.10.18-18.37.50:653][726]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.10.18-18.37.50:653][726]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.10.18-18.37.50:653][726]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.10.18-18.37.50:653][726]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.10.18-18.37.50:653][726]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.10.18-18.37.50:653][726]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.10.18-18.37.50:653][726]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.10.18-18.37.50:653][726]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.10.18-18.37.50:653][726]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.10.18-18.37.50:653][726]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.10.18-18.37.50:653][726]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.10.18-18.37.50:653][726]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.10.18-18.37.50:653][726]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.10.18-18.37.50:653][726]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.10.18-18.37.50:653][726]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.10.18-18.37.50:653][726]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.10.18-18.37.50:653][726]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.10.18-18.37.52:538][726]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.10.18-18.37.52:538][726]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.10.18-18.37.52:538][726]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.10.18-18.37.52:538][726]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.10.18-18.37.52:538][726]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.10.18-18.37.52:539][726]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.10.18-18.37.52:539][726]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.10.18-18.37.52:539][726]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.10.18-18.37.52:539][726]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.10.18-18.37.52:539][726]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.10.18-18.37.52:539][726]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.10.18-18.37.52:539][726]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.10.18-18.37.52:539][726]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.10.18-18.37.52:539][726]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.10.18-18.37.52:539][726]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.10.18-18.37.52:540][726]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.10.18-18.37.52:540][726]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.10.18-18.37.52:540][726]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.10.18-18.37.52:540][726]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.10.18-18.37.52:540][726]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.10.18-18.37.52:540][726]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.10.18-18.37.52:540][726]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.10.18-18.37.52:593][726]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.10.18-18.37.52:593][726]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.10.18-18.37.52:593][726]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.10.18-18.37.52:593][726]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.10.18-18.37.52:593][726]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.10.18-18.37.52:593][726]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.10.18-18.37.52:594][726]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.10.18-18.37.52:594][726]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.10.18-18.37.52:594][726]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.10.18-18.37.52:594][726]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.10.18-18.37.52:603][726]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.10.18-18.37.52:604][726]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.10.18-18.37.52:604][726]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.10.18-18.37.52:604][726]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.10.18-18.37.52:604][726]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.10.18-18.37.52:604][726]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.10.18-18.37.52:604][726]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.10.18-18.37.52:604][726]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.10.18-18.37.52:604][726]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.10.18-18.37.52:604][726]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.10.18-18.37.52:604][726]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.10.18-18.37.52:604][726]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.10.18-18.37.52:604][726]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.10.18-18.37.52:604][726]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.10.18-18.37.52:604][726]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.10.18-18.37.52:605][726]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.10.18-18.37.52:605][726]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.10.18-18.37.52:605][726]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.10.18-18.37.52:605][726]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.10.18-18.37.52:605][726]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.10.18-18.37.52:605][726]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.10.18-18.37.52:605][726]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.10.18-18.37.52:854][726]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.10.18-18.37.52:854][726]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.10.18-18.37.52:854][726]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.10.18-18.37.52:855][726]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.10.18-18.37.52:855][726]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.10.18-18.37.52:855][726]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.10.18-18.37.52:855][726]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.10.18-18.37.52:855][726]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.10.18-18.37.52:855][726]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.10.18-18.37.52:855][726]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.10.18-18.37.52:855][726]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.10.18-18.37.52:855][726]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.10.18-18.37.52:855][726]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.10.18-18.37.52:855][726]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.10.18-18.37.52:855][726]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.10.18-18.37.52:856][726]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.10.18-18.37.52:856][726]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.10.18-18.37.52:856][726]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.10.18-18.37.52:867][726]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.10.18-18.37.52:867][726]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.10.18-18.37.52:867][726]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.10.18-18.37.52:867][726]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.10.18-18.37.52:867][726]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.10.18-18.37.52:867][726]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.10.18-18.37.52:867][726]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.10.18-18.37.52:867][726]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.10.18-18.37.52:868][726]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.10.18-18.37.52:868][726]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.10.18-18.37.52:868][726]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.10.18-18.37.52:868][726]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.10.18-18.37.52:869][726]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.10.18-18.37.52:869][726]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.10.18-18.37.52:869][726]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.10.18-18.37.52:869][726]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.10.18-18.37.52:869][726]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.10.18-18.37.52:870][726]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.10.18-18.37.52:870][726]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.10.18-18.37.52:870][726]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.10.18-18.37.52:870][726]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.10.18-18.37.52:870][726]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.10.18-18.37.52:870][726]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.10.18-18.37.52:870][726]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.10.18-18.37.52:870][726]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.10.18-18.37.52:870][726]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.10.18-18.37.52:871][726]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.10.18-18.37.52:871][726]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.10.18-18.37.52:871][726]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.10.18-18.37.52:871][726]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.10.18-18.37.52:871][726]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.10.18-18.37.52:871][726]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.10.18-18.37.52:872][726]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.10.18-18.37.52:872][726]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.10.18-18.37.52:872][726]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.10.18-18.37.52:872][726]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.10.18-18.37.52:873][726]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.10.18-18.37.52:873][726]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.10.18-18.37.52:873][726]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.10.18-18.37.52:873][726]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.10.18-18.37.52:873][726]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.10.18-18.37.52:974][726]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.10.18-18.37.53:075][726]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.10.18-18.37.53:075][726]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.10.18-18.37.53:075][726]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.10.18-18.37.53:075][726]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.10.18-18.37.53:075][726]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.10.18-18.37.53:075][726]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.10.18-18.37.53:075][726]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.10.18-18.37.53:075][726]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.10.18-18.37.53:075][726]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.10.18-18.37.53:076][726]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.10.18-18.37.53:076][726]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.10.18-18.37.53:076][726]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.10.18-18.37.53:077][726]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.10.18-18.37.53:077][726]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.10.18-18.37.53:077][726]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.10.18-18.37.53:077][726]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.10.18-18.37.53:077][726]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.10.18-18.37.53:077][726]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.10.18-18.37.53:081][726]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.10.18-18.37.53:087][726]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.10.18-18.37.53:087][726]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.10.18-18.37.53:087][726]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.10.18-18.37.53:087][726]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.10.18-18.37.53:087][726]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.10.18-18.37.53:087][726]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.10.18-18.37.53:087][726]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.10.18-18.37.53:087][726]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.10.18-18.37.53:087][726]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.10.18-18.37.53:087][726]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.10.18-18.37.53:087][726]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.10.18-18.37.53:087][726]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.10.18-18.37.53:087][726]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.10.18-18.37.53:087][726]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.10.18-18.37.53:088][726]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.10.18-18.37.53:088][726]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.10.18-18.37.53:088][726]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.10.18-18.37.53:088][726]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.10.18-18.37.53:088][726]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.10.18-18.37.53:088][726]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.10.18-18.37.53:089][726]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.10.18-18.37.53:089][726]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.10.18-18.37.53:089][726]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.10.18-18.37.53:089][726]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.10.18-18.37.53:089][726]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.10.18-18.37.53:089][726]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.10.18-18.37.53:089][726]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.10.18-18.37.53:089][726]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.10.18-18.37.53:089][726]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.10.18-18.37.53:089][726]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.10.18-18.37.53:089][726]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.10.18-18.37.53:089][726]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.10.18-18.37.53:089][726]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.10.18-18.37.53:089][726]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.10.18-18.37.53:089][726]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.10.18-18.37.53:089][726]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.10.18-18.37.53:089][726]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.10.18-18.37.53:089][726]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.10.18-18.37.53:152][726]LogDerivedDataCache: Shutdown
+[2018.10.18-18.37.53:152][726]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.10.18-18.37.53:152][726]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.10.18-18.37.53:152][726]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.10.18-18.37.53:152][726]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.10.18-18.37.53:152][726]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.10.18-18.37.53:152][726]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.10.18-18.37.53:152][726]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.10.18-18.37.53:152][726]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.10.18-18.37.53:152][726]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.10.18-18.37.53:152][726]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.10.18-18.37.53:152][726]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.10.18-18.37.53:152][726]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.10.18-18.37.53:152][726]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.10.18-18.37.53:152][726]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.10.18-18.37.53:152][726]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.10.18-18.37.53:152][726]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.10.18-18.37.53:153][726]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.10.18-18.37.53:153][726]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.10.18-18.37.53:153][726]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.10.18-18.37.53:153][726]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.10.18-18.37.53:153][726]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.10.18-18.37.53:153][726]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.10.18-18.37.53:153][726]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.10.18-18.37.53:153][726]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.10.18-18.37.53:153][726]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.10.18-18.37.53:154][726]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.10.18-18.37.53:154][726]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.10.18-18.37.53:158][726]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.10.18-18.37.53:158][726]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.10.18-18.37.53:158][726]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.10.18-18.37.53:158][726]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.10.18-18.37.53:158][726]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.10.18-18.37.53:158][726]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.10.18-18.37.53:158][726]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.10.18-18.37.53:158][726]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.10.18-18.37.53:158][726]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.10.18-18.37.53:158][726]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.10.18-18.37.53:158][726]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.10.18-18.37.53:158][726]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.10.18-18.37.53:158][726]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.10.18-18.37.53:158][726]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.10.18-18.37.53:158][726]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.10.18-18.37.53:158][726]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.10.18-18.37.53:158][726]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.10.18-18.37.53:158][726]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.10.18-18.37.53:159][726]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.10.18-18.37.53:159][726]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.10.18-18.37.53:180][726]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.10.18-18.37.53:180][726]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.10.18-18.37.53:180][726]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEA026B06-4BEF-417C-513C-199B91AA6FA4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.1-4233996%2B%2B%2BUE4%2BRelease-4.20&UserID=5b6a4d3e4a9bea5731b12d819328c198%7Ccd38484a5414433ca96d78f9f8c741ce%7C92805f7e-a39c-43b1-9f3b-78653754e91e&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.10.18-18.37.53:214][726]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.10.18-18.37.53:214][726]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.10.18-18.37.53:214][726]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.10.18-18.37.53:214][726]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.10.18-18.37.53:214][726]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.10.18-18.37.53:214][726]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.10.18-18.37.53:214][726]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.10.18-18.37.53:214][726]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.10.18-18.37.53:214][726]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.10.18-18.37.53:214][726]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.10.18-18.37.53:214][726]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.10.18-18.37.53:214][726]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.10.18-18.37.53:215][726]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.10.18-18.37.53:215][726]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.10.18-18.37.53:215][726]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.10.18-18.37.53:215][726]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.10.18-18.37.53:215][726]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.10.18-18.37.53:215][726]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.10.18-18.37.53:215][726]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.10.18-18.37.53:215][726]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.10.18-18.37.53:215][726]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.10.18-18.37.53:215][726]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.10.18-18.37.53:215][726]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.10.18-18.37.53:215][726]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.10.18-18.37.53:215][726]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.10.18-18.37.53:215][726]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.10.18-18.37.53:215][726]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.10.18-18.37.53:215][726]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.10.18-18.37.53:215][726]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.10.18-18.37.53:215][726]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.10.18-18.37.53:221][726]LogExit: Exiting.
+[2018.10.18-18.37.53:232][726]Log file closed, 10/18/18 14:37:53
