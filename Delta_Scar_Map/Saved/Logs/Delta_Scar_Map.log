@@ -341,3 +341,1066 @@ LogInit: Object subsystem initialized
 [2018.11.08-03.54.56:410][  5]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FbxScene_MachinegunTurret.FbxScene_MachinegunTurret
 [2018.11.08-03.54.56:920][  5]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
 [2018.11.08-03.54.57:754][  5]LogSlate: Took 0.001336 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.08-03.55.02:594][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-03.57.48:369][ 98]LogLinker: Warning: Can't find file '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/GRIMexePlayerCharacter'
+[2018.11.08-03.57.48:369][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/GRIMexePlayerCharacter' while loading ../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map.umap.
+[2018.11.08-03.57.48:369][ 98]LoadErrors: Error: /Game/Delta-Scar-Map : Can't find file for asset. /Game/ParagonGRIMexe/Characters/Heroes/GRIM/GRIMexePlayerCharacter
+[2018.11.08-03.57.48:369][ 98]LogLinker: Warning: Can't find file '/Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelicaPlayerCharacter'
+[2018.11.08-03.57.48:369][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelicaPlayerCharacter' while loading ../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map.umap.
+[2018.11.08-03.57.48:369][ 98]LoadErrors: Error: /Game/Delta-Scar-Map : Can't find file for asset. /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelicaPlayerCharacter
+[2018.11.08-03.57.48:447][ 98]LogLinker: Warning: Can't find file '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/GRIMexePlayerCharacter'
+[2018.11.08-03.57.48:448][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/GRIMexePlayerCharacter' while loading ../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map.umap.
+[2018.11.08-03.57.48:448][ 98]LogLinker: Warning: Can't find file '/Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelicaPlayerCharacter'
+[2018.11.08-03.57.48:448][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelicaPlayerCharacter' while loading ../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map.umap.
+[2018.11.08-03.57.48:448][ 98]LogLinker: Warning: Can't find file '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/GRIMexePlayerCharacter'
+[2018.11.08-03.57.48:448][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/GRIMexePlayerCharacter' while loading ../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map.umap.
+[2018.11.08-03.57.48:448][ 98]LogLinker: Warning: Can't find file '/Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelicaPlayerCharacter'
+[2018.11.08-03.57.48:448][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelicaPlayerCharacter' while loading ../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map.umap.
+[2018.11.08-03.57.48:449][ 98]LogLinker: Warning: Can't find file '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/GRIMexePlayerCharacter'
+[2018.11.08-03.57.48:449][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/GRIMexePlayerCharacter' while loading ../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map.umap.
+[2018.11.08-03.57.48:449][ 98]LogLinker: Warning: Can't find file '/Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelicaPlayerCharacter'
+[2018.11.08-03.57.48:449][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelicaPlayerCharacter' while loading ../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map.umap.
+[2018.11.08-03.57.48:449][ 98]LogLinker: Warning: Can't find file '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/GRIMexePlayerCharacter'
+[2018.11.08-03.57.48:449][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/GRIMexePlayerCharacter' while loading ../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map.umap.
+[2018.11.08-03.57.48:449][ 98]LogLinker: Warning: Can't find file '/Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelicaPlayerCharacter'
+[2018.11.08-03.57.48:450][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelicaPlayerCharacter' while loading ../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map.umap.
+[2018.11.08-03.57.48:451][ 98]LogLinker: Warning: Can't find file '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/GRIMexePlayerCharacter'
+[2018.11.08-03.57.48:451][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/GRIMexePlayerCharacter' while loading ../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map.umap.
+[2018.11.08-03.57.48:451][ 98]LogLinker: Warning: Can't find file '/Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelicaPlayerCharacter'
+[2018.11.08-03.57.48:451][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelicaPlayerCharacter' while loading ../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map.umap.
+[2018.11.08-03.57.48:452][ 98]LogLinker: Warning: Can't find file '/Game/Delta-Scar-Map_BuiltData'
+[2018.11.08-03.57.48:452][ 98]LogLinker: Warning: Can't find file for asset '/Game/Delta-Scar-Map_BuiltData' while loading ../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map.umap.
+[2018.11.08-03.57.48:452][ 98]LoadErrors: Error: /Game/Delta-Scar-Map : Can't find file for asset. /Game/Delta-Scar-Map_BuiltData
+[2018.11.08-03.57.48:453][ 98]LogLinker: Warning: Can't find file '/Game/ParagonGRIMexe/Characters/Global/Eyes/Materials/M_Eye_Occlusion'
+[2018.11.08-03.57.48:453][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonGRIMexe/Characters/Global/Eyes/Materials/M_Eye_Occlusion' while loading ../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map.umap.
+[2018.11.08-03.57.48:454][ 98]LoadErrors: Error: /Game/Delta-Scar-Map : Can't find file for asset. /Game/ParagonGRIMexe/Characters/Global/Eyes/Materials/M_Eye_Occlusion
+[2018.11.08-03.57.48:454][ 98]LogLinker: Warning: Can't find file '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/Effects/Materials/M_GRIMSpline_Electrical'
+[2018.11.08-03.57.48:454][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/Effects/Materials/M_GRIMSpline_Electrical' while loading ../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map.umap.
+[2018.11.08-03.57.48:454][ 98]LoadErrors: Error: /Game/Delta-Scar-Map : Can't find file for asset. /Game/ParagonGRIMexe/Characters/Heroes/GRIM/Effects/Materials/M_GRIMSpline_Electrical
+[2018.11.08-03.57.48:454][ 98]LogLinker: Warning: Can't find file '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/Materials/MIC_GRIM_Goblin_Hair_Demo'
+[2018.11.08-03.57.48:454][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/Materials/MIC_GRIM_Goblin_Hair_Demo' while loading ../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map.umap.
+[2018.11.08-03.57.48:454][ 98]LoadErrors: Error: /Game/Delta-Scar-Map : Can't find file for asset. /Game/ParagonGRIMexe/Characters/Heroes/GRIM/Materials/MIC_GRIM_Goblin_Hair_Demo
+[2018.11.08-03.57.48:455][ 98]LogLinker: Warning: Can't find file '/Game/Delta-Scar-Map_BuiltData'
+[2018.11.08-03.57.48:455][ 98]LogLinker: Warning: Can't find file for asset '/Game/Delta-Scar-Map_BuiltData' while loading ../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map.umap.
+[2018.11.08-03.57.48:456][ 98]LogLinker: Warning: Can't find file '/Game/ParagonGRIMexe/Characters/Global/Eyes/Materials/M_Eye_Occlusion'
+[2018.11.08-03.57.48:456][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonGRIMexe/Characters/Global/Eyes/Materials/M_Eye_Occlusion' while loading ../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map.umap.
+[2018.11.08-03.57.48:457][ 98]LogLinker: Warning: Can't find file '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/Effects/Materials/M_GRIMSpline_Electrical'
+[2018.11.08-03.57.48:457][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/Effects/Materials/M_GRIMSpline_Electrical' while loading ../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map.umap.
+[2018.11.08-03.57.48:457][ 98]LogLinker: Warning: Can't find file '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/GRIMexePlayerCharacter'
+[2018.11.08-03.57.48:457][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/GRIMexePlayerCharacter' while loading ../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map.umap.
+[2018.11.08-03.57.48:458][ 98]LogLinker: Warning: Can't find file '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/Materials/MIC_GRIM_Goblin_Hair_Demo'
+[2018.11.08-03.57.48:458][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/Materials/MIC_GRIM_Goblin_Hair_Demo' while loading ../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map.umap.
+[2018.11.08-03.57.48:458][ 98]LogLinker: Warning: Can't find file '/Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelicaPlayerCharacter'
+[2018.11.08-03.57.48:458][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelicaPlayerCharacter' while loading ../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map.umap.
+[2018.11.08-03.57.48:505][ 98]LogLinker: Warning: Can't find file '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/GRIMexePlayerCharacter'
+[2018.11.08-03.57.48:505][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/GRIMexePlayerCharacter' while loading ../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map.umap.
+[2018.11.08-03.57.48:505][ 98]LogLinker: Warning: Can't find file '/Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelicaPlayerCharacter'
+[2018.11.08-03.57.48:505][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelicaPlayerCharacter' while loading ../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map.umap.
+[2018.11.08-03.57.48:506][ 98]LogLinker: Warning: Can't find file '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/GRIMexePlayerCharacter'
+[2018.11.08-03.57.48:506][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/GRIMexePlayerCharacter' while loading ../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map.umap.
+[2018.11.08-03.57.48:506][ 98]LogLinker: Warning: Can't find file '/Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelicaPlayerCharacter'
+[2018.11.08-03.57.48:506][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelicaPlayerCharacter' while loading ../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map.umap.
+[2018.11.08-03.57.48:509][ 98]LogLinker: Warning: Can't find file '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/GRIMexePlayerCharacter'
+[2018.11.08-03.57.48:509][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/GRIMexePlayerCharacter' while loading NULL.
+[2018.11.08-03.57.48:509][ 98]LogLinker: Warning: Can't find file '/Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelicaPlayerCharacter'
+[2018.11.08-03.57.48:509][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelicaPlayerCharacter' while loading NULL.
+[2018.11.08-03.57.48:509][ 98]LogLinker: Warning: Can't find file '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/GRIMexePlayerCharacter'
+[2018.11.08-03.57.48:510][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/GRIMexePlayerCharacter' while loading NULL.
+[2018.11.08-03.57.48:510][ 98]LogLinker: Warning: Can't find file '/Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelicaPlayerCharacter'
+[2018.11.08-03.57.48:510][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelicaPlayerCharacter' while loading NULL.
+[2018.11.08-03.57.48:510][ 98]LogLinker: Warning: Can't find file '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/GRIMexePlayerCharacter'
+[2018.11.08-03.57.48:510][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/GRIMexePlayerCharacter' while loading NULL.
+[2018.11.08-03.57.48:510][ 98]LogLinker: Warning: Can't find file '/Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelicaPlayerCharacter'
+[2018.11.08-03.57.48:510][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelicaPlayerCharacter' while loading NULL.
+[2018.11.08-03.57.48:510][ 98]LogLinker: Warning: Can't find file '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/GRIMexePlayerCharacter'
+[2018.11.08-03.57.48:511][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/GRIMexePlayerCharacter' while loading NULL.
+[2018.11.08-03.57.48:511][ 98]LogLinker: Warning: Can't find file '/Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelicaPlayerCharacter'
+[2018.11.08-03.57.48:511][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelicaPlayerCharacter' while loading NULL.
+[2018.11.08-03.57.48:511][ 98]LogLinker: Warning: Can't find file '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/GRIMexePlayerCharacter'
+[2018.11.08-03.57.48:511][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/GRIMexePlayerCharacter' while loading NULL.
+[2018.11.08-03.57.48:511][ 98]LogLinker: Warning: Can't find file '/Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelicaPlayerCharacter'
+[2018.11.08-03.57.48:511][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelicaPlayerCharacter' while loading NULL.
+[2018.11.08-03.57.48:511][ 98]LogLinker: Warning: Can't find file '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/GRIMexePlayerCharacter'
+[2018.11.08-03.57.48:512][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/GRIMexePlayerCharacter' while loading NULL.
+[2018.11.08-03.57.48:512][ 98]LogLinker: Warning: Can't find file '/Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelicaPlayerCharacter'
+[2018.11.08-03.57.48:512][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelicaPlayerCharacter' while loading NULL.
+[2018.11.08-03.57.48:512][ 98]LogLinker: Warning: Can't find file '/Game/Delta-Scar-Map_BuiltData'
+[2018.11.08-03.57.48:512][ 98]LogLinker: Warning: Can't find file for asset '/Game/Delta-Scar-Map_BuiltData' while loading NULL.
+[2018.11.08-03.57.48:512][ 98]LogLinker: Warning: Can't find file '/Game/ParagonGRIMexe/Characters/Global/Eyes/Materials/M_Eye_Occlusion'
+[2018.11.08-03.57.48:513][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonGRIMexe/Characters/Global/Eyes/Materials/M_Eye_Occlusion' while loading NULL.
+[2018.11.08-03.57.48:513][ 98]LogLinker: Warning: Can't find file '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/Effects/Materials/M_GRIMSpline_Electrical'
+[2018.11.08-03.57.48:513][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/Effects/Materials/M_GRIMSpline_Electrical' while loading NULL.
+[2018.11.08-03.57.48:513][ 98]LogLinker: Warning: Can't find file '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/Materials/MIC_GRIM_Goblin_Hair_Demo'
+[2018.11.08-03.57.48:513][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/Materials/MIC_GRIM_Goblin_Hair_Demo' while loading NULL.
+[2018.11.08-03.57.48:513][ 98]LogLinker: Warning: Can't find file '/Game/Delta-Scar-Map_BuiltData'
+[2018.11.08-03.57.48:514][ 98]LogLinker: Warning: Can't find file for asset '/Game/Delta-Scar-Map_BuiltData' while loading NULL.
+[2018.11.08-03.57.48:514][ 98]LogLinker: Warning: Can't find file '/Game/ParagonGRIMexe/Characters/Global/Eyes/Materials/M_Eye_Occlusion'
+[2018.11.08-03.57.48:514][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonGRIMexe/Characters/Global/Eyes/Materials/M_Eye_Occlusion' while loading NULL.
+[2018.11.08-03.57.48:514][ 98]LogLinker: Warning: Can't find file '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/Effects/Materials/M_GRIMSpline_Electrical'
+[2018.11.08-03.57.48:514][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/Effects/Materials/M_GRIMSpline_Electrical' while loading NULL.
+[2018.11.08-03.57.48:514][ 98]LogLinker: Warning: Can't find file '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/GRIMexePlayerCharacter'
+[2018.11.08-03.57.48:514][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/GRIMexePlayerCharacter' while loading NULL.
+[2018.11.08-03.57.48:514][ 98]LogLinker: Warning: Can't find file '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/Materials/MIC_GRIM_Goblin_Hair_Demo'
+[2018.11.08-03.57.48:515][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/Materials/MIC_GRIM_Goblin_Hair_Demo' while loading NULL.
+[2018.11.08-03.57.48:515][ 98]LogLinker: Warning: Can't find file '/Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelicaPlayerCharacter'
+[2018.11.08-03.57.48:515][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelicaPlayerCharacter' while loading NULL.
+[2018.11.08-03.57.48:515][ 98]LogLinker: Warning: Can't find file '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/GRIMexePlayerCharacter'
+[2018.11.08-03.57.48:515][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/GRIMexePlayerCharacter' while loading NULL.
+[2018.11.08-03.57.48:515][ 98]LogLinker: Warning: Can't find file '/Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelicaPlayerCharacter'
+[2018.11.08-03.57.48:515][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelicaPlayerCharacter' while loading NULL.
+[2018.11.08-03.57.48:516][ 98]LogLinker: Warning: Can't find file '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/GRIMexePlayerCharacter'
+[2018.11.08-03.57.48:516][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/GRIMexePlayerCharacter' while loading NULL.
+[2018.11.08-03.57.48:516][ 98]LogLinker: Warning: Can't find file '/Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelicaPlayerCharacter'
+[2018.11.08-03.57.48:516][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelicaPlayerCharacter' while loading NULL.
+[2018.11.08-03.57.48:520][ 98]LogLinker: Warning: Can't find file '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/GRIMexePlayerCharacter'
+[2018.11.08-03.57.48:521][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/GRIMexePlayerCharacter' while loading NULL.
+[2018.11.08-03.57.48:521][ 98]LogLinker: Warning: Can't find file '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/GRIMexePlayerCharacter'
+[2018.11.08-03.57.48:521][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonGRIMexe/Characters/Heroes/GRIM/GRIMexePlayerCharacter' while loading NULL.
+[2018.11.08-03.57.48:521][ 98]LogLinker: Warning: Can't find file '/Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelicaPlayerCharacter'
+[2018.11.08-03.57.48:522][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelicaPlayerCharacter' while loading NULL.
+[2018.11.08-03.57.48:522][ 98]LogLinker: Warning: Can't find file '/Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelicaPlayerCharacter'
+[2018.11.08-03.57.48:522][ 98]LogLinker: Warning: Can't find file for asset '/Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelicaPlayerCharacter' while loading NULL.
+[2018.11.08-03.57.48:537][ 98]LogLinker: Warning: Can't find file '/Game/Delta-Scar-Map_BuiltData'
+[2018.11.08-03.57.48:537][ 98]LoadErrors: Failed to load /Game/Delta-Scar-Map_BuiltData.Delta-Scar-Map_BuiltData Referenced by PersistentLevel
+[2018.11.08-03.57.48:538][ 98]LogLinker: Warning: Can't find file for asset '/Game/Delta-Scar-Map_BuiltData' while loading NULL.
+[2018.11.08-03.57.48:812][ 98]LogAIModule: Creating AISystem for world Delta-Scar-Map
+[2018.11.08-03.57.48:835][ 98]LogAssetEditorManager: Opening Asset editor for World /Game/Delta-Scar-Map.Delta-Scar-Map
+[2018.11.08-03.57.48:868][ 98]Cmd: MAP LOAD FILE="../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.08-03.57.48:868][ 98]LightingResults: New page: Lighting Build
+[2018.11.08-03.57.48:868][ 98]LoadErrors: New page: Loading map: Delta-Scar-Map.umap
+[2018.11.08-03.57.48:869][ 98]MapCheck: New page: Map Check
+[2018.11.08-03.57.48:870][ 98]LightingResults: New page: Lighting Build
+[2018.11.08-03.57.48:910][ 98]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.08-03.57.48:966][ 98]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.08-03.57.49:028][ 98]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 61.914ms to complete.
+[2018.11.08-03.57.49:028][ 98]LogFileHelpers: Loading map 'Delta-Scar-Map' took 0.162
+[2018.11.08-03.57.49:057][ 98]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Arrow': GRIMexePlayerCharacter_C /Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.GRIMexePlayerCharacter_2
+[2018.11.08-03.57.49:057][ 98]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Arrow': LtBelicaPlayerCharacter_C /Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.LtBelicaPlayerCharacter
+[2018.11.08-03.57.49:057][ 98]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'FollowCamera': GRIMexePlayerCharacter_C /Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.GRIMexePlayerCharacter_2
+[2018.11.08-03.57.49:057][ 98]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'FollowCamera': LtBelicaPlayerCharacter_C /Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.LtBelicaPlayerCharacter
+[2018.11.08-03.57.49:057][ 98]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CollisionCylinder': GRIMexePlayerCharacter_C /Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.GRIMexePlayerCharacter_2
+[2018.11.08-03.57.49:057][ 98]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CollisionCylinder': LtBelicaPlayerCharacter_C /Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.LtBelicaPlayerCharacter
+[2018.11.08-03.57.49:057][ 98]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CharMoveComp': GRIMexePlayerCharacter_C /Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.GRIMexePlayerCharacter_2
+[2018.11.08-03.57.49:057][ 98]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CharMoveComp': LtBelicaPlayerCharacter_C /Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.LtBelicaPlayerCharacter
+[2018.11.08-03.57.49:057][ 98]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CharacterMesh0': GRIMexePlayerCharacter_C /Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.GRIMexePlayerCharacter_2
+[2018.11.08-03.57.49:057][ 98]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'MaterialInstanceDynamic_0': SkeletalMeshComponent /Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.GRIMexePlayerCharacter_2.CharacterMesh0
+[2018.11.08-03.57.49:057][ 98]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'MaterialInstanceDynamic_1': SkeletalMeshComponent /Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.GRIMexePlayerCharacter_2.CharacterMesh0
+[2018.11.08-03.57.49:058][ 98]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'MaterialInstanceDynamic_2': SkeletalMeshComponent /Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.GRIMexePlayerCharacter_2.CharacterMesh0
+[2018.11.08-03.57.49:058][ 98]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CharacterMesh0': LtBelicaPlayerCharacter_C /Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.LtBelicaPlayerCharacter
+[2018.11.08-03.57.49:058][ 98]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CameraBoom': GRIMexePlayerCharacter_C /Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.GRIMexePlayerCharacter_2
+[2018.11.08-03.57.49:058][ 98]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CameraBoom': LtBelicaPlayerCharacter_C /Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.LtBelicaPlayerCharacter
+[2018.11.08-03.58.03:056][757]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.11.08-03.58.03:056][757]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2018.11.08-03.58.03:056][757]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.11.08-03.58.03:056][757]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2018.11.08-03.58.03:056][757]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.11.08-03.58.03:057][757]LogWindows: Warning: URL: C:\Users\sapienfm\AppData\Local/Programs/Git/cmd/git.exe version
+[2018.11.08-03.58.03:057][757]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.11.08-03.58.03:057][757]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2018.11.08-03.58.03:057][757]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.11.08-03.58.03:057][757]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2018.11.08-03.58.03:057][757]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.11.08-03.58.03:057][757]LogWindows: Warning: URL: C:\Users\sapienfm\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2018.11.08-03.58.03:057][757]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.11.08-03.58.03:057][757]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2018.11.08-03.58.22:030][182]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.11.08-03.58.22:030][182]LogWindows: Warning: URL: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/ version
+[2018.11.08-03.58.25:499][592]SourceControl: Source control is disabled
+[2018.11.08-03.58.26:902][760]LogSlate: Window 'Source Control Login' being destroyed
+[2018.11.08-03.58.27:910][881]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2018.11.08-03.58.27:910][881]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+TCP connect to perforce:1666 failed.
+No such host is known. 
+
+[2018.11.08-03.58.32:532][430]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-03.58.33:393][533]MapCheck: New page: Map Check
+[2018.11.08-03.58.33:401][533]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-03.58.33:407][533]LightingResults: New page: Lighting Build - Nov 7, 2018, 5:58:33 PM
+[2018.11.08-03.58.33:452][533]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.11.08-03.58.33:565][533]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.11.08-03.58.33:579][533]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.11.08-03.58.34:109][533]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.11.08-03.58.34:109][533]LogSwarmInterface: [TryOpenConnection] Local Process ID is 143056
+[2018.11.08-03.58.40:007][533]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.11.08-03.58.40:008][533]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.11.08-03.58.40:008][533]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.11.08-03.58.40:008][533]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.11.08-03.58.40:008][533]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.11.08-03.58.40:008][533]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.11.08-03.58.40:468][533]LogEditorBuildUtils: Build time 0:07
+[2018.11.08-03.58.44:489][546]Job is a success!
+[2018.11.08-03.58.44:922][547]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.069s
+[2018.11.08-03.58.44:922][547]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.11.08-03.58.44:922][547]LogVolumetricLightmapImport:      BrickData 1280x10x5 = 2.3Mb
+[2018.11.08-03.58.44:922][547]LogVolumetricLightmapImport:      Bricks at Level
+[2018.11.08-03.58.44:922][547]LogVolumetricLightmapImport:          0: 0.2% covering 100.0% of volume
+[2018.11.08-03.58.44:922][547]LogVolumetricLightmapImport:          1: 3.9% covering 25.0% of volume
+[2018.11.08-03.58.44:922][547]LogVolumetricLightmapImport:          2: 95.8% covering 9.6% of volume
+[2018.11.08-03.58.45:475][547]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.11.08-03.58.45:475][547]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.11.08-03.58.45:475][547]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2018.11.08-03.58.45:475][547]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2018.11.08-03.58.45:555][547]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2018.11.08-03.58.45:555][547]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X256)
+[2018.11.08-03.58.45:594][547]Lightmass on IMSKNG027AW24: 4.03 sec total, 186 ms importing, 20 ms setup, 707 ms photons, 3.05 sec processing, 0 ms extra exporting [64/64 mappings]. Threads: 21.2 sec total, 5.60 sec processing.
+[2018.11.08-03.58.45:642][547]LogStaticLightingSystem: Illumination: 11.8 sec (502 ms encoding lightmaps, 73 ms encoding shadowmaps)
+[2018.11.08-03.58.45:642][547]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.11.08-03.58.45:642][547]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.11.08-03.58.46:095][547]DumpUnbuiltLightIteractions
+[2018.11.08-03.58.46:095][547]Lights with unbuilt interactions: 0
+[2018.11.08-03.58.46:095][547]
+[2018.11.08-03.58.46:095][547]Primitives with unbuilt interactions: 0
+[2018.11.08-03.58.46:177][548]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.11.08-03.58.46:177][548]MapCheck: New page: Delta-Scar-Map - Nov 7, 2018, 5:58:46 PM
+[2018.11.08-03.58.46:260][548]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 82.382ms to complete.
+[2018.11.08-03.58.57:300][396]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-03.58.58:557][542]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-03.58.58:869][542]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Delta-Scar-MapB744835A4A7265C1A140D6A942888C7B.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map.umap'
+[2018.11.08-03.58.58:914][542]LogFileHelpers: Saving map 'Delta-Scar-Map' took 0.353
+[2018.11.08-03.58.59:012][542]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Delta-Scar-Map_BuiltData6A5AF6BF4EE3DB2F60BE14833F850DEA.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map_BuiltData.uasset'
+[2018.11.08-04.01.34:254][896]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-04.01.46:324][156]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-04.01.48:591][156]LogSlate: Window 'Choose Location for importing the scene content' being destroyed
+[2018.11.08-04.01.48:601][156]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-04.01.48:608][156]LogFactory: FactoryCreateFile: World with FbxSceneImportFactory (0 0 ../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/assets/hospital.fbx)
+[2018.11.08-04.01.48:642][156]LogFbx: Loading FBX Scene from ../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/assets/hospital.fbx
+[2018.11.08-04.01.48:656][156]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.08-04.01.48:660][156]LogFbx: =================================================
+[2018.11.08-04.01.48:660][156]LogFbx: Dumping Node START [pCube1] 
+[2018.11.08-04.01.48:660][156]LogFbx: 	Total Deformer Count 1599466352.
+[2018.11.08-04.01.48:660][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.48:660][156]LogFbx: 		[Node Attribute Child 1] pCube1 (Type Mesh).
+[2018.11.08-04.01.48:660][156]LogFbx: Dumping Node END [pCube1]
+[2018.11.08-04.01.48:661][156]LogFbx: =================================================
+[2018.11.08-04.01.48:661][156]LogFbx: Dumping Node START [pCube2] 
+[2018.11.08-04.01.48:661][156]LogFbx: 	Total Deformer Count 1599466352.
+[2018.11.08-04.01.48:661][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.48:661][156]LogFbx: 		[Node Attribute Child 1] pCube2 (Type Mesh).
+[2018.11.08-04.01.48:661][156]LogFbx: Dumping Node END [pCube2]
+[2018.11.08-04.01.48:661][156]LogFbx: =================================================
+[2018.11.08-04.01.48:661][156]LogFbx: Dumping Node START [pCube3] 
+[2018.11.08-04.01.48:661][156]LogFbx: 	Total Deformer Count 1599466352.
+[2018.11.08-04.01.48:661][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.48:661][156]LogFbx: 		[Node Attribute Child 1] pCube3 (Type Mesh).
+[2018.11.08-04.01.48:661][156]LogFbx: Dumping Node END [pCube3]
+[2018.11.08-04.01.48:661][156]LogFbx: =================================================
+[2018.11.08-04.01.48:661][156]LogFbx: Dumping Node START [pCube4] 
+[2018.11.08-04.01.48:661][156]LogFbx: 	Total Deformer Count 1599466352.
+[2018.11.08-04.01.48:661][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.48:661][156]LogFbx: 		[Node Attribute Child 1] pCube4 (Type Mesh).
+[2018.11.08-04.01.48:661][156]LogFbx: Dumping Node END [pCube4]
+[2018.11.08-04.01.48:661][156]LogFbx: =================================================
+[2018.11.08-04.01.48:661][156]LogFbx: Dumping Node START [pCube5] 
+[2018.11.08-04.01.48:661][156]LogFbx: 	Total Deformer Count 1599466352.
+[2018.11.08-04.01.48:661][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.48:661][156]LogFbx: 		[Node Attribute Child 1] pCube5 (Type Mesh).
+[2018.11.08-04.01.48:661][156]LogFbx: Dumping Node END [pCube5]
+[2018.11.08-04.01.48:661][156]LogFbx: =================================================
+[2018.11.08-04.01.48:661][156]LogFbx: Dumping Node START [pCube6] 
+[2018.11.08-04.01.48:661][156]LogFbx: 	Total Deformer Count 1599466352.
+[2018.11.08-04.01.48:661][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.48:661][156]LogFbx: 		[Node Attribute Child 1] pCube6 (Type Mesh).
+[2018.11.08-04.01.48:661][156]LogFbx: Dumping Node END [pCube6]
+[2018.11.08-04.01.48:661][156]LogFbx: =================================================
+[2018.11.08-04.01.48:661][156]LogFbx: Dumping Node START [pCube7] 
+[2018.11.08-04.01.48:661][156]LogFbx: 	Total Deformer Count 1599466352.
+[2018.11.08-04.01.48:661][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.48:661][156]LogFbx: 		[Node Attribute Child 1] pCube7 (Type Mesh).
+[2018.11.08-04.01.48:661][156]LogFbx: Dumping Node END [pCube7]
+[2018.11.08-04.01.48:661][156]LogFbx: =================================================
+[2018.11.08-04.01.48:661][156]LogFbx: Dumping Node START [pCube8] 
+[2018.11.08-04.01.48:661][156]LogFbx: 	Total Deformer Count 1599466352.
+[2018.11.08-04.01.48:661][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.48:661][156]LogFbx: 		[Node Attribute Child 1] pCube8 (Type Mesh).
+[2018.11.08-04.01.48:661][156]LogFbx: Dumping Node END [pCube8]
+[2018.11.08-04.01.48:661][156]LogFbx: =================================================
+[2018.11.08-04.01.48:661][156]LogFbx: Dumping Node START [pCube9] 
+[2018.11.08-04.01.48:661][156]LogFbx: 	Total Deformer Count 1599466352.
+[2018.11.08-04.01.48:661][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.48:661][156]LogFbx: 		[Node Attribute Child 1] pCube9 (Type Mesh).
+[2018.11.08-04.01.48:661][156]LogFbx: Dumping Node END [pCube9]
+[2018.11.08-04.01.48:661][156]LogFbx: =================================================
+[2018.11.08-04.01.48:662][156]LogFbx: Dumping Node START [pCube10] 
+[2018.11.08-04.01.48:662][156]LogFbx: 	Total Deformer Count 1599466352.
+[2018.11.08-04.01.48:662][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.48:662][156]LogFbx: 		[Node Attribute Child 1] pCube10 (Type Mesh).
+[2018.11.08-04.01.48:662][156]LogFbx: Dumping Node END [pCube10]
+[2018.11.08-04.01.48:662][156]LogFbx: =================================================
+[2018.11.08-04.01.48:662][156]LogFbx: Dumping Node START [pCube11] 
+[2018.11.08-04.01.48:662][156]LogFbx: 	Total Deformer Count 1599466352.
+[2018.11.08-04.01.48:662][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.48:662][156]LogFbx: 		[Node Attribute Child 1] pCube11 (Type Mesh).
+[2018.11.08-04.01.48:662][156]LogFbx: Dumping Node END [pCube11]
+[2018.11.08-04.01.48:662][156]LogFbx: =================================================
+[2018.11.08-04.01.48:662][156]LogFbx: Dumping Node START [pCube12] 
+[2018.11.08-04.01.48:662][156]LogFbx: 	Total Deformer Count 1599466352.
+[2018.11.08-04.01.48:662][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.48:662][156]LogFbx: 		[Node Attribute Child 1] pCube12 (Type Mesh).
+[2018.11.08-04.01.48:662][156]LogFbx: Dumping Node END [pCube12]
+[2018.11.08-04.01.48:662][156]LogFbx: =================================================
+[2018.11.08-04.01.48:662][156]LogFbx: Dumping Node START [pCube13] 
+[2018.11.08-04.01.48:662][156]LogFbx: 	Total Deformer Count 1599466352.
+[2018.11.08-04.01.48:662][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.48:662][156]LogFbx: 		[Node Attribute Child 1] pCube13 (Type Mesh).
+[2018.11.08-04.01.48:662][156]LogFbx: Dumping Node END [pCube13]
+[2018.11.08-04.01.48:662][156]LogFbx: =================================================
+[2018.11.08-04.01.48:662][156]LogFbx: Dumping Node START [pCube1] 
+[2018.11.08-04.01.48:662][156]LogFbx: 	Total Deformer Count 1599466128.
+[2018.11.08-04.01.48:662][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.48:662][156]LogFbx: 		[Node Attribute Child 1] pCube1 (Type Mesh).
+[2018.11.08-04.01.48:662][156]LogFbx: Dumping Node END [pCube1]
+[2018.11.08-04.01.48:662][156]LogFbx: =================================================
+[2018.11.08-04.01.48:662][156]LogFbx: Dumping Node START [pCube2] 
+[2018.11.08-04.01.48:662][156]LogFbx: 	Total Deformer Count 1599466128.
+[2018.11.08-04.01.48:662][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.48:662][156]LogFbx: 		[Node Attribute Child 1] pCube2 (Type Mesh).
+[2018.11.08-04.01.48:662][156]LogFbx: Dumping Node END [pCube2]
+[2018.11.08-04.01.48:662][156]LogFbx: =================================================
+[2018.11.08-04.01.48:662][156]LogFbx: Dumping Node START [pCube3] 
+[2018.11.08-04.01.48:662][156]LogFbx: 	Total Deformer Count 1599466128.
+[2018.11.08-04.01.48:662][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.48:663][156]LogFbx: 		[Node Attribute Child 1] pCube3 (Type Mesh).
+[2018.11.08-04.01.48:663][156]LogFbx: Dumping Node END [pCube3]
+[2018.11.08-04.01.48:663][156]LogFbx: =================================================
+[2018.11.08-04.01.48:663][156]LogFbx: Dumping Node START [pCube4] 
+[2018.11.08-04.01.48:663][156]LogFbx: 	Total Deformer Count 1599466128.
+[2018.11.08-04.01.48:663][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.48:663][156]LogFbx: 		[Node Attribute Child 1] pCube4 (Type Mesh).
+[2018.11.08-04.01.48:663][156]LogFbx: Dumping Node END [pCube4]
+[2018.11.08-04.01.48:663][156]LogFbx: =================================================
+[2018.11.08-04.01.48:663][156]LogFbx: Dumping Node START [pCube5] 
+[2018.11.08-04.01.48:663][156]LogFbx: 	Total Deformer Count 1599466128.
+[2018.11.08-04.01.48:663][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.48:663][156]LogFbx: 		[Node Attribute Child 1] pCube5 (Type Mesh).
+[2018.11.08-04.01.48:663][156]LogFbx: Dumping Node END [pCube5]
+[2018.11.08-04.01.48:663][156]LogFbx: =================================================
+[2018.11.08-04.01.48:663][156]LogFbx: Dumping Node START [pCube6] 
+[2018.11.08-04.01.48:663][156]LogFbx: 	Total Deformer Count 1599466128.
+[2018.11.08-04.01.48:663][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.48:663][156]LogFbx: 		[Node Attribute Child 1] pCube6 (Type Mesh).
+[2018.11.08-04.01.48:663][156]LogFbx: Dumping Node END [pCube6]
+[2018.11.08-04.01.48:663][156]LogFbx: =================================================
+[2018.11.08-04.01.48:663][156]LogFbx: Dumping Node START [pCube7] 
+[2018.11.08-04.01.48:663][156]LogFbx: 	Total Deformer Count 1599466128.
+[2018.11.08-04.01.48:663][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.48:663][156]LogFbx: 		[Node Attribute Child 1] pCube7 (Type Mesh).
+[2018.11.08-04.01.48:663][156]LogFbx: Dumping Node END [pCube7]
+[2018.11.08-04.01.48:663][156]LogFbx: =================================================
+[2018.11.08-04.01.48:663][156]LogFbx: Dumping Node START [pCube8] 
+[2018.11.08-04.01.48:663][156]LogFbx: 	Total Deformer Count 1599466128.
+[2018.11.08-04.01.48:663][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.48:663][156]LogFbx: 		[Node Attribute Child 1] pCube8 (Type Mesh).
+[2018.11.08-04.01.48:663][156]LogFbx: Dumping Node END [pCube8]
+[2018.11.08-04.01.48:663][156]LogFbx: =================================================
+[2018.11.08-04.01.48:663][156]LogFbx: Dumping Node START [pCube9] 
+[2018.11.08-04.01.48:663][156]LogFbx: 	Total Deformer Count 1599466128.
+[2018.11.08-04.01.48:663][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.48:663][156]LogFbx: 		[Node Attribute Child 1] pCube9 (Type Mesh).
+[2018.11.08-04.01.48:663][156]LogFbx: Dumping Node END [pCube9]
+[2018.11.08-04.01.48:663][156]LogFbx: =================================================
+[2018.11.08-04.01.48:663][156]LogFbx: Dumping Node START [pCube10] 
+[2018.11.08-04.01.48:663][156]LogFbx: 	Total Deformer Count 1599466128.
+[2018.11.08-04.01.48:663][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.48:663][156]LogFbx: 		[Node Attribute Child 1] pCube10 (Type Mesh).
+[2018.11.08-04.01.48:663][156]LogFbx: Dumping Node END [pCube10]
+[2018.11.08-04.01.48:663][156]LogFbx: =================================================
+[2018.11.08-04.01.48:663][156]LogFbx: Dumping Node START [pCube11] 
+[2018.11.08-04.01.48:663][156]LogFbx: 	Total Deformer Count 1599466128.
+[2018.11.08-04.01.48:663][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.48:663][156]LogFbx: 		[Node Attribute Child 1] pCube11 (Type Mesh).
+[2018.11.08-04.01.48:663][156]LogFbx: Dumping Node END [pCube11]
+[2018.11.08-04.01.48:663][156]LogFbx: =================================================
+[2018.11.08-04.01.48:663][156]LogFbx: Dumping Node START [pCube12] 
+[2018.11.08-04.01.48:664][156]LogFbx: 	Total Deformer Count 1599466128.
+[2018.11.08-04.01.48:664][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.48:664][156]LogFbx: 		[Node Attribute Child 1] pCube12 (Type Mesh).
+[2018.11.08-04.01.48:664][156]LogFbx: Dumping Node END [pCube12]
+[2018.11.08-04.01.48:664][156]LogFbx: =================================================
+[2018.11.08-04.01.48:664][156]LogFbx: Dumping Node START [pCube13] 
+[2018.11.08-04.01.48:664][156]LogFbx: 	Total Deformer Count 1599466128.
+[2018.11.08-04.01.48:664][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.48:664][156]LogFbx: 		[Node Attribute Child 1] pCube13 (Type Mesh).
+[2018.11.08-04.01.48:664][156]LogFbx: Dumping Node END [pCube13]
+[2018.11.08-04.01.50:265][156]LogSlate: Window 'FBX Scene Import Options' being destroyed
+[2018.11.08-04.01.50:282][156]LogFbx: =================================================
+[2018.11.08-04.01.50:282][156]LogFbx: Dumping Node START [pCube1] 
+[2018.11.08-04.01.50:282][156]LogFbx: 	Total Deformer Count 1599456832.
+[2018.11.08-04.01.50:282][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.50:282][156]LogFbx: 		[Node Attribute Child 1] pCube1 (Type Mesh).
+[2018.11.08-04.01.50:282][156]LogFbx: Dumping Node END [pCube1]
+[2018.11.08-04.01.50:282][156]LogFbx: =================================================
+[2018.11.08-04.01.50:282][156]LogFbx: Dumping Node START [pCube2] 
+[2018.11.08-04.01.50:282][156]LogFbx: 	Total Deformer Count 1599456832.
+[2018.11.08-04.01.50:282][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.50:282][156]LogFbx: 		[Node Attribute Child 1] pCube2 (Type Mesh).
+[2018.11.08-04.01.50:282][156]LogFbx: Dumping Node END [pCube2]
+[2018.11.08-04.01.50:282][156]LogFbx: =================================================
+[2018.11.08-04.01.50:282][156]LogFbx: Dumping Node START [pCube3] 
+[2018.11.08-04.01.50:282][156]LogFbx: 	Total Deformer Count 1599456832.
+[2018.11.08-04.01.50:282][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.50:282][156]LogFbx: 		[Node Attribute Child 1] pCube3 (Type Mesh).
+[2018.11.08-04.01.50:282][156]LogFbx: Dumping Node END [pCube3]
+[2018.11.08-04.01.50:282][156]LogFbx: =================================================
+[2018.11.08-04.01.50:282][156]LogFbx: Dumping Node START [pCube4] 
+[2018.11.08-04.01.50:282][156]LogFbx: 	Total Deformer Count 1599456832.
+[2018.11.08-04.01.50:282][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.50:282][156]LogFbx: 		[Node Attribute Child 1] pCube4 (Type Mesh).
+[2018.11.08-04.01.50:282][156]LogFbx: Dumping Node END [pCube4]
+[2018.11.08-04.01.50:282][156]LogFbx: =================================================
+[2018.11.08-04.01.50:282][156]LogFbx: Dumping Node START [pCube5] 
+[2018.11.08-04.01.50:282][156]LogFbx: 	Total Deformer Count 1599456832.
+[2018.11.08-04.01.50:282][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.50:282][156]LogFbx: 		[Node Attribute Child 1] pCube5 (Type Mesh).
+[2018.11.08-04.01.50:282][156]LogFbx: Dumping Node END [pCube5]
+[2018.11.08-04.01.50:282][156]LogFbx: =================================================
+[2018.11.08-04.01.50:282][156]LogFbx: Dumping Node START [pCube6] 
+[2018.11.08-04.01.50:283][156]LogFbx: 	Total Deformer Count 1599456832.
+[2018.11.08-04.01.50:283][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.50:283][156]LogFbx: 		[Node Attribute Child 1] pCube6 (Type Mesh).
+[2018.11.08-04.01.50:283][156]LogFbx: Dumping Node END [pCube6]
+[2018.11.08-04.01.50:283][156]LogFbx: =================================================
+[2018.11.08-04.01.50:283][156]LogFbx: Dumping Node START [pCube7] 
+[2018.11.08-04.01.50:283][156]LogFbx: 	Total Deformer Count 1599456832.
+[2018.11.08-04.01.50:283][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.50:283][156]LogFbx: 		[Node Attribute Child 1] pCube7 (Type Mesh).
+[2018.11.08-04.01.50:283][156]LogFbx: Dumping Node END [pCube7]
+[2018.11.08-04.01.50:283][156]LogFbx: =================================================
+[2018.11.08-04.01.50:283][156]LogFbx: Dumping Node START [pCube8] 
+[2018.11.08-04.01.50:283][156]LogFbx: 	Total Deformer Count 1599456832.
+[2018.11.08-04.01.50:283][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.50:283][156]LogFbx: 		[Node Attribute Child 1] pCube8 (Type Mesh).
+[2018.11.08-04.01.50:283][156]LogFbx: Dumping Node END [pCube8]
+[2018.11.08-04.01.50:283][156]LogFbx: =================================================
+[2018.11.08-04.01.50:283][156]LogFbx: Dumping Node START [pCube9] 
+[2018.11.08-04.01.50:283][156]LogFbx: 	Total Deformer Count 1599456832.
+[2018.11.08-04.01.50:283][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.50:283][156]LogFbx: 		[Node Attribute Child 1] pCube9 (Type Mesh).
+[2018.11.08-04.01.50:283][156]LogFbx: Dumping Node END [pCube9]
+[2018.11.08-04.01.50:283][156]LogFbx: =================================================
+[2018.11.08-04.01.50:283][156]LogFbx: Dumping Node START [pCube10] 
+[2018.11.08-04.01.50:283][156]LogFbx: 	Total Deformer Count 1599456832.
+[2018.11.08-04.01.50:283][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.50:283][156]LogFbx: 		[Node Attribute Child 1] pCube10 (Type Mesh).
+[2018.11.08-04.01.50:283][156]LogFbx: Dumping Node END [pCube10]
+[2018.11.08-04.01.50:283][156]LogFbx: =================================================
+[2018.11.08-04.01.50:283][156]LogFbx: Dumping Node START [pCube11] 
+[2018.11.08-04.01.50:283][156]LogFbx: 	Total Deformer Count 1599456832.
+[2018.11.08-04.01.50:283][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.50:283][156]LogFbx: 		[Node Attribute Child 1] pCube11 (Type Mesh).
+[2018.11.08-04.01.50:283][156]LogFbx: Dumping Node END [pCube11]
+[2018.11.08-04.01.50:283][156]LogFbx: =================================================
+[2018.11.08-04.01.50:283][156]LogFbx: Dumping Node START [pCube12] 
+[2018.11.08-04.01.50:283][156]LogFbx: 	Total Deformer Count 1599456832.
+[2018.11.08-04.01.50:283][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.50:283][156]LogFbx: 		[Node Attribute Child 1] pCube12 (Type Mesh).
+[2018.11.08-04.01.50:283][156]LogFbx: Dumping Node END [pCube12]
+[2018.11.08-04.01.50:283][156]LogFbx: =================================================
+[2018.11.08-04.01.50:283][156]LogFbx: Dumping Node START [pCube13] 
+[2018.11.08-04.01.50:283][156]LogFbx: 	Total Deformer Count 1599456832.
+[2018.11.08-04.01.50:283][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.50:283][156]LogFbx: 		[Node Attribute Child 1] pCube13 (Type Mesh).
+[2018.11.08-04.01.50:283][156]LogFbx: Dumping Node END [pCube13]
+[2018.11.08-04.01.50:283][156]LogFbx: =================================================
+[2018.11.08-04.01.50:283][156]LogFbx: Dumping Node START [pCube1] 
+[2018.11.08-04.01.50:283][156]LogFbx: 	Total Deformer Count 1599463328.
+[2018.11.08-04.01.50:283][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.50:283][156]LogFbx: 		[Node Attribute Child 1] pCube1 (Type Mesh).
+[2018.11.08-04.01.50:283][156]LogFbx: Dumping Node END [pCube1]
+[2018.11.08-04.01.50:283][156]LogFbx: =================================================
+[2018.11.08-04.01.50:283][156]LogFbx: Dumping Node START [pCube2] 
+[2018.11.08-04.01.50:283][156]LogFbx: 	Total Deformer Count 1599463328.
+[2018.11.08-04.01.50:283][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.50:283][156]LogFbx: 		[Node Attribute Child 1] pCube2 (Type Mesh).
+[2018.11.08-04.01.50:283][156]LogFbx: Dumping Node END [pCube2]
+[2018.11.08-04.01.50:283][156]LogFbx: =================================================
+[2018.11.08-04.01.50:283][156]LogFbx: Dumping Node START [pCube3] 
+[2018.11.08-04.01.50:283][156]LogFbx: 	Total Deformer Count 1599463328.
+[2018.11.08-04.01.50:283][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.50:283][156]LogFbx: 		[Node Attribute Child 1] pCube3 (Type Mesh).
+[2018.11.08-04.01.50:283][156]LogFbx: Dumping Node END [pCube3]
+[2018.11.08-04.01.50:283][156]LogFbx: =================================================
+[2018.11.08-04.01.50:284][156]LogFbx: Dumping Node START [pCube4] 
+[2018.11.08-04.01.50:284][156]LogFbx: 	Total Deformer Count 1599463328.
+[2018.11.08-04.01.50:284][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.50:284][156]LogFbx: 		[Node Attribute Child 1] pCube4 (Type Mesh).
+[2018.11.08-04.01.50:284][156]LogFbx: Dumping Node END [pCube4]
+[2018.11.08-04.01.50:284][156]LogFbx: =================================================
+[2018.11.08-04.01.50:284][156]LogFbx: Dumping Node START [pCube5] 
+[2018.11.08-04.01.50:284][156]LogFbx: 	Total Deformer Count 1599463328.
+[2018.11.08-04.01.50:284][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.50:284][156]LogFbx: 		[Node Attribute Child 1] pCube5 (Type Mesh).
+[2018.11.08-04.01.50:284][156]LogFbx: Dumping Node END [pCube5]
+[2018.11.08-04.01.50:284][156]LogFbx: =================================================
+[2018.11.08-04.01.50:284][156]LogFbx: Dumping Node START [pCube6] 
+[2018.11.08-04.01.50:284][156]LogFbx: 	Total Deformer Count 1599463328.
+[2018.11.08-04.01.50:284][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.50:284][156]LogFbx: 		[Node Attribute Child 1] pCube6 (Type Mesh).
+[2018.11.08-04.01.50:284][156]LogFbx: Dumping Node END [pCube6]
+[2018.11.08-04.01.50:284][156]LogFbx: =================================================
+[2018.11.08-04.01.50:284][156]LogFbx: Dumping Node START [pCube7] 
+[2018.11.08-04.01.50:284][156]LogFbx: 	Total Deformer Count 1599463328.
+[2018.11.08-04.01.50:284][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.50:284][156]LogFbx: 		[Node Attribute Child 1] pCube7 (Type Mesh).
+[2018.11.08-04.01.50:284][156]LogFbx: Dumping Node END [pCube7]
+[2018.11.08-04.01.50:284][156]LogFbx: =================================================
+[2018.11.08-04.01.50:284][156]LogFbx: Dumping Node START [pCube8] 
+[2018.11.08-04.01.50:284][156]LogFbx: 	Total Deformer Count 1599463328.
+[2018.11.08-04.01.50:284][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.50:284][156]LogFbx: 		[Node Attribute Child 1] pCube8 (Type Mesh).
+[2018.11.08-04.01.50:284][156]LogFbx: Dumping Node END [pCube8]
+[2018.11.08-04.01.50:284][156]LogFbx: =================================================
+[2018.11.08-04.01.50:284][156]LogFbx: Dumping Node START [pCube9] 
+[2018.11.08-04.01.50:284][156]LogFbx: 	Total Deformer Count 1599463328.
+[2018.11.08-04.01.50:284][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.50:284][156]LogFbx: 		[Node Attribute Child 1] pCube9 (Type Mesh).
+[2018.11.08-04.01.50:284][156]LogFbx: Dumping Node END [pCube9]
+[2018.11.08-04.01.50:284][156]LogFbx: =================================================
+[2018.11.08-04.01.50:284][156]LogFbx: Dumping Node START [pCube10] 
+[2018.11.08-04.01.50:284][156]LogFbx: 	Total Deformer Count 1599463328.
+[2018.11.08-04.01.50:284][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.50:284][156]LogFbx: 		[Node Attribute Child 1] pCube10 (Type Mesh).
+[2018.11.08-04.01.50:284][156]LogFbx: Dumping Node END [pCube10]
+[2018.11.08-04.01.50:284][156]LogFbx: =================================================
+[2018.11.08-04.01.50:284][156]LogFbx: Dumping Node START [pCube11] 
+[2018.11.08-04.01.50:284][156]LogFbx: 	Total Deformer Count 1599463328.
+[2018.11.08-04.01.50:284][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.50:284][156]LogFbx: 		[Node Attribute Child 1] pCube11 (Type Mesh).
+[2018.11.08-04.01.50:284][156]LogFbx: Dumping Node END [pCube11]
+[2018.11.08-04.01.50:284][156]LogFbx: =================================================
+[2018.11.08-04.01.50:284][156]LogFbx: Dumping Node START [pCube12] 
+[2018.11.08-04.01.50:284][156]LogFbx: 	Total Deformer Count 1599463328.
+[2018.11.08-04.01.50:284][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.50:284][156]LogFbx: 		[Node Attribute Child 1] pCube12 (Type Mesh).
+[2018.11.08-04.01.50:284][156]LogFbx: Dumping Node END [pCube12]
+[2018.11.08-04.01.50:284][156]LogFbx: =================================================
+[2018.11.08-04.01.50:284][156]LogFbx: Dumping Node START [pCube13] 
+[2018.11.08-04.01.50:284][156]LogFbx: 	Total Deformer Count 1599463328.
+[2018.11.08-04.01.50:284][156]LogFbx: 	Attribute () Type (4).
+[2018.11.08-04.01.50:284][156]LogFbx: 		[Node Attribute Child 1] pCube13 (Type Mesh).
+[2018.11.08-04.01.50:284][156]LogFbx: Dumping Node END [pCube13]
+[2018.11.08-04.01.50:411][156]LogFbx: Warning: Triangulating static mesh pCube1
+[2018.11.08-04.01.50:420][156]LogStaticMesh: Building static mesh pCube1...
+[2018.11.08-04.01.50:426][156]LogStaticMesh: Built static mesh [0.01s] /Game/pCube1_1.pCube1
+[2018.11.08-04.01.50:448][156]LogFbx: Warning: Triangulating static mesh pCube2
+[2018.11.08-04.01.50:450][156]LogStaticMesh: Building static mesh pCube2...
+[2018.11.08-04.01.50:451][156]LogStaticMesh: Built static mesh [0.00s] /Game/pCube2.pCube2
+[2018.11.08-04.01.50:458][156]LogFbx: Warning: Triangulating static mesh pCube3
+[2018.11.08-04.01.50:460][156]LogStaticMesh: Building static mesh pCube3...
+[2018.11.08-04.01.50:461][156]LogStaticMesh: Built static mesh [0.00s] /Game/pCube3.pCube3
+[2018.11.08-04.01.50:472][156]LogFbx: Warning: Triangulating static mesh pCube4
+[2018.11.08-04.01.50:474][156]LogStaticMesh: Building static mesh pCube4...
+[2018.11.08-04.01.50:475][156]LogStaticMesh: Built static mesh [0.00s] /Game/pCube4.pCube4
+[2018.11.08-04.01.50:483][156]LogFbx: Warning: Triangulating static mesh pCube5
+[2018.11.08-04.01.50:484][156]LogStaticMesh: Building static mesh pCube5...
+[2018.11.08-04.01.50:485][156]LogStaticMesh: Built static mesh [0.00s] /Game/pCube5.pCube5
+[2018.11.08-04.01.50:498][156]LogFbx: Warning: Triangulating static mesh pCube6
+[2018.11.08-04.01.50:499][156]LogStaticMesh: Building static mesh pCube6...
+[2018.11.08-04.01.50:500][156]LogStaticMesh: Built static mesh [0.00s] /Game/pCube6.pCube6
+[2018.11.08-04.01.50:511][156]LogFbx: Warning: Triangulating static mesh pCube7
+[2018.11.08-04.01.50:513][156]LogStaticMesh: Building static mesh pCube7...
+[2018.11.08-04.01.50:514][156]LogStaticMesh: Built static mesh [0.00s] /Game/pCube7.pCube7
+[2018.11.08-04.01.50:523][156]LogFbx: Warning: Triangulating static mesh pCube8
+[2018.11.08-04.01.50:525][156]LogStaticMesh: Building static mesh pCube8...
+[2018.11.08-04.01.50:526][156]LogStaticMesh: Built static mesh [0.00s] /Game/pCube8.pCube8
+[2018.11.08-04.01.50:535][156]LogFbx: Warning: Triangulating static mesh pCube9
+[2018.11.08-04.01.50:537][156]LogStaticMesh: Building static mesh pCube9...
+[2018.11.08-04.01.50:538][156]LogStaticMesh: Built static mesh [0.00s] /Game/pCube9.pCube9
+[2018.11.08-04.01.50:546][156]LogFbx: Warning: Triangulating static mesh pCube10
+[2018.11.08-04.01.50:548][156]LogStaticMesh: Building static mesh pCube10...
+[2018.11.08-04.01.50:549][156]LogStaticMesh: Built static mesh [0.00s] /Game/pCube10.pCube10
+[2018.11.08-04.01.50:557][156]LogFbx: Warning: Triangulating static mesh pCube11
+[2018.11.08-04.01.50:559][156]LogStaticMesh: Building static mesh pCube11...
+[2018.11.08-04.01.50:560][156]LogStaticMesh: Built static mesh [0.00s] /Game/pCube11.pCube11
+[2018.11.08-04.01.50:568][156]LogFbx: Warning: Triangulating static mesh pCube12
+[2018.11.08-04.01.50:570][156]LogStaticMesh: Building static mesh pCube12...
+[2018.11.08-04.01.50:570][156]LogStaticMesh: Built static mesh [0.00s] /Game/pCube12.pCube12
+[2018.11.08-04.01.50:580][156]LogFbx: Warning: Triangulating static mesh pCube13
+[2018.11.08-04.01.50:582][156]LogStaticMesh: Building static mesh pCube13...
+[2018.11.08-04.01.50:583][156]LogStaticMesh: Built static mesh [0.00s] /Game/pCube13.pCube13
+[2018.11.08-04.01.50:696][156]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FbxScene_hospital.FbxScene_hospital
+[2018.11.08-04.01.51:015][156]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.11.08-04.01.53:909][362]LogSlate: Window 'Message Log' being destroyed
+[2018.11.08-04.01.53:913][362]LogSlate: Window 'Message Log' being destroyed
+[2018.11.08-04.02.03:375][226]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-04.02.40:580][243]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-04.02.52:213][257]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-04.03.00:739][977]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-04.03.13:542][115]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-04.03.21:821][843]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-04.03.26:046][207]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-04.03.31:135][644]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-04.03.31:227][652]BlueprintLog: New page: Compile FbxScene_hospital
+[2018.11.08-04.03.33:740][848]LogSlate: Window 'FbxScene_hospital*' being destroyed
+[2018.11.08-04.03.33:744][848]LogSlate: Window 'FbxScene_hospital*' being destroyed
+[2018.11.08-04.03.35:073][995]LogSlate: Took 0.001573 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.08-04.03.35:774][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-04.03.46:623][295]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-04.03.46:713][305]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FbxScene_hospital.FbxScene_hospital
+[2018.11.08-04.04.04:780][548]LogSlate: Window 'FbxScene_hospital*' being destroyed
+[2018.11.08-04.04.06:164][714]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-04.04.06:586][761]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2018.11.08-04.04.09:869][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-04.04.17:625][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-04.04.20:657][426]BlueprintLog: New page: Compile FbxScene_hospital
+[2018.11.08-04.04.32:508][782]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-04.05.07:141][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-04.05.26:453][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-04.05.36:374][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-04.05.59:497][317]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-04.06.00:120][382]MapCheck: New page: Map Check
+[2018.11.08-04.06.00:126][382]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-04.06.00:129][382]LightingResults: New page: Lighting Build - Nov 7, 2018, 6:06:00 PM
+[2018.11.08-04.06.00:139][382]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.11.08-04.06.00:160][382]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.11.08-04.06.00:160][382]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.11.08-04.06.00:161][382]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.11.08-04.06.00:161][382]LogSwarmInterface: [TryOpenConnection] Local Process ID is 143056
+[2018.11.08-04.06.04:700][382]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.11.08-04.06.04:700][382]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.11.08-04.06.04:700][382]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.11.08-04.06.04:700][382]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.11.08-04.06.04:700][382]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.11.08-04.06.04:700][382]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.11.08-04.06.05:152][382]LogEditorBuildUtils: Build time 0:05
+[2018.11.08-04.06.05:160][382]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer lambert1, compiling. 
+[2018.11.08-04.06.05:177][382]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer lambert1, compiling. 
+[2018.11.08-04.06.05:188][383]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.08-04.06.05:193][383]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer default_windows_bldg10, compiling. 
+[2018.11.08-04.06.05:199][383]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer default_windows_bldg10, compiling. 
+[2018.11.08-04.06.05:203][383]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.08-04.06.05:218][384]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.08-04.06.05:223][384]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer None__SendaPeatonalDecal_png, compiling. 
+[2018.11.08-04.06.05:231][384]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.08-04.06.05:231][384]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer None__SendaPeatonalDecal_png, compiling. 
+[2018.11.08-04.06.06:705][385]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.08-04.06.11:031][648]Job is a success!
+[2018.11.08-04.06.11:060][649]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-04.06.11:119][649]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.045s
+[2018.11.08-04.06.11:119][649]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.11.08-04.06.11:119][649]LogVolumetricLightmapImport:      BrickData 1280x10x5 = 2.3Mb
+[2018.11.08-04.06.11:119][649]LogVolumetricLightmapImport:      Bricks at Level
+[2018.11.08-04.06.11:119][649]LogVolumetricLightmapImport:          0: 0.2% covering 100.0% of volume
+[2018.11.08-04.06.11:119][649]LogVolumetricLightmapImport:          1: 3.9% covering 25.0% of volume
+[2018.11.08-04.06.11:119][649]LogVolumetricLightmapImport:          2: 95.8% covering 9.6% of volume
+[2018.11.08-04.06.11:164][649]LogMaterial: Warning: Material /Game/None__SendaPeatonalDecal_png.None__SendaPeatonalDecal_png needed to have new flag set bUsedWithStaticLighting !
+[2018.11.08-04.06.11:167][649]LogMaterial: Display: Missing cached shader map for material None__SendaPeatonalDecal_png, compiling. 
+[2018.11.08-04.06.11:231][649]LogMaterial: Warning: Material /Game/lambert1.lambert1 needed to have new flag set bUsedWithStaticLighting !
+[2018.11.08-04.06.11:234][649]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2018.11.08-04.06.11:258][649]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.11.08-04.06.11:258][649]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.08-04.06.11:258][649]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.08-04.06.11:258][649]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.08-04.06.11:259][649]LogMaterial: Warning: Material /Game/default_windows_bldg10.default_windows_bldg10 needed to have new flag set bUsedWithStaticLighting !
+[2018.11.08-04.06.11:261][649]LogMaterial: Display: Missing cached shader map for material default_windows_bldg10, compiling. 
+[2018.11.08-04.06.11:803][649]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.11.08-04.06.11:803][649]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.11.08-04.06.11:803][649]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2018.11.08-04.06.11:803][649]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2018.11.08-04.06.11:803][649]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.11.08-04.06.11:966][649]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2018.11.08-04.06.11:966][649]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X512)
+[2018.11.08-04.06.12:014][649]Lightmass on IMSKNG027AW24: 4.69 sec total, 195 ms importing, 12 ms setup, 895 ms photons, 3.55 sec processing, 0 ms extra exporting [77/77 mappings]. Threads: 24.6 sec total, 8.27 sec processing.
+[2018.11.08-04.06.12:021][649]LogStaticLightingSystem: Illumination: 11.8 sec (511 ms encoding lightmaps, 159 ms encoding shadowmaps)
+[2018.11.08-04.06.12:021][649]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.11.08-04.06.12:022][649]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.11.08-04.06.12:771][649]DumpUnbuiltLightIteractions
+[2018.11.08-04.06.12:771][649]Lights with unbuilt interactions: 0
+[2018.11.08-04.06.12:771][649]
+[2018.11.08-04.06.12:771][649]Primitives with unbuilt interactions: 0
+[2018.11.08-04.06.12:776][649]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-04.06.19:088][649]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.11.08-04.06.19:088][649]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.11.08-04.06.19:088][649]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.11.08-04.06.19:088][649]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.08-04.06.19:088][649]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.08-04.06.19:088][649]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.08-04.06.19:130][650]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.11.08-04.06.19:130][650]MapCheck: New page: Delta-Scar-Map - Nov 7, 2018, 6:06:19 PM
+[2018.11.08-04.06.19:202][650]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 72.478ms to complete.
+[2018.11.08-04.06.24:956][169]MapCheck: New page: Map Check
+[2018.11.08-04.06.24:967][169]LightingResults: New page: Lighting Build - Nov 7, 2018, 6:06:24 PM
+[2018.11.08-04.06.24:977][169]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.11.08-04.06.24:996][169]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.11.08-04.06.24:996][169]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.11.08-04.06.24:997][169]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.11.08-04.06.24:997][169]LogSwarmInterface: [TryOpenConnection] Local Process ID is 143056
+[2018.11.08-04.06.29:509][169]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.11.08-04.06.29:510][169]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.11.08-04.06.29:510][169]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.11.08-04.06.29:510][169]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.11.08-04.06.29:510][169]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.11.08-04.06.29:510][169]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.11.08-04.06.29:966][169]LogEditorBuildUtils: Build time 0:05
+[2018.11.08-04.06.29:972][169]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer lambert1, compiling. 
+[2018.11.08-04.06.29:979][169]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer lambert1, compiling. 
+[2018.11.08-04.06.29:991][170]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.08-04.06.29:991][170]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.08-04.06.29:997][170]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer default_windows_bldg10, compiling. 
+[2018.11.08-04.06.30:004][170]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.08-04.06.30:004][170]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer default_windows_bldg10, compiling. 
+[2018.11.08-04.06.30:009][170]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.08-04.06.30:027][171]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer None__SendaPeatonalDecal_png, compiling. 
+[2018.11.08-04.06.30:035][171]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer None__SendaPeatonalDecal_png, compiling. 
+[2018.11.08-04.06.31:364][172]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.08-04.06.31:368][173]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.08-04.06.31:947][178]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.08-04.06.32:425][215]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.08-04.06.32:981][251]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.08-04.06.35:982][433]Job is a success!
+[2018.11.08-04.06.36:020][434]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-04.06.36:084][434]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.049s
+[2018.11.08-04.06.36:084][434]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.11.08-04.06.36:085][434]LogVolumetricLightmapImport:      BrickData 1280x10x5 = 2.3Mb
+[2018.11.08-04.06.36:085][434]LogVolumetricLightmapImport:      Bricks at Level
+[2018.11.08-04.06.36:085][434]LogVolumetricLightmapImport:          0: 0.2% covering 100.0% of volume
+[2018.11.08-04.06.36:085][434]LogVolumetricLightmapImport:          1: 3.9% covering 25.0% of volume
+[2018.11.08-04.06.36:085][434]LogVolumetricLightmapImport:          2: 95.8% covering 9.6% of volume
+[2018.11.08-04.06.36:588][434]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.11.08-04.06.36:588][434]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.11.08-04.06.36:588][434]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2018.11.08-04.06.36:588][434]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2018.11.08-04.06.36:712][434]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2018.11.08-04.06.36:712][434]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X512)
+[2018.11.08-04.06.36:749][434]Lightmass on IMSKNG027AW24: 4.73 sec total, 204 ms importing, 12 ms setup, 906 ms photons, 3.58 sec processing, 0 ms extra exporting [77/77 mappings]. Threads: 24.8 sec total, 9.01 sec processing.
+[2018.11.08-04.06.36:754][434]LogStaticLightingSystem: Illumination: 11.7 sec (457 ms encoding lightmaps, 119 ms encoding shadowmaps)
+[2018.11.08-04.06.36:754][434]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.11.08-04.06.36:754][434]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.11.08-04.06.37:594][434]DumpUnbuiltLightIteractions
+[2018.11.08-04.06.37:595][434]Lights with unbuilt interactions: 0
+[2018.11.08-04.06.37:595][434]
+[2018.11.08-04.06.37:595][434]Primitives with unbuilt interactions: 0
+[2018.11.08-04.06.37:649][435]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.11.08-04.06.37:649][435]MapCheck: New page: Delta-Scar-Map - Nov 7, 2018, 6:06:37 PM
+[2018.11.08-04.06.37:722][435]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 73.114ms to complete.
+[2018.11.08-04.07.05:738][574]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.08-04.07.11:903][261]LogEditorViewport: Clicking on Actor (LMB): FbxScene_hospital_C (FbxScene_hospital)
+[2018.11.08-04.07.13:143][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-04.07.19:780][174]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-04.07.33:592][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-04.07.49:671][694]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-04.08.02:258][162]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.08-04.08.05:327][520]LogEditorViewport: Clicking on Actor (LMB): FbxScene_order_temple_C (FbxScene_order_temple)
+[2018.11.08-04.08.06:425][642]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-04.08.10:707][135]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.08-04.08.11:575][229]LogEditorViewport: Clicking on Actor (LMB): FbxScene_order_temple_C (FbxScene_order_temple)
+[2018.11.08-04.08.23:216][550]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-04.08.24:870][721]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-04.08.25:180][721]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Delta-Scar-MapA7CF207645C1E577609C2FA151B96729.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map.umap'
+[2018.11.08-04.08.25:211][721]LogFileHelpers: Saving map 'Delta-Scar-Map' took 0.335
+[2018.11.08-04.08.25:325][721]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Delta-Scar-Map_BuiltData3D6EFDDC4CAE030203C7FA9E72B36F0E.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map_BuiltData.uasset'
+[2018.11.08-04.08.40:045][842]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-04.08.41:224][963]BlueprintLog: New page: Compile FbxScene_hospital
+[2018.11.08-04.09.21:880][687]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-04.09.22:120][687]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Delta-Scar-MapA22D3C98482727F9182157A888CF24B4.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map.umap'
+[2018.11.08-04.09.22:275][687]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Delta-Scar-Map_BuiltDataF441783F44A0092E96D8249EFA38FF47.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map_BuiltData.uasset'
+[2018.11.08-04.09.25:072][  9]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-04.09.25:163][ 20]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.08-04.09.25:193][ 20]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel' has LevelScriptBlueprint '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map' with GeneratedClass '/Game/Delta-Scar-Map.Delta-Scar-Map_C' with ClassGeneratedBy '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map'
+[2018.11.08-04.09.25:195][ 20]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.08-04.09.25:215][ 20]PIE: New page: PIE session: Delta-Scar-Map (Nov 7, 2018, 6:09:25 PM)
+[2018.11.08-04.09.25:215][ 20]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Delta-Scar-Map
+[2018.11.08-04.09.25:222][ 20]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006783s)
+[2018.11.08-04.09.25:223][ 20]LogAIModule: Creating AISystem for world Delta-Scar-Map
+[2018.11.08-04.09.25:223][ 20]LogPlayLevel: PIE: World Init took: (0.001147s)
+[2018.11.08-04.09.25:224][ 20]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Delta-Scar-Map.Delta-Scar-Map to /Game/UEDPIE_0_Delta-Scar-Map.Delta-Scar-Map (0.008659s)
+[2018.11.08-04.09.25:264][ 20]LogInit: XAudio2 using 'Dell S2417DG (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.08-04.09.25:278][ 20]LogInit: FAudioDevice initialized.
+[2018.11.08-04.09.25:327][ 20]LogLoad: Game class is 'GameModeBase'
+[2018.11.08-04.09.25:337][ 20]LogWorld: Bringing World /Game/UEDPIE_0_Delta-Scar-Map.Delta-Scar-Map up for play (max tick rate 0) at 2018.11.07-23.09.25
+[2018.11.08-04.09.25:339][ 20]LogWorld: Bringing up level for play took: 0.004554
+[2018.11.08-04.09.25:366][ 20]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.11.08-04.09.25:370][ 20]PIE: Play in editor start time for /Game/UEDPIE_0_Delta-Scar-Map -0.31
+[2018.11.08-04.09.25:371][ 20]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel' has LevelScriptBlueprint '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map' with GeneratedClass '/Game/Delta-Scar-Map.Delta-Scar-Map_C' with ClassGeneratedBy '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map'
+[2018.11.08-04.09.33:106][942]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel' has LevelScriptBlueprint '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map' with GeneratedClass '/Game/Delta-Scar-Map.Delta-Scar-Map_C' with ClassGeneratedBy '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map'
+[2018.11.08-04.09.33:107][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-04.09.33:146][942]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.08-04.09.33:146][942]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel' has LevelScriptBlueprint '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map' with GeneratedClass '/Game/Delta-Scar-Map.Delta-Scar-Map_C' with ClassGeneratedBy '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map'
+[2018.11.08-04.09.33:176][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-04.09.33:220][944]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.11.08-04.09.35:381][202]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-04.09.36:012][277]MapCheck: New page: Map Check
+[2018.11.08-04.09.36:019][277]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-04.09.36:021][277]LightingResults: New page: Lighting Build - Nov 7, 2018, 6:09:36 PM
+[2018.11.08-04.09.36:029][277]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.11.08-04.09.36:048][277]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.11.08-04.09.36:048][277]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.11.08-04.09.36:049][277]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.11.08-04.09.36:049][277]LogSwarmInterface: [TryOpenConnection] Local Process ID is 143056
+[2018.11.08-04.09.40:559][277]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.11.08-04.09.40:560][277]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.11.08-04.09.40:560][277]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.11.08-04.09.40:560][277]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.11.08-04.09.40:560][277]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.11.08-04.09.40:560][277]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.11.08-04.09.40:969][277]LogEditorBuildUtils: Build time 0:04
+[2018.11.08-04.09.46:584][621]Job is a success!
+[2018.11.08-04.09.46:612][622]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-04.09.46:681][622]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.050s
+[2018.11.08-04.09.46:682][622]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.11.08-04.09.46:682][622]LogVolumetricLightmapImport:      BrickData 1280x10x5 = 2.3Mb
+[2018.11.08-04.09.46:682][622]LogVolumetricLightmapImport:      Bricks at Level
+[2018.11.08-04.09.46:682][622]LogVolumetricLightmapImport:          0: 0.2% covering 100.0% of volume
+[2018.11.08-04.09.46:682][622]LogVolumetricLightmapImport:          1: 3.9% covering 25.0% of volume
+[2018.11.08-04.09.46:682][622]LogVolumetricLightmapImport:          2: 95.8% covering 9.6% of volume
+[2018.11.08-04.09.47:194][622]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.11.08-04.09.47:194][622]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.11.08-04.09.47:194][622]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2018.11.08-04.09.47:194][622]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2018.11.08-04.09.47:314][622]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 32X32)
+[2018.11.08-04.09.47:315][622]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 1024X512)
+[2018.11.08-04.09.47:352][622]Lightmass on IMSKNG027AW24: 5.73 sec total, 218 ms importing, 14 ms setup, 1.43 sec photons, 4.02 sec processing, 0 ms extra exporting [77/77 mappings]. Threads: 28.0 sec total, 10.6 sec processing.
+[2018.11.08-04.09.47:359][622]LogStaticLightingSystem: Illumination: 11.3 sec (463 ms encoding lightmaps, 115 ms encoding shadowmaps)
+[2018.11.08-04.09.47:359][622]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.11.08-04.09.47:359][622]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.11.08-04.09.47:629][622]DumpUnbuiltLightIteractions
+[2018.11.08-04.09.47:629][622]Lights with unbuilt interactions: 0
+[2018.11.08-04.09.47:629][622]
+[2018.11.08-04.09.47:629][622]Primitives with unbuilt interactions: 0
+[2018.11.08-04.09.47:635][622]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-04.09.47:690][623]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.11.08-04.09.47:690][623]MapCheck: New page: Delta-Scar-Map - Nov 7, 2018, 6:09:47 PM
+[2018.11.08-04.09.47:765][623]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 74.276ms to complete.
+[2018.11.08-04.19.31:176][450]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Delta-Scar-Map' took 0.026
+[2018.11.08-04.19.31:178][450]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/hospital] ([1] browsable assets)...
+[2018.11.08-04.19.31:178][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/hospital]
+[2018.11.08-04.19.31:190][450]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/hospital_Auto174BFDA0440D125906075D8A0A9B14922.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/hospital_Auto1.uasset'
+[2018.11.08-04.19.31:191][450]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Delta-Scar-Map_BuiltData] ([1] browsable assets)...
+[2018.11.08-04.19.31:191][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/Delta-Scar-Map_BuiltData]
+[2018.11.08-04.19.31:229][450]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Delta-Scar-Map_BuiltData_Auto1FF6539CE4D06D1BC2F4B998CF7367FAF.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/Delta-Scar-Map_BuiltData_Auto1.uasset'
+[2018.11.08-04.19.31:230][450]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pCube5] ([1] browsable assets)...
+[2018.11.08-04.19.31:242][450]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/pCube5.pCube5]
+[2018.11.08-04.19.31:242][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/pCube5]
+[2018.11.08-04.19.31:260][450]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/pCube5_Auto1CEFBC5574DC9FF5F9973BAA67DB83D19.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/pCube5_Auto1.uasset'
+[2018.11.08-04.19.31:262][450]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pCube4] ([1] browsable assets)...
+[2018.11.08-04.19.31:275][450]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/pCube4.pCube4]
+[2018.11.08-04.19.31:275][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/pCube4]
+[2018.11.08-04.19.31:293][450]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/pCube4_Auto1CEAE4A2B430DBD4641508D9B0A5857DE.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/pCube4_Auto1.uasset'
+[2018.11.08-04.19.31:295][450]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pCube3] ([1] browsable assets)...
+[2018.11.08-04.19.31:306][450]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/pCube3.pCube3]
+[2018.11.08-04.19.31:306][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/pCube3]
+[2018.11.08-04.19.31:325][450]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/pCube3_Auto137D38D1741BF21D84A28F98BFD320C69.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/pCube3_Auto1.uasset'
+[2018.11.08-04.19.31:326][450]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/lambert1] ([1] browsable assets)...
+[2018.11.08-04.19.31:339][450]OBJ SavePackage:     Rendered thumbnail for [Material /Game/lambert1.lambert1]
+[2018.11.08-04.19.31:339][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/lambert1]
+[2018.11.08-04.19.31:369][450]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/lambert1_Auto1C54125E6462E0A2CDBCA7DA8D4D653DA.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/lambert1_Auto1.uasset'
+[2018.11.08-04.19.31:370][450]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pCube2] ([1] browsable assets)...
+[2018.11.08-04.19.31:381][450]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/pCube2.pCube2]
+[2018.11.08-04.19.31:381][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/pCube2]
+[2018.11.08-04.19.31:401][450]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/pCube2_Auto17B16148A4783C09722DEEC843D7DA70E.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/pCube2_Auto1.uasset'
+[2018.11.08-04.19.31:403][450]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pCube1_1] ([1] browsable assets)...
+[2018.11.08-04.19.31:416][450]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/pCube1_1.pCube1]
+[2018.11.08-04.19.31:416][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/pCube1_1]
+[2018.11.08-04.19.31:433][450]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/pCube1_1_Auto1091B59704896C93CD3E2B79C315DF296.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/pCube1_1_Auto1.uasset'
+[2018.11.08-04.19.31:435][450]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pCube6] ([1] browsable assets)...
+[2018.11.08-04.19.31:446][450]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/pCube6.pCube6]
+[2018.11.08-04.19.31:446][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/pCube6]
+[2018.11.08-04.19.31:466][450]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/pCube6_Auto12601B0464A4DA57B8FA724968B055A46.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/pCube6_Auto1.uasset'
+[2018.11.08-04.19.31:467][450]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pCube7] ([1] browsable assets)...
+[2018.11.08-04.19.31:479][450]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/pCube7.pCube7]
+[2018.11.08-04.19.31:479][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/pCube7]
+[2018.11.08-04.19.31:499][450]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/pCube7_Auto1F37C08DD46BC5AFB446B7CAB7CF76914.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/pCube7_Auto1.uasset'
+[2018.11.08-04.19.31:501][450]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pCube8] ([1] browsable assets)...
+[2018.11.08-04.19.31:512][450]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/pCube8.pCube8]
+[2018.11.08-04.19.31:512][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/pCube8]
+[2018.11.08-04.19.31:530][450]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/pCube8_Auto1AB385B924A5178DF794E05A3F6E4C906.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/pCube8_Auto1.uasset'
+[2018.11.08-04.19.31:531][450]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pCube9] ([1] browsable assets)...
+[2018.11.08-04.19.31:541][450]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/pCube9.pCube9]
+[2018.11.08-04.19.31:541][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/pCube9]
+[2018.11.08-04.19.31:557][450]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/pCube9_Auto14B2A505340FD5AAF4857DE8ED334B54C.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/pCube9_Auto1.uasset'
+[2018.11.08-04.19.31:559][450]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pCube10] ([1] browsable assets)...
+[2018.11.08-04.19.31:570][450]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/pCube10.pCube10]
+[2018.11.08-04.19.31:570][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/pCube10]
+[2018.11.08-04.19.31:590][450]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/pCube10_Auto1505D201146A00BBAFF9789AEA6BB471B.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/pCube10_Auto1.uasset'
+[2018.11.08-04.19.31:591][450]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pCube11] ([1] browsable assets)...
+[2018.11.08-04.19.31:603][450]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/pCube11.pCube11]
+[2018.11.08-04.19.31:603][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/pCube11]
+[2018.11.08-04.19.31:620][450]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/pCube11_Auto15A0724714477B4CC1149808C0C8A0DD7.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/pCube11_Auto1.uasset'
+[2018.11.08-04.19.31:622][450]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pCube12] ([1] browsable assets)...
+[2018.11.08-04.19.31:634][450]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/pCube12.pCube12]
+[2018.11.08-04.19.31:634][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/pCube12]
+[2018.11.08-04.19.31:654][450]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/pCube12_Auto12ABA64814D5E36C4AD0F12A0DC27AD3D.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/pCube12_Auto1.uasset'
+[2018.11.08-04.19.31:656][450]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pCube13] ([1] browsable assets)...
+[2018.11.08-04.19.31:666][450]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/pCube13.pCube13]
+[2018.11.08-04.19.31:666][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/pCube13]
+[2018.11.08-04.19.31:682][450]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/pCube13_Auto11C1F123547DFC64BD78313B6F7A10126.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/pCube13_Auto1.uasset'
+[2018.11.08-04.19.31:684][450]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FbxScene_hospital] ([1] browsable assets)...
+[2018.11.08-04.19.31:695][450]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FbxScene_hospital.FbxScene_hospital]
+[2018.11.08-04.19.31:695][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/FbxScene_hospital]
+[2018.11.08-04.19.31:733][450]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/FbxScene_hospital_Auto1E8EFC4614E3E33047362A08682A2701C.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/FbxScene_hospital_Auto1.uasset'
+[2018.11.08-04.19.31:735][450]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/default_windows_bldg10] ([1] browsable assets)...
+[2018.11.08-04.19.31:744][450]OBJ SavePackage:     Rendered thumbnail for [Material /Game/default_windows_bldg10.default_windows_bldg10]
+[2018.11.08-04.19.31:744][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/default_windows_bldg10]
+[2018.11.08-04.19.31:774][450]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/default_windows_bldg10_Auto1CE9D7FF745A56C22ABA57391CE8B11E1.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/default_windows_bldg10_Auto1.uasset'
+[2018.11.08-04.19.31:775][450]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/None__SendaPeatonalDecal_png] ([1] browsable assets)...
+[2018.11.08-04.19.31:787][450]OBJ SavePackage:     Rendered thumbnail for [Material /Game/None__SendaPeatonalDecal_png.None__SendaPeatonalDecal_png]
+[2018.11.08-04.19.31:787][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/None__SendaPeatonalDecal_png]
+[2018.11.08-04.19.31:820][450]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/None__SendaPeatonalDecal_png_AutD2A0499449C986A94310D48140108E9E.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/None__SendaPeatonalDecal_png_Auto1.uasset'
+[2018.11.08-04.19.31:821][450]LogFileHelpers: Auto-saving content packages took 0.644
+[2018.11.08-04.19.33:842][457]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-04.19.44:813][764]LogEditorViewport: Clicking on Actor (LMB): FbxScene_3d-model_C (FbxScene_3d-model)
+[2018.11.08-04.19.46:271][929]Cmd: DELETE
+[2018.11.08-04.19.46:271][929]Cmd: ACTOR DELETE
+[2018.11.08-04.19.46:285][929]LogEditorActor: Deleted Actor: FbxScene_3d-model_C
+[2018.11.08-04.19.46:312][929]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2018.11.08-04.19.48:598][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-04.19.51:644][347]LogSlate: Window 'Delete Assets' being destroyed
+[2018.11.08-04.19.58:232][770]LogSlate: Window 'Delete Assets' being destroyed
+[2018.11.08-04.20.00:853][915]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FbxScene_3d-model.FbxScene_3d-model
+[2018.11.08-04.20.03:908][187]LogSlate: Window 'FbxScene_3d-model' being destroyed
+[2018.11.08-04.20.03:911][187]LogSlate: Window 'FbxScene_3d-model' being destroyed
+[2018.11.08-04.20.11:277][558]LogSlate: Window 'Delete Assets' being destroyed
+[2018.11.08-04.20.19:454][171]LogSlate: Window 'Delete Assets' being destroyed
+[2018.11.08-04.20.30:135][140]LogSlate: Window 'Delete Assets' being destroyed
+[2018.11.08-04.20.31:319][234]LogAssetEditorManager: Opening Asset editor for FbxSceneImportData /Game/capital_building.capital_building
+[2018.11.08-04.20.33:610][501]LogSlate: Window 'capital_building - Generic Asset Editor' being destroyed
+[2018.11.08-04.20.33:613][501]LogSlate: Window 'capital_building - Generic Asset Editor' being destroyed
+[2018.11.08-04.20.38:813][961]LogSlate: Window 'Delete Assets' being destroyed
+[2018.11.08-04.20.55:902][884]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/geo_belt.geo_belt
+[2018.11.08-04.21.19:762][510]LogSlate: Window 'geo_belt*' being destroyed
+[2018.11.08-04.21.19:765][510]LogSlate: Window 'geo_belt*' being destroyed
+[2018.11.08-04.21.22:972][878]MapCheck: New page: Map Check
+[2018.11.08-04.21.22:981][878]LightingResults: New page: Lighting Build - Nov 7, 2018, 6:21:22 PM
+[2018.11.08-04.21.22:992][878]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.11.08-04.21.23:011][878]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.11.08-04.21.23:012][878]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.11.08-04.21.23:013][878]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.11.08-04.21.23:013][878]LogSwarmInterface: [TryOpenConnection] Local Process ID is 143056
+[2018.11.08-04.21.27:532][878]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.11.08-04.21.27:533][878]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.11.08-04.21.27:533][878]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.11.08-04.21.27:533][878]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.11.08-04.21.27:533][878]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.11.08-04.21.27:533][878]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.11.08-04.21.27:966][878]LogEditorBuildUtils: Build time 0:04
+[2018.11.08-04.21.32:593][222]Job is a success!
+[2018.11.08-04.21.32:675][223]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.045s
+[2018.11.08-04.21.32:675][223]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.11.08-04.21.32:675][223]LogVolumetricLightmapImport:      BrickData 1280x10x5 = 2.3Mb
+[2018.11.08-04.21.32:675][223]LogVolumetricLightmapImport:      Bricks at Level
+[2018.11.08-04.21.32:675][223]LogVolumetricLightmapImport:          0: 0.2% covering 100.0% of volume
+[2018.11.08-04.21.32:675][223]LogVolumetricLightmapImport:          1: 3.9% covering 25.0% of volume
+[2018.11.08-04.21.32:675][223]LogVolumetricLightmapImport:          2: 95.8% covering 9.6% of volume
+[2018.11.08-04.21.33:195][223]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.11.08-04.21.33:195][223]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.11.08-04.21.33:195][223]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2018.11.08-04.21.33:195][223]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2018.11.08-04.21.33:314][223]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 32X32)
+[2018.11.08-04.21.33:315][223]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 1024X512)
+[2018.11.08-04.21.33:329][223]Lightmass on IMSKNG027AW24: 4.78 sec total, 214 ms importing, 24 ms setup, 930 ms photons, 3.57 sec processing, 0 ms extra exporting [75/75 mappings]. Threads: 24.8 sec total, 8.75 sec processing.
+[2018.11.08-04.21.33:358][223]LogStaticLightingSystem: Illumination: 10.3 sec (474 ms encoding lightmaps, 117 ms encoding shadowmaps)
+[2018.11.08-04.21.33:358][223]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.11.08-04.21.33:358][223]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.11.08-04.21.33:641][223]DumpUnbuiltLightIteractions
+[2018.11.08-04.21.33:641][223]Lights with unbuilt interactions: 0
+[2018.11.08-04.21.33:641][223]
+[2018.11.08-04.21.33:641][223]Primitives with unbuilt interactions: 0
+[2018.11.08-04.21.33:706][224]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.11.08-04.21.33:706][224]MapCheck: New page: Delta-Scar-Map - Nov 7, 2018, 6:21:33 PM
+[2018.11.08-04.21.33:815][224]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 108.963ms to complete.
+[2018.11.08-04.21.48:587][974]LogEditorViewport: Clicking on Actor (LMB): FbxScene_order_temple_C (FbxScene_order_temple)
+[2018.11.08-04.21.50:167][139]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-04.22.09:384][331]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2018.11.08-04.22.10:340][431]LogEditorViewport: Clicking on Actor (LMB): FbxScene_capital_building_C (FbxScene_capital_building)
+[2018.11.08-04.22.12:520][669]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-04.22.29:928][716]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-04.22.36:075][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-04.22.45:663][568]Cmd: TRANSACTION UNDO
+[2018.11.08-04.22.45:663][568]LogEditorTransaction: Undo Move Actors
+[2018.11.08-04.23.02:129][492]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-04.23.11:721][618]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.08-04.23.16:559][164]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-04.23.17:454][260]MapCheck: New page: Map Check
+[2018.11.08-04.23.17:464][260]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-04.23.17:468][260]LightingResults: New page: Lighting Build - Nov 7, 2018, 6:23:17 PM
+[2018.11.08-04.23.17:477][260]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.11.08-04.23.17:497][260]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.11.08-04.23.17:497][260]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.11.08-04.23.17:498][260]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.11.08-04.23.17:498][260]LogSwarmInterface: [TryOpenConnection] Local Process ID is 143056
+[2018.11.08-04.23.22:010][260]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.11.08-04.23.22:010][260]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.11.08-04.23.22:010][260]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.11.08-04.23.22:010][260]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.11.08-04.23.22:010][260]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.11.08-04.23.22:010][260]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.11.08-04.23.22:401][260]LogEditorBuildUtils: Build time 0:04
+[2018.11.08-04.23.24:720][376]LogEditorViewport: Clicking on Actor (LMB): FbxScene_MachinegunTurret_C (FbxScene_MachinegunTurret)
+[2018.11.08-04.23.26:358][468]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-04.23.26:844][498]Job is a success!
+[2018.11.08-04.23.26:929][499]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.046s
+[2018.11.08-04.23.26:929][499]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.11.08-04.23.26:929][499]LogVolumetricLightmapImport:      BrickData 1280x10x5 = 2.3Mb
+[2018.11.08-04.23.26:929][499]LogVolumetricLightmapImport:      Bricks at Level
+[2018.11.08-04.23.26:929][499]LogVolumetricLightmapImport:          0: 0.2% covering 100.0% of volume
+[2018.11.08-04.23.26:929][499]LogVolumetricLightmapImport:          1: 3.9% covering 25.0% of volume
+[2018.11.08-04.23.26:929][499]LogVolumetricLightmapImport:          2: 95.8% covering 9.6% of volume
+[2018.11.08-04.23.27:472][499]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.11.08-04.23.27:472][499]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.11.08-04.23.27:472][499]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2018.11.08-04.23.27:472][499]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2018.11.08-04.23.27:613][499]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 32X32)
+[2018.11.08-04.23.27:613][499]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 1024X512)
+[2018.11.08-04.23.27:625][499]Lightmass on IMSKNG027AW24: 4.66 sec total, 193 ms importing, 10 ms setup, 1.03 sec photons, 3.40 sec processing, 0 ms extra exporting [75/75 mappings]. Threads: 23.5 sec total, 9.07 sec processing.
+[2018.11.08-04.23.27:659][499]LogStaticLightingSystem: Illumination: 10.1 sec (498 ms encoding lightmaps, 137 ms encoding shadowmaps)
+[2018.11.08-04.23.27:659][499]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.11.08-04.23.27:659][499]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.11.08-04.23.28:079][499]DumpUnbuiltLightIteractions
+[2018.11.08-04.23.28:079][499]Lights with unbuilt interactions: 0
+[2018.11.08-04.23.28:079][499]
+[2018.11.08-04.23.28:079][499]Primitives with unbuilt interactions: 0
+[2018.11.08-04.23.28:084][499]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-04.23.28:164][500]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.11.08-04.23.28:164][500]MapCheck: New page: Delta-Scar-Map - Nov 7, 2018, 6:23:28 PM
+[2018.11.08-04.23.28:263][500]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 98.336ms to complete.
+[2018.11.08-04.23.28:264][500]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-04.23.32:820][ 28]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.08-04.24.12:453][902]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane_21)
+[2018.11.08-04.24.19:966][784]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.08-04.25.30:976][253]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-04.29.38:086][424]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Delta-Scar-Map_Auto2EEEC3D544F39A2990A0DDAA2E0CB3D24.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/Delta-Scar-Map_Auto2.umap'
+[2018.11.08-04.29.38:090][424]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Delta-Scar-Map' took 0.205
+[2018.11.08-04.29.38:090][424]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.205
+[2018.11.08-04.29.38:092][424]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Delta-Scar-Map_BuiltData] ([1] browsable assets)...
+[2018.11.08-04.29.38:092][424]OBJ SavePackage: Finished generating thumbnails for package [/Game/Delta-Scar-Map_BuiltData]
+[2018.11.08-04.29.38:118][424]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Delta-Scar-Map_BuiltData_Auto203FE59F84016FE63FDD4CBACC050D280.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/Delta-Scar-Map_BuiltData_Auto2.uasset'
+[2018.11.08-04.29.38:120][424]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pPrism1] ([1] browsable assets)...
+[2018.11.08-04.29.38:133][424]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/pPrism1.pPrism1]
+[2018.11.08-04.29.38:133][424]OBJ SavePackage: Finished generating thumbnails for package [/Game/pPrism1]
+[2018.11.08-04.29.38:156][424]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/pPrism1_Auto2C502ABAB4872ABBB65D6AC96547595BE.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/pPrism1_Auto2.uasset'
+[2018.11.08-04.29.38:158][424]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pPyramid1] ([1] browsable assets)...
+[2018.11.08-04.29.38:171][424]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/pPyramid1.pPyramid1]
+[2018.11.08-04.29.38:171][424]OBJ SavePackage: Finished generating thumbnails for package [/Game/pPyramid1]
+[2018.11.08-04.29.38:195][424]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/pPyramid1_Auto2FBE495AB4FD3EDD477A535BB938A5C0F.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/pPyramid1_Auto2.uasset'
+[2018.11.08-04.29.38:196][424]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/geo_belt] ([1] browsable assets)...
+[2018.11.08-04.29.38:211][424]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/geo_belt.geo_belt]
+[2018.11.08-04.29.38:211][424]OBJ SavePackage: Finished generating thumbnails for package [/Game/geo_belt]
+[2018.11.08-04.29.38:240][424]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/geo_belt_Auto25F1D808D42769575DE2288BBB39B10D6.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/geo_belt_Auto2.uasset'
+[2018.11.08-04.29.38:243][424]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/geo_shoulder_strap] ([1] browsable assets)...
+[2018.11.08-04.29.38:261][424]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/geo_shoulder_strap.geo_shoulder_strap]
+[2018.11.08-04.29.38:261][424]OBJ SavePackage: Finished generating thumbnails for package [/Game/geo_shoulder_strap]
+[2018.11.08-04.29.38:289][424]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/geo_shoulder_strap_Auto2A9F6440D49669CF8DFDA3C9A6C440AC3.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/geo_shoulder_strap_Auto2.uasset'
+[2018.11.08-04.29.38:290][424]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/head_head_pTorus2] ([1] browsable assets)...
+[2018.11.08-04.29.38:304][424]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/head_head_pTorus2.head_head_pTorus2]
+[2018.11.08-04.29.38:304][424]OBJ SavePackage: Finished generating thumbnails for package [/Game/head_head_pTorus2]
+[2018.11.08-04.29.38:333][424]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/head_head_pTorus2_Auto2362ED8214DF4F86CBDAD2BA102783FBD.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/head_head_pTorus2_Auto2.uasset'
+[2018.11.08-04.29.38:334][424]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/kain_deformer_polySurface207] ([1] browsable assets)...
+[2018.11.08-04.29.38:350][424]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/kain_deformer_polySurface207.kain_deformer_polySurface207]
+[2018.11.08-04.29.38:350][424]OBJ SavePackage: Finished generating thumbnails for package [/Game/kain_deformer_polySurface207]
+[2018.11.08-04.29.38:375][424]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/kain_deformer_polySurface207_Aut6FA5AD484982FE4D0B4063BE110FA8A4.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/kain_deformer_polySurface207_Auto2.uasset'
+[2018.11.08-04.29.38:377][424]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/reaverblade_polySurface216] ([1] browsable assets)...
+[2018.11.08-04.29.38:391][424]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/reaverblade_polySurface216.reaverblade_polySurface216]
+[2018.11.08-04.29.38:391][424]OBJ SavePackage: Finished generating thumbnails for package [/Game/reaverblade_polySurface216]
+[2018.11.08-04.29.38:418][424]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/reaverblade_polySurface216_Auto268E62E5844CB7250CC8D81BD53FD8E8E.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/reaverblade_polySurface216_Auto2.uasset'
+[2018.11.08-04.29.38:420][424]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/reaverblade_polySurface217] ([1] browsable assets)...
+[2018.11.08-04.29.38:433][424]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/reaverblade_polySurface217.reaverblade_polySurface217]
+[2018.11.08-04.29.38:433][424]OBJ SavePackage: Finished generating thumbnails for package [/Game/reaverblade_polySurface217]
+[2018.11.08-04.29.38:458][424]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/reaverblade_polySurface217_Auto2DF7CE31E438600E2433B0C9F5020BFA4.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/reaverblade_polySurface217_Auto2.uasset'
+[2018.11.08-04.29.38:459][424]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/wrap_deformer_base1] ([1] browsable assets)...
+[2018.11.08-04.29.38:473][424]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/wrap_deformer_base1.wrap_deformer_base1]
+[2018.11.08-04.29.38:473][424]OBJ SavePackage: Finished generating thumbnails for package [/Game/wrap_deformer_base1]
+[2018.11.08-04.29.38:499][424]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/wrap_deformer_base1_Auto2F42F888D4A64670F6862E3BFC8D68F30.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/wrap_deformer_base1_Auto2.uasset'
+[2018.11.08-04.29.38:500][424]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/wrap_deformer_base2] ([1] browsable assets)...
+[2018.11.08-04.29.38:514][424]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/wrap_deformer_base2.wrap_deformer_base2]
+[2018.11.08-04.29.38:514][424]OBJ SavePackage: Finished generating thumbnails for package [/Game/wrap_deformer_base2]
+[2018.11.08-04.29.38:539][424]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/wrap_deformer_base2_Auto2C8791EE44A3787107C41EDB976277F0E.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/wrap_deformer_base2_Auto2.uasset'
+[2018.11.08-04.29.38:540][424]LogFileHelpers: Auto-saving content packages took 0.449
