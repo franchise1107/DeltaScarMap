@@ -3901,3 +3901,442 @@ No such host is known.
 [2018.11.08-05.30.03:582][418]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2018.11.08-05.30.12:362][458]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2018.11.08-05.30.39:047][614]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-05.32.10:878][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-05.32.15:332][964]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_1_C (FbxScene_skyscraper_1)
+[2018.11.08-05.32.17:258][189]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_1_C (FbxScene_skyscraper_2)
+[2018.11.08-05.32.18:280][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-05.32.30:426][749]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_1_C (FbxScene_skyscraper_1)
+[2018.11.08-05.32.30:982][813]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_1_C (FbxScene_skyscraper_2)
+[2018.11.08-05.32.33:925][163]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_1_C (FbxScene_skyscraper_1)
+[2018.11.08-05.32.34:440][222]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_1_C (FbxScene_skyscraper_1)
+[2018.11.08-05.32.34:995][287]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_1_C (FbxScene_skyscraper_2)
+[2018.11.08-05.32.36:012][406]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-05.32.40:538][948]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_1_C (FbxScene_skyscraper_1)
+[2018.11.08-05.32.43:605][313]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-05.32.54:390][603]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_1_C (FbxScene_skyscraper_2)
+[2018.11.08-05.33.12:613][775]LogEditorViewport: Clicking on Actor (context menu): FbxScene_skyscraper_1_C (FbxScene_skyscraper_1)
+[2018.11.08-05.33.12:650][775]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-05.33.13:857][916]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.11.08-05.33.14:344][969]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_1_C (FbxScene_skyscraper_2)
+[2018.11.08-05.33.15:553][111]LogEditorViewport: Clicking on Actor (context menu): FbxScene_skyscraper_1_C (FbxScene_skyscraper_2)
+[2018.11.08-05.33.15:572][111]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-05.33.18:936][484]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel' has LevelScriptBlueprint '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map' with GeneratedClass '/Game/Delta-Scar-Map.Delta-Scar-Map_C' with ClassGeneratedBy '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map'
+[2018.11.08-05.33.18:936][484]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.11.08-05.33.18:938][484]LogPlayLevel: [PlayLevel] Compiling FbxScene_refinery before play...
+[2018.11.08-05.33.19:056][484]LogPlayLevel: PlayLevel: Blueprint regeneration took 120 ms (1 blueprints)
+[2018.11.08-05.33.19:056][484]PIE: New page: PIE session: Delta-Scar-Map (Nov 7, 2018, 7:33:19 PM)
+[2018.11.08-05.33.19:056][484]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Delta-Scar-Map
+[2018.11.08-05.33.19:062][484]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005918s)
+[2018.11.08-05.33.19:063][484]LogAIModule: Creating AISystem for world Delta-Scar-Map
+[2018.11.08-05.33.19:063][484]LogPlayLevel: PIE: World Init took: (0.000724s)
+[2018.11.08-05.33.19:063][484]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Delta-Scar-Map.Delta-Scar-Map to /Game/UEDPIE_0_Delta-Scar-Map.Delta-Scar-Map (0.006776s)
+[2018.11.08-05.33.19:092][484]LogInit: XAudio2 using 'Dell S2417DG (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.08-05.33.19:103][484]LogInit: FAudioDevice initialized.
+[2018.11.08-05.33.19:104][484]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-05.33.19:134][484]LogLoad: Game class is 'GameModeBase'
+[2018.11.08-05.33.19:138][484]LogWorld: Bringing World /Game/UEDPIE_0_Delta-Scar-Map.Delta-Scar-Map up for play (max tick rate 0) at 2018.11.08-00.33.19
+[2018.11.08-05.33.19:138][484]LogWorld: Bringing up level for play took: 0.003423
+[2018.11.08-05.33.19:151][484]PIE: Play in editor start time for /Game/UEDPIE_0_Delta-Scar-Map -0.6
+[2018.11.08-05.33.19:151][484]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel' has LevelScriptBlueprint '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map' with GeneratedClass '/Game/Delta-Scar-Map.Delta-Scar-Map_C' with ClassGeneratedBy '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map'
+[2018.11.08-05.34.41:006][285]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel' has LevelScriptBlueprint '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map' with GeneratedClass '/Game/Delta-Scar-Map.Delta-Scar-Map_C' with ClassGeneratedBy '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map'
+[2018.11.08-05.34.41:006][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-05.34.41:039][285]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.08-05.34.41:039][285]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel' has LevelScriptBlueprint '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map' with GeneratedClass '/Game/Delta-Scar-Map.Delta-Scar-Map_C' with ClassGeneratedBy '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map'
+[2018.11.08-05.34.41:076][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-05.34.41:112][288]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2018.11.08-05.34.53:756][789]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_1_C (FbxScene_skyscraper_2)
+[2018.11.08-05.35.09:779][691]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-05.35.50:785][592]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-05.35.51:500][677]MapCheck: New page: Map Check
+[2018.11.08-05.35.51:511][677]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-05.35.51:514][677]LightingResults: New page: Lighting Build - Nov 7, 2018, 7:35:51 PM
+[2018.11.08-05.35.51:526][677]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.11.08-05.35.51:547][677]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.11.08-05.35.51:547][677]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.11.08-05.35.51:548][677]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.11.08-05.35.51:548][677]LogSwarmInterface: [TryOpenConnection] Local Process ID is 143056
+[2018.11.08-05.35.56:072][677]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.11.08-05.35.56:072][677]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.11.08-05.35.56:072][677]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.11.08-05.35.56:072][677]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.11.08-05.35.56:072][677]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.11.08-05.35.56:072][677]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.11.08-05.35.56:448][677]LogEditorBuildUtils: Build time 0:04
+[2018.11.08-05.36.00:741][717]Job is a success!
+[2018.11.08-05.36.01:150][718]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-05.36.01:220][718]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.049s
+[2018.11.08-05.36.01:220][718]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.11.08-05.36.01:220][718]LogVolumetricLightmapImport:      BrickData 1280x10x5 = 2.3Mb
+[2018.11.08-05.36.01:220][718]LogVolumetricLightmapImport:      Bricks at Level
+[2018.11.08-05.36.01:220][718]LogVolumetricLightmapImport:          0: 0.2% covering 100.0% of volume
+[2018.11.08-05.36.01:220][718]LogVolumetricLightmapImport:          1: 3.9% covering 25.0% of volume
+[2018.11.08-05.36.01:220][718]LogVolumetricLightmapImport:          2: 95.9% covering 9.7% of volume
+[2018.11.08-05.36.01:879][718]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.11.08-05.36.01:879][718]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.11.08-05.36.01:879][718]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2018.11.08-05.36.01:879][718]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2018.11.08-05.36.01:984][718]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (G8, 32X32)
+[2018.11.08-05.36.01:984][718]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (G8, 1024X512)
+[2018.11.08-05.36.02:026][718]Lightmass on IMSKNG027AW24: 5.00 sec total, 170 ms importing, 10 ms setup, 1.01 sec photons, 3.77 sec processing, 0 ms extra exporting [122/122 mappings]. Threads: 26.2 sec total, 9.12 sec processing.
+[2018.11.08-05.36.02:031][718]LogStaticLightingSystem: Illumination: 10.1 sec (596 ms encoding lightmaps, 103 ms encoding shadowmaps)
+[2018.11.08-05.36.02:031][718]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.11.08-05.36.02:031][718]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.11.08-05.36.02:141][718]DumpUnbuiltLightIteractions
+[2018.11.08-05.36.02:141][718]Lights with unbuilt interactions: 0
+[2018.11.08-05.36.02:141][718]
+[2018.11.08-05.36.02:141][718]Primitives with unbuilt interactions: 0
+[2018.11.08-05.36.02:145][718]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-05.36.02:192][719]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.11.08-05.36.02:192][719]MapCheck: New page: Delta-Scar-Map - Nov 7, 2018, 7:36:02 PM
+[2018.11.08-05.36.02:304][719]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 111.561ms to complete.
+[2018.11.08-05.36.02:315][719]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-05.36.03:378][833]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-05.36.03:695][833]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Delta-Scar-Map058EA6664DB46D167A03BEB53708095A.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map.umap'
+[2018.11.08-05.36.03:726][833]LogFileHelpers: Saving map 'Delta-Scar-Map' took 0.342
+[2018.11.08-05.36.03:862][833]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Delta-Scar-Map_BuiltData9DAA9E45461FE5D97F41C3A85BA3841F.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map_BuiltData.uasset'
+[2018.11.08-05.36.03:868][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/skyscraper_1" FILE="../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/skyscraper_1.uasset" SILENT=true
+[2018.11.08-05.36.03:873][833]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/skyscraper_179A087EA4D95301313421480AFBF0B86.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/skyscraper_1.uasset'
+[2018.11.08-05.36.03:887][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pCube1_3" FILE="../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/pCube1_3.uasset" SILENT=true
+[2018.11.08-05.36.03:900][833]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/pCube1_3A69D91B74FF775EE69E93D918F9BE9BA.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/pCube1_3.uasset'
+[2018.11.08-05.39.20:151][571]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-05.39.27:162][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-05.39.35:891][440]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane3)
+[2018.11.08-05.39.36:250][477]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.11.08-05.39.37:085][573]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.11.08-05.39.37:447][613]LogEditorViewport: Clicking on Component (LMB): CapsuleComponent (CollisionCapsule)
+[2018.11.08-05.39.37:730][643]LogEditorViewport: Clicking on Component (LMB): CapsuleComponent (CollisionCapsule)
+[2018.11.08-05.39.40:639][990]LogEditorViewport: Clicking on Component (LMB): CapsuleComponent (CollisionCapsule)
+[2018.11.08-05.39.42:039][156]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-05.39.57:600][ 19]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.08-05.39.57:615][ 19]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel' has LevelScriptBlueprint '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map' with GeneratedClass '/Game/Delta-Scar-Map.Delta-Scar-Map_C' with ClassGeneratedBy '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map'
+[2018.11.08-05.39.57:615][ 19]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.08-05.39.57:615][ 19]PIE: New page: PIE session: Delta-Scar-Map (Nov 7, 2018, 7:39:57 PM)
+[2018.11.08-05.39.57:615][ 19]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Delta-Scar-Map
+[2018.11.08-05.39.57:620][ 19]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005339s)
+[2018.11.08-05.39.57:621][ 19]LogAIModule: Creating AISystem for world Delta-Scar-Map
+[2018.11.08-05.39.57:621][ 19]LogPlayLevel: PIE: World Init took: (0.000762s)
+[2018.11.08-05.39.57:621][ 19]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Delta-Scar-Map.Delta-Scar-Map to /Game/UEDPIE_0_Delta-Scar-Map.Delta-Scar-Map (0.006227s)
+[2018.11.08-05.39.57:651][ 19]LogInit: XAudio2 using 'Dell S2417DG (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.08-05.39.57:659][ 19]LogInit: FAudioDevice initialized.
+[2018.11.08-05.39.57:693][ 19]LogLoad: Game class is 'GameModeBase'
+[2018.11.08-05.39.57:696][ 19]LogWorld: Bringing World /Game/UEDPIE_0_Delta-Scar-Map.Delta-Scar-Map up for play (max tick rate 0) at 2018.11.08-00.39.57
+[2018.11.08-05.39.57:697][ 19]LogWorld: Bringing up level for play took: 0.002854
+[2018.11.08-05.39.57:711][ 19]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.08-05.39.57:713][ 19]PIE: Play in editor start time for /Game/UEDPIE_0_Delta-Scar-Map -0.048
+[2018.11.08-05.39.57:713][ 19]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel' has LevelScriptBlueprint '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map' with GeneratedClass '/Game/Delta-Scar-Map.Delta-Scar-Map_C' with ClassGeneratedBy '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map'
+[2018.11.08-05.40.02:739][620]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel' has LevelScriptBlueprint '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map' with GeneratedClass '/Game/Delta-Scar-Map.Delta-Scar-Map_C' with ClassGeneratedBy '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map'
+[2018.11.08-05.40.02:740][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-05.40.02:774][620]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.08-05.40.02:774][620]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel' has LevelScriptBlueprint '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map' with GeneratedClass '/Game/Delta-Scar-Map.Delta-Scar-Map_C' with ClassGeneratedBy '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map'
+[2018.11.08-05.40.02:796][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-05.40.02:839][623]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2018.11.08-05.40.09:895][467]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-05.40.09:978][477]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.08-05.40.09:992][477]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel' has LevelScriptBlueprint '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map' with GeneratedClass '/Game/Delta-Scar-Map.Delta-Scar-Map_C' with ClassGeneratedBy '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map'
+[2018.11.08-05.40.09:993][477]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.08-05.40.09:993][477]PIE: New page: PIE session: Delta-Scar-Map (Nov 7, 2018, 7:40:09 PM)
+[2018.11.08-05.40.09:993][477]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Delta-Scar-Map
+[2018.11.08-05.40.09:998][477]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005090s)
+[2018.11.08-05.40.09:998][477]LogAIModule: Creating AISystem for world Delta-Scar-Map
+[2018.11.08-05.40.09:998][477]LogPlayLevel: PIE: World Init took: (0.000565s)
+[2018.11.08-05.40.09:999][477]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Delta-Scar-Map.Delta-Scar-Map to /Game/UEDPIE_0_Delta-Scar-Map.Delta-Scar-Map (0.005780s)
+[2018.11.08-05.40.10:025][477]LogInit: XAudio2 using 'Dell S2417DG (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.08-05.40.10:032][477]LogInit: FAudioDevice initialized.
+[2018.11.08-05.40.10:063][477]LogLoad: Game class is 'GameModeBase'
+[2018.11.08-05.40.10:066][477]LogWorld: Bringing World /Game/UEDPIE_0_Delta-Scar-Map.Delta-Scar-Map up for play (max tick rate 0) at 2018.11.08-00.40.10
+[2018.11.08-05.40.10:066][477]LogWorld: Bringing up level for play took: 0.002899
+[2018.11.08-05.40.10:078][477]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.08-05.40.10:079][477]PIE: Play in editor start time for /Game/UEDPIE_0_Delta-Scar-Map 0.318
+[2018.11.08-05.40.10:079][477]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel' has LevelScriptBlueprint '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map' with GeneratedClass '/Game/Delta-Scar-Map.Delta-Scar-Map_C' with ClassGeneratedBy '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map'
+[2018.11.08-05.40.17:564][370]Cmd: DELETE
+[2018.11.08-05.40.17:564][370]Cmd: ACTOR DELETE
+[2018.11.08-05.40.17:570][370]LogEditorActor: Deleted Actor: PlayerStart
+[2018.11.08-05.40.17:592][370]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2018.11.08-05.40.19:475][596]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel' has LevelScriptBlueprint '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map' with GeneratedClass '/Game/Delta-Scar-Map.Delta-Scar-Map_C' with ClassGeneratedBy '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map'
+[2018.11.08-05.40.19:475][596]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-05.40.19:507][596]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.08-05.40.19:507][596]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel' has LevelScriptBlueprint '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map' with GeneratedClass '/Game/Delta-Scar-Map.Delta-Scar-Map_C' with ClassGeneratedBy '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map'
+[2018.11.08-05.40.19:529][596]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-05.40.19:581][602]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2018.11.08-05.40.20:064][660]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.08-05.40.20:078][660]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel' has LevelScriptBlueprint '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map' with GeneratedClass '/Game/Delta-Scar-Map.Delta-Scar-Map_C' with ClassGeneratedBy '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map'
+[2018.11.08-05.40.20:078][660]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.08-05.40.20:078][660]PIE: New page: PIE session: Delta-Scar-Map (Nov 7, 2018, 7:40:20 PM)
+[2018.11.08-05.40.20:078][660]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Delta-Scar-Map
+[2018.11.08-05.40.20:083][660]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004756s)
+[2018.11.08-05.40.20:084][660]LogAIModule: Creating AISystem for world Delta-Scar-Map
+[2018.11.08-05.40.20:085][660]LogPlayLevel: PIE: World Init took: (0.000976s)
+[2018.11.08-05.40.20:085][660]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Delta-Scar-Map.Delta-Scar-Map to /Game/UEDPIE_0_Delta-Scar-Map.Delta-Scar-Map (0.006184s)
+[2018.11.08-05.40.20:114][660]LogInit: XAudio2 using 'Dell S2417DG (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.08-05.40.20:121][660]LogInit: FAudioDevice initialized.
+[2018.11.08-05.40.20:153][660]LogLoad: Game class is 'GameModeBase'
+[2018.11.08-05.40.20:156][660]LogWorld: Bringing World /Game/UEDPIE_0_Delta-Scar-Map.Delta-Scar-Map up for play (max tick rate 0) at 2018.11.08-00.40.20
+[2018.11.08-05.40.20:156][660]LogWorld: Bringing up level for play took: 0.002761
+[2018.11.08-05.40.20:168][660]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.08-05.40.20:169][660]PIE: Play in editor start time for /Game/UEDPIE_0_Delta-Scar-Map 0.408
+[2018.11.08-05.40.20:169][660]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel' has LevelScriptBlueprint '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map' with GeneratedClass '/Game/Delta-Scar-Map.Delta-Scar-Map_C' with ClassGeneratedBy '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map'
+[2018.11.08-05.40.21:274][791]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel' has LevelScriptBlueprint '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map' with GeneratedClass '/Game/Delta-Scar-Map.Delta-Scar-Map_C' with ClassGeneratedBy '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map'
+[2018.11.08-05.40.21:274][791]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-05.40.21:304][791]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.08-05.40.21:304][791]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel' has LevelScriptBlueprint '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map' with GeneratedClass '/Game/Delta-Scar-Map.Delta-Scar-Map_C' with ClassGeneratedBy '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map'
+[2018.11.08-05.40.21:327][791]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-05.40.21:379][797]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2018.11.08-05.40.23:576][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-05.40.23:951][103]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.08-05.40.23:966][103]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel' has LevelScriptBlueprint '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map' with GeneratedClass '/Game/Delta-Scar-Map.Delta-Scar-Map_C' with ClassGeneratedBy '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map'
+[2018.11.08-05.40.23:966][103]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.08-05.40.23:966][103]PIE: New page: PIE session: Delta-Scar-Map (Nov 7, 2018, 7:40:23 PM)
+[2018.11.08-05.40.23:966][103]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Delta-Scar-Map
+[2018.11.08-05.40.23:971][103]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004911s)
+[2018.11.08-05.40.23:971][103]LogAIModule: Creating AISystem for world Delta-Scar-Map
+[2018.11.08-05.40.23:972][103]LogPlayLevel: PIE: World Init took: (0.000552s)
+[2018.11.08-05.40.23:972][103]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Delta-Scar-Map.Delta-Scar-Map to /Game/UEDPIE_0_Delta-Scar-Map.Delta-Scar-Map (0.005582s)
+[2018.11.08-05.40.23:999][103]LogInit: XAudio2 using 'Dell S2417DG (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.08-05.40.24:006][103]LogInit: FAudioDevice initialized.
+[2018.11.08-05.40.24:037][103]LogLoad: Game class is 'GameModeBase'
+[2018.11.08-05.40.24:040][103]LogWorld: Bringing World /Game/UEDPIE_0_Delta-Scar-Map.Delta-Scar-Map up for play (max tick rate 0) at 2018.11.08-00.40.24
+[2018.11.08-05.40.24:040][103]LogWorld: Bringing up level for play took: 0.002790
+[2018.11.08-05.40.24:053][103]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.08-05.40.24:053][103]PIE: Play in editor start time for /Game/UEDPIE_0_Delta-Scar-Map 0.293
+[2018.11.08-05.40.24:053][103]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel' has LevelScriptBlueprint '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map' with GeneratedClass '/Game/Delta-Scar-Map.Delta-Scar-Map_C' with ClassGeneratedBy '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map'
+[2018.11.08-05.40.25:191][238]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel' has LevelScriptBlueprint '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map' with GeneratedClass '/Game/Delta-Scar-Map.Delta-Scar-Map_C' with ClassGeneratedBy '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map'
+[2018.11.08-05.40.25:191][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-05.40.25:225][238]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.08-05.40.25:225][238]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel' has LevelScriptBlueprint '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map' with GeneratedClass '/Game/Delta-Scar-Map.Delta-Scar-Map_C' with ClassGeneratedBy '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map'
+[2018.11.08-05.40.25:248][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-05.40.25:291][243]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2018.11.08-05.40.33:187][182]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-05.40.34:363][322]Cmd: DELETE
+[2018.11.08-05.40.34:363][322]Cmd: ACTOR DELETE
+[2018.11.08-05.40.34:365][322]LogEditorActor: Deleted Actor: PlayerStart
+[2018.11.08-05.40.34:386][322]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2018.11.08-05.40.37:897][743]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.08-05.40.37:911][743]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel' has LevelScriptBlueprint '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map' with GeneratedClass '/Game/Delta-Scar-Map.Delta-Scar-Map_C' with ClassGeneratedBy '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map'
+[2018.11.08-05.40.37:911][743]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.08-05.40.37:911][743]PIE: New page: PIE session: Delta-Scar-Map (Nov 7, 2018, 7:40:37 PM)
+[2018.11.08-05.40.37:911][743]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Delta-Scar-Map
+[2018.11.08-05.40.37:916][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004914s)
+[2018.11.08-05.40.37:916][743]LogAIModule: Creating AISystem for world Delta-Scar-Map
+[2018.11.08-05.40.37:916][743]LogPlayLevel: PIE: World Init took: (0.000552s)
+[2018.11.08-05.40.37:916][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Delta-Scar-Map.Delta-Scar-Map to /Game/UEDPIE_0_Delta-Scar-Map.Delta-Scar-Map (0.005584s)
+[2018.11.08-05.40.37:944][743]LogInit: XAudio2 using 'Dell S2417DG (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.08-05.40.37:951][743]LogInit: FAudioDevice initialized.
+[2018.11.08-05.40.37:983][743]LogLoad: Game class is 'GameModeBase'
+[2018.11.08-05.40.37:986][743]LogWorld: Bringing World /Game/UEDPIE_0_Delta-Scar-Map.Delta-Scar-Map up for play (max tick rate 0) at 2018.11.08-00.40.37
+[2018.11.08-05.40.37:987][743]LogWorld: Bringing up level for play took: 0.002785
+[2018.11.08-05.40.37:999][743]PIE: Play in editor start time for /Game/UEDPIE_0_Delta-Scar-Map 0.238
+[2018.11.08-05.40.37:999][743]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel' has LevelScriptBlueprint '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map' with GeneratedClass '/Game/Delta-Scar-Map.Delta-Scar-Map_C' with ClassGeneratedBy '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map'
+[2018.11.08-05.40.38:807][838]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel' has LevelScriptBlueprint '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map' with GeneratedClass '/Game/Delta-Scar-Map.Delta-Scar-Map_C' with ClassGeneratedBy '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map'
+[2018.11.08-05.40.38:807][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-05.40.38:837][838]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.08-05.40.38:837][838]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel' has LevelScriptBlueprint '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map' with GeneratedClass '/Game/Delta-Scar-Map.Delta-Scar-Map_C' with ClassGeneratedBy '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map'
+[2018.11.08-05.40.38:859][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-05.40.38:907][843]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2018.11.08-05.40.47:188][835]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-05.40.49:830][141]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-05.40.49:900][149]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.08-05.40.49:917][149]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel' has LevelScriptBlueprint '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map' with GeneratedClass '/Game/Delta-Scar-Map.Delta-Scar-Map_C' with ClassGeneratedBy '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map'
+[2018.11.08-05.40.49:917][149]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.08-05.40.49:918][149]PIE: New page: PIE session: Delta-Scar-Map (Nov 7, 2018, 7:40:49 PM)
+[2018.11.08-05.40.49:918][149]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Delta-Scar-Map
+[2018.11.08-05.40.49:922][149]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005363s)
+[2018.11.08-05.40.49:923][149]LogAIModule: Creating AISystem for world Delta-Scar-Map
+[2018.11.08-05.40.49:923][149]LogPlayLevel: PIE: World Init took: (0.000663s)
+[2018.11.08-05.40.49:923][149]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Delta-Scar-Map.Delta-Scar-Map to /Game/UEDPIE_0_Delta-Scar-Map.Delta-Scar-Map (0.006161s)
+[2018.11.08-05.40.49:953][149]LogInit: XAudio2 using 'Dell S2417DG (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.08-05.40.49:960][149]LogInit: FAudioDevice initialized.
+[2018.11.08-05.40.49:993][149]LogLoad: Game class is 'GameModeBase'
+[2018.11.08-05.40.49:995][149]LogWorld: Bringing World /Game/UEDPIE_0_Delta-Scar-Map.Delta-Scar-Map up for play (max tick rate 0) at 2018.11.08-00.40.49
+[2018.11.08-05.40.49:996][149]LogWorld: Bringing up level for play took: 0.002886
+[2018.11.08-05.40.50:009][149]PIE: Play in editor start time for /Game/UEDPIE_0_Delta-Scar-Map 0.247
+[2018.11.08-05.40.50:009][149]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel' has LevelScriptBlueprint '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map' with GeneratedClass '/Game/Delta-Scar-Map.Delta-Scar-Map_C' with ClassGeneratedBy '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map'
+[2018.11.08-05.41.03:504][765]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel' has LevelScriptBlueprint '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map' with GeneratedClass '/Game/Delta-Scar-Map.Delta-Scar-Map_C' with ClassGeneratedBy '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map'
+[2018.11.08-05.41.03:504][765]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-05.41.03:538][765]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.08-05.41.03:538][765]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel' has LevelScriptBlueprint '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map' with GeneratedClass '/Game/Delta-Scar-Map.Delta-Scar-Map_C' with ClassGeneratedBy '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map'
+[2018.11.08-05.41.03:561][765]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-05.41.03:611][770]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2018.11.08-05.41.16:346][297]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_1_C (FbxScene_skyscraper_2)
+[2018.11.08-05.41.18:022][492]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-05.41.19:908][712]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-05.41.26:841][534]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane_27)
+[2018.11.08-05.41.27:612][620]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_1_C (FbxScene_skyscraper_3)
+[2018.11.08-05.41.43:783][539]Cmd: DELETE
+[2018.11.08-05.41.43:783][539]Cmd: ACTOR DELETE
+[2018.11.08-05.41.43:786][539]LogEditorActor: Deleted Actor: FbxScene_skyscraper_1_C
+[2018.11.08-05.41.43:809][539]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.11.08-05.41.44:667][642]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_1_C (FbxScene_skyscraper_4)
+[2018.11.08-05.41.54:693][832]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_1_C (FbxScene_skyscraper_2)
+[2018.11.08-05.42.04:110][940]LogEditorViewport: Clicking on Actor (LMB): FbxScene_hospital_C (FbxScene_hospital)
+[2018.11.08-05.42.04:812][ 21]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_1_C (FbxScene_skyscraper_4)
+[2018.11.08-05.42.20:106][833]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_1_C (FbxScene_skyscraper_2)
+[2018.11.08-05.42.24:702][379]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_1_C (FbxScene_skyscraper_4)
+[2018.11.08-05.42.28:222][795]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_1_C (FbxScene_skyscraper_2)
+[2018.11.08-05.42.30:886][110]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_1_C (FbxScene_skyscraper_4)
+[2018.11.08-05.42.38:334][999]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_1_C (FbxScene_skyscraper_2)
+[2018.11.08-05.42.45:364][838]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_1_C (FbxScene_skyscraper_4)
+[2018.11.08-05.42.48:202][174]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_1_C (FbxScene_skyscraper_2)
+[2018.11.08-05.42.58:490][391]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_1_C (FbxScene_skyscraper_4)
+[2018.11.08-05.43.03:044][931]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_1_C (FbxScene_skyscraper_2)
+[2018.11.08-05.43.05:343][202]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_1_C (FbxScene_skyscraper_4)
+[2018.11.08-05.43.08:279][549]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_1_C (FbxScene_skyscraper_2)
+[2018.11.08-05.43.11:651][948]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_1_C (FbxScene_skyscraper_3)
+[2018.11.08-05.43.17:831][683]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_1_C (FbxScene_skyscraper_2)
+[2018.11.08-05.43.30:204][140]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_1_C (FbxScene_skyscraper_4)
+[2018.11.08-05.46.35:460][849]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Delta-Scar-Map_Auto542128D8F4DB4644CC31B789A77F4454B.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/Delta-Scar-Map_Auto5.umap'
+[2018.11.08-05.46.35:464][849]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Delta-Scar-Map' took 0.210
+[2018.11.08-05.46.35:465][849]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.210
+[2018.11.08-06.00.15:702][410]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-06.00.16:825][536]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-06.00.17:156][536]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Delta-Scar-Map5D036D4041062CCAFFC2A982665580F8.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map.umap'
+[2018.11.08-06.00.17:187][536]LogFileHelpers: Saving map 'Delta-Scar-Map' took 0.358
+[2018.11.08-06.00.18:810][728]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-06.00.19:689][833]MapCheck: New page: Map Check
+[2018.11.08-06.00.19:700][833]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-06.00.19:702][833]LightingResults: New page: Lighting Build - Nov 7, 2018, 8:00:19 PM
+[2018.11.08-06.00.19:711][833]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.11.08-06.00.19:727][833]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.11.08-06.00.19:727][833]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.11.08-06.00.19:728][833]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.11.08-06.00.19:728][833]LogSwarmInterface: [TryOpenConnection] Local Process ID is 143056
+[2018.11.08-06.00.24:242][833]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.11.08-06.00.24:242][833]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.11.08-06.00.24:242][833]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.11.08-06.00.24:242][833]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.11.08-06.00.24:242][833]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.11.08-06.00.24:242][833]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.11.08-06.00.24:591][833]LogEditorBuildUtils: Build time 0:04
+[2018.11.08-06.00.28:416][845]Job is a success!
+[2018.11.08-06.00.28:815][846]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.042s
+[2018.11.08-06.00.28:815][846]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.11.08-06.00.28:815][846]LogVolumetricLightmapImport:      BrickData 1280x10x5 = 2.3Mb
+[2018.11.08-06.00.28:815][846]LogVolumetricLightmapImport:      Bricks at Level
+[2018.11.08-06.00.28:815][846]LogVolumetricLightmapImport:          0: 0.2% covering 100.0% of volume
+[2018.11.08-06.00.28:815][846]LogVolumetricLightmapImport:          1: 3.8% covering 25.0% of volume
+[2018.11.08-06.00.28:815][846]LogVolumetricLightmapImport:          2: 95.9% covering 9.7% of volume
+[2018.11.08-06.00.29:437][846]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.11.08-06.00.29:437][846]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2018.11.08-06.00.29:437][846]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.11.08-06.00.29:437][846]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2018.11.08-06.00.29:549][846]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (G8, 32X32)
+[2018.11.08-06.00.29:549][846]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (G8, 1024X512)
+[2018.11.08-06.00.29:590][846]Lightmass on IMSKNG027AW24: 4.48 sec total, 141 ms importing, 9 ms setup, 808 ms photons, 3.49 sec processing, 0 ms extra exporting [124/124 mappings]. Threads: 24.3 sec total, 8.25 sec processing.
+[2018.11.08-06.00.29:593][846]LogStaticLightingSystem: Illumination: 9.55 sec (564 ms encoding lightmaps, 107 ms encoding shadowmaps)
+[2018.11.08-06.00.29:593][846]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.11.08-06.00.29:593][846]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.11.08-06.00.30:303][846]DumpUnbuiltLightIteractions
+[2018.11.08-06.00.30:303][846]Lights with unbuilt interactions: 0
+[2018.11.08-06.00.30:303][846]
+[2018.11.08-06.00.30:303][846]Primitives with unbuilt interactions: 0
+[2018.11.08-06.00.30:362][847]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.11.08-06.00.30:362][847]MapCheck: New page: Delta-Scar-Map - Nov 7, 2018, 8:00:30 PM
+[2018.11.08-06.00.30:471][847]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 108.858ms to complete.
+[2018.11.08-06.01.10:547][344]LogSlate: Window 'Choose Location for importing the scene content' being destroyed
+[2018.11.08-06.01.10:558][344]LogFactory: FactoryCreateFile: World with FbxSceneImportFactory (0 0 ../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/assets/skyscraper 2.fbx)
+[2018.11.08-06.01.10:566][344]LogFbx: Loading FBX Scene from ../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/assets/skyscraper 2.fbx
+[2018.11.08-06.01.10:570][344]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.08-06.01.10:570][344]LogFbx: =================================================
+[2018.11.08-06.01.10:570][344]LogFbx: Dumping Node START [pCube1] 
+[2018.11.08-06.01.10:570][344]LogFbx: 	Total Deformer Count 666094800.
+[2018.11.08-06.01.10:570][344]LogFbx: 	Attribute () Type (4).
+[2018.11.08-06.01.10:570][344]LogFbx: 		[Node Attribute Child 1] pCube1 (Type Mesh).
+[2018.11.08-06.01.10:570][344]LogFbx: Dumping Node END [pCube1]
+[2018.11.08-06.01.10:570][344]LogFbx: =================================================
+[2018.11.08-06.01.10:570][344]LogFbx: Dumping Node START [pCube1] 
+[2018.11.08-06.01.10:570][344]LogFbx: 	Total Deformer Count 666106336.
+[2018.11.08-06.01.10:570][344]LogFbx: 	Attribute () Type (4).
+[2018.11.08-06.01.10:570][344]LogFbx: 		[Node Attribute Child 1] pCube1 (Type Mesh).
+[2018.11.08-06.01.10:570][344]LogFbx: Dumping Node END [pCube1]
+[2018.11.08-06.01.27:671][344]LogSlate: Window 'FBX Scene Import Options' being destroyed
+[2018.11.08-06.01.27:678][344]LogFbx: =================================================
+[2018.11.08-06.01.27:678][344]LogFbx: Dumping Node START [pCube1] 
+[2018.11.08-06.01.27:678][344]LogFbx: 	Total Deformer Count 666092504.
+[2018.11.08-06.01.27:678][344]LogFbx: 	Attribute () Type (4).
+[2018.11.08-06.01.27:678][344]LogFbx: 		[Node Attribute Child 1] pCube1 (Type Mesh).
+[2018.11.08-06.01.27:678][344]LogFbx: Dumping Node END [pCube1]
+[2018.11.08-06.01.27:678][344]LogFbx: =================================================
+[2018.11.08-06.01.27:678][344]LogFbx: Dumping Node START [pCube1] 
+[2018.11.08-06.01.27:678][344]LogFbx: 	Total Deformer Count 666103424.
+[2018.11.08-06.01.27:678][344]LogFbx: 	Attribute () Type (4).
+[2018.11.08-06.01.27:678][344]LogFbx: 		[Node Attribute Child 1] pCube1 (Type Mesh).
+[2018.11.08-06.01.27:678][344]LogFbx: Dumping Node END [pCube1]
+[2018.11.08-06.01.27:681][344]LogFbx: Warning: Triangulating static mesh pCube1
+[2018.11.08-06.01.27:685][344]LogStaticMesh: Building static mesh pCube1...
+[2018.11.08-06.01.27:686][344]LogStaticMesh: Built static mesh [0.00s] /Game/pCube1_4.pCube1
+[2018.11.08-06.01.27:732][344]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FbxScene_skyscraper_2.FbxScene_skyscraper_2
+[2018.11.08-06.01.28:003][344]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.11.08-06.01.29:886][500]LogSlate: Window 'Message Log' being destroyed
+[2018.11.08-06.01.29:891][500]LogSlate: Window 'Message Log' being destroyed
+[2018.11.08-06.01.33:954][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxScene_skyscraper_2" FILE="../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/FbxScene_skyscraper_2.uasset" SILENT=true
+[2018.11.08-06.01.33:971][928]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/FbxScene_skyscraper_2C3CC1B6444D520F02609A5906ECCF7BE.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/FbxScene_skyscraper_2.uasset'
+[2018.11.08-06.01.35:195][ 57]LogSlate: Window 'FbxScene_skyscraper_2' being destroyed
+[2018.11.08-06.01.35:198][ 57]LogSlate: Window 'FbxScene_skyscraper_2' being destroyed
+[2018.11.08-06.01.42:752][952]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_1_C (FbxScene_skyscraper_1)
+[2018.11.08-06.01.43:701][ 63]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_2_C (FbxScene_skyscraper_2)
+[2018.11.08-06.01.44:726][183]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-06.01.50:281][847]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_1_C (FbxScene_skyscraper_1)
+[2018.11.08-06.01.54:340][329]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_1_C (FbxScene_skyscraper_4)
+[2018.11.08-06.01.56:222][552]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_1_C (FbxScene_skyscraper_1)
+[2018.11.08-06.01.57:548][707]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-06.02.13:639][615]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_2_C (FbxScene_skyscraper_2)
+[2018.11.08-06.02.15:006][775]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_1_C (FbxScene_skyscraper_4)
+[2018.11.08-06.02.15:882][877]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_1_C (FbxScene_skyscraper_4)
+[2018.11.08-06.02.16:714][975]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_2_C (FbxScene_skyscraper_2)
+[2018.11.08-06.02.17:423][ 57]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_1_C (FbxScene_skyscraper_1)
+[2018.11.08-06.02.18:373][168]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_2_C (FbxScene_skyscraper_2)
+[2018.11.08-06.02.40:826][823]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.08-06.02.45:529][382]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_2_C (FbxScene_skyscraper_6)
+[2018.11.08-06.02.53:910][380]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_2_C (FbxScene_skyscraper_2)
+[2018.11.08-06.02.56:444][679]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_2_C (FbxScene_skyscraper_6)
+[2018.11.08-06.02.59:850][ 83]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_2_C (FbxScene_skyscraper_5)
+[2018.11.08-06.03.01:146][235]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_2_C (FbxScene_skyscraper_5)
+[2018.11.08-06.03.06:134][830]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_2_C (FbxScene_skyscraper_2)
+[2018.11.08-06.03.14:042][774]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.08-06.03.20:951][594]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-06.03.21:838][685]MapCheck: New page: Map Check
+[2018.11.08-06.03.21:849][685]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-06.03.21:851][685]LightingResults: New page: Lighting Build - Nov 7, 2018, 8:03:21 PM
+[2018.11.08-06.03.21:859][685]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.11.08-06.03.21:876][685]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.11.08-06.03.21:876][685]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.11.08-06.03.21:877][685]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.11.08-06.03.21:877][685]LogSwarmInterface: [TryOpenConnection] Local Process ID is 143056
+[2018.11.08-06.03.26:388][685]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.11.08-06.03.26:389][685]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.11.08-06.03.26:389][685]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.11.08-06.03.26:389][685]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.11.08-06.03.26:389][685]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.11.08-06.03.26:389][685]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.11.08-06.03.26:741][685]LogEditorBuildUtils: Build time 0:04
+[2018.11.08-06.03.31:254][ 33]Job is a success!
+[2018.11.08-06.03.31:273][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-06.03.31:334][ 34]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.045s
+[2018.11.08-06.03.31:334][ 34]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.11.08-06.03.31:334][ 34]LogVolumetricLightmapImport:      BrickData 1280x10x5 = 2.3Mb
+[2018.11.08-06.03.31:334][ 34]LogVolumetricLightmapImport:      Bricks at Level
+[2018.11.08-06.03.31:334][ 34]LogVolumetricLightmapImport:          0: 0.2% covering 100.0% of volume
+[2018.11.08-06.03.31:334][ 34]LogVolumetricLightmapImport:          1: 3.8% covering 25.0% of volume
+[2018.11.08-06.03.31:334][ 34]LogVolumetricLightmapImport:          2: 95.9% covering 9.7% of volume
+[2018.11.08-06.03.32:007][ 34]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.11.08-06.03.32:007][ 34]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.11.08-06.03.32:007][ 34]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 128X128)
+[2018.11.08-06.03.32:007][ 34]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 128X128)
+[2018.11.08-06.03.32:007][ 34]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2018.11.08-06.03.32:007][ 34]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2018.11.08-06.03.32:125][ 34]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (G8, 32X32)
+[2018.11.08-06.03.32:126][ 34]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (G8, 1024X512)
+[2018.11.08-06.03.32:159][ 34]Lightmass on IMSKNG027AW24: 4.92 sec total, 165 ms importing, 10 ms setup, 884 ms photons, 3.83 sec processing, 0 ms extra exporting [127/127 mappings]. Threads: 26.6 sec total, 10.9 sec processing.
+[2018.11.08-06.03.32:164][ 34]LogStaticLightingSystem: Illumination: 10.2 sec (617 ms encoding lightmaps, 114 ms encoding shadowmaps)
+[2018.11.08-06.03.32:164][ 34]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 6 textures
+[2018.11.08-06.03.32:164][ 34]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.11.08-06.03.32:444][ 34]DumpUnbuiltLightIteractions
+[2018.11.08-06.03.32:444][ 34]Lights with unbuilt interactions: 0
+[2018.11.08-06.03.32:444][ 34]
+[2018.11.08-06.03.32:444][ 34]Primitives with unbuilt interactions: 0
+[2018.11.08-06.03.32:448][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-06.03.32:505][ 35]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.11.08-06.03.32:506][ 35]MapCheck: New page: Delta-Scar-Map - Nov 7, 2018, 8:03:32 PM
+[2018.11.08-06.03.32:614][ 35]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 108.675ms to complete.
+[2018.11.08-06.03.50:387][139]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-06.03.50:599][139]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Delta-Scar-Map3FEF79C34A04DE6CBDED86AD632CE6C5.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map.umap'
+[2018.11.08-06.03.50:768][139]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Delta-Scar-Map_BuiltData1BF277FB47FF1F64A3A3EC9FE3A8BC05.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map_BuiltData.uasset'
