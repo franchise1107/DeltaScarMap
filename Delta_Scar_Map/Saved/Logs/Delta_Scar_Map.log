@@ -786,3 +786,104 @@ LogInit: Object subsystem initialized
 [2018.11.08-18.43.12:627][797]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Delta-Scar-Map_Auto1F2FE42F24D58D640F348F8894BC84457.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/Delta-Scar-Map_Auto1.umap'
 [2018.11.08-18.43.12:630][797]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Delta-Scar-Map' took 0.307
 [2018.11.08-18.43.12:630][797]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.307
+[2018.11.08-18.44.02:694][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-18.44.07:334][522]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Delta-Scar-MapC71A6A9D46805A558A526C8971EE2156.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map.umap'
+[2018.11.08-18.44.07:361][522]LogFileHelpers: Saving map 'Delta-Scar-Map' took 0.377
+[2018.11.08-18.44.46:255][301]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_1_C (FbxScene_skyscraper_105)
+[2018.11.08-18.44.47:196][411]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.11.08-18.52.28:630][968]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-18.52.46:437][ 53]BlueprintLog: New page: Compile Delta-Scar-Map
+[2018.11.08-18.52.47:449][116]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Delta-Scar-Map4171783C4B44E4D158D76DB8BC703180.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map.umap'
+[2018.11.08-18.52.47:477][116]LogFileHelpers: Saving map 'Delta-Scar-Map' took 0.382
+[2018.11.08-18.52.50:003][381]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Delta-Scar-Map1990F2774461D7808DFCA7AA8ACC7C4F.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map.umap'
+[2018.11.08-18.52.50:031][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Delta-Scar-Map_BuiltData" FILE="../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map_BuiltData.uasset" SILENT=true
+[2018.11.08-18.52.50:255][381]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Delta-Scar-Map_BuiltDataC7D941DE4ABE5041FD63C8AA2B19ADAD.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map_BuiltData.uasset'
+[2018.11.08-18.52.50:841][451]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.08-18.52.50:858][451]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel' has LevelScriptBlueprint '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map' with GeneratedClass '/Game/Delta-Scar-Map.Delta-Scar-Map_C' with ClassGeneratedBy '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map'
+[2018.11.08-18.52.50:858][451]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.08-18.52.50:859][451]PIE: New page: PIE session: Delta-Scar-Map (Nov 8, 2018, 8:52:50 AM)
+[2018.11.08-18.52.50:859][451]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Delta-Scar-Map
+[2018.11.08-18.52.50:871][451]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012735s)
+[2018.11.08-18.52.50:872][451]LogAIModule: Creating AISystem for world Delta-Scar-Map
+[2018.11.08-18.52.50:872][451]LogPlayLevel: PIE: World Init took: (0.000985s)
+[2018.11.08-18.52.50:873][451]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Delta-Scar-Map.Delta-Scar-Map to /Game/UEDPIE_0_Delta-Scar-Map.Delta-Scar-Map (0.013901s)
+[2018.11.08-18.52.50:902][451]LogInit: XAudio2 using 'Crestron 420 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.08-18.52.50:910][451]LogInit: FAudioDevice initialized.
+[2018.11.08-18.52.50:946][451]LogLoad: Game class is 'GameModeBase'
+[2018.11.08-18.52.50:965][451]LogWorld: Bringing World /Game/UEDPIE_0_Delta-Scar-Map.Delta-Scar-Map up for play (max tick rate 0) at 2018.11.08-13.52.50
+[2018.11.08-18.52.50:967][451]LogWorld: Bringing up level for play took: 0.019734
+[2018.11.08-18.52.50:984][451]PIE: Play in editor start time for /Game/UEDPIE_0_Delta-Scar-Map -0.25
+[2018.11.08-18.52.50:984][451]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel' has LevelScriptBlueprint '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map' with GeneratedClass '/Game/Delta-Scar-Map.Delta-Scar-Map_C' with ClassGeneratedBy '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map'
+[2018.11.08-18.52.55:350][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-18.52.55:350][967]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel' has LevelScriptBlueprint '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map' with GeneratedClass '/Game/Delta-Scar-Map.Delta-Scar-Map_C' with ClassGeneratedBy '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map'
+[2018.11.08-18.52.55:385][967]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.08-18.52.55:386][967]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel' has LevelScriptBlueprint '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map' with GeneratedClass '/Game/Delta-Scar-Map.Delta-Scar-Map_C' with ClassGeneratedBy '/Game/Delta-Scar-Map.Delta-Scar-Map:PersistentLevel.Delta-Scar-Map'
+[2018.11.08-18.52.55:413][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-18.52.55:452][969]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.11.08-18.56.27:306][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-18.57.31:038][751]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-19.15.15:618][120]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-19.15.26:304][482]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-19.15.28:748][482]LogSlate: Window 'Choose Location for importing the scene content' being destroyed
+[2018.11.08-19.15.28:767][482]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-19.15.28:773][482]LogFactory: FactoryCreateFile: World with FbxSceneImportFactory (0 0 ../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/assets/skyscraper for curves.fbx)
+[2018.11.08-19.15.28:812][482]LogFbx: Loading FBX Scene from ../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/assets/skyscraper for curves.fbx
+[2018.11.08-19.15.28:824][482]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.08-19.15.28:831][482]LogFbx: =================================================
+[2018.11.08-19.15.28:831][482]LogFbx: Dumping Node START [pCube1] 
+[2018.11.08-19.15.28:831][482]LogFbx: 	Total Deformer Count 1142814528.
+[2018.11.08-19.15.28:831][482]LogFbx: 	Attribute () Type (4).
+[2018.11.08-19.15.28:831][482]LogFbx: 		[Node Attribute Child 1] pCube1 (Type Mesh).
+[2018.11.08-19.15.28:831][482]LogFbx: Dumping Node END [pCube1]
+[2018.11.08-19.15.28:831][482]LogFbx: =================================================
+[2018.11.08-19.15.28:831][482]LogFbx: Dumping Node START [pCube1] 
+[2018.11.08-19.15.28:831][482]LogFbx: 	Total Deformer Count 1142813856.
+[2018.11.08-19.15.28:831][482]LogFbx: 	Attribute () Type (4).
+[2018.11.08-19.15.28:831][482]LogFbx: 		[Node Attribute Child 1] pCube1 (Type Mesh).
+[2018.11.08-19.15.28:831][482]LogFbx: Dumping Node END [pCube1]
+[2018.11.08-19.15.32:682][482]LogSlate: Window 'FBX Scene Import Options' being destroyed
+[2018.11.08-19.15.32:692][482]LogFbx: =================================================
+[2018.11.08-19.15.32:692][482]LogFbx: Dumping Node START [pCube1] 
+[2018.11.08-19.15.32:692][482]LogFbx: 	Total Deformer Count 1142804168.
+[2018.11.08-19.15.32:692][482]LogFbx: 	Attribute () Type (4).
+[2018.11.08-19.15.32:692][482]LogFbx: 		[Node Attribute Child 1] pCube1 (Type Mesh).
+[2018.11.08-19.15.32:692][482]LogFbx: Dumping Node END [pCube1]
+[2018.11.08-19.15.32:692][482]LogFbx: =================================================
+[2018.11.08-19.15.32:692][482]LogFbx: Dumping Node START [pCube1] 
+[2018.11.08-19.15.32:692][482]LogFbx: 	Total Deformer Count 1142806240.
+[2018.11.08-19.15.32:692][482]LogFbx: 	Attribute () Type (4).
+[2018.11.08-19.15.32:692][482]LogFbx: 		[Node Attribute Child 1] pCube1 (Type Mesh).
+[2018.11.08-19.15.32:692][482]LogFbx: Dumping Node END [pCube1]
+[2018.11.08-19.15.32:794][482]LogFbx: Warning: Triangulating static mesh pCube1
+[2018.11.08-19.15.32:803][482]LogStaticMesh: Building static mesh pCube1...
+[2018.11.08-19.15.32:804][482]LogStaticMesh: Built static mesh [0.00s] /Game/pCube1_5.pCube1
+[2018.11.08-19.15.32:869][482]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FbxScene_skyscraper_for_curves.FbxScene_skyscraper_for_curves
+[2018.11.08-19.15.33:157][482]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.11.08-19.15.36:825][611]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Delta-Scar-Map_Auto2A388D5B44A69DC8C6AEB2684AE34FF2B.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/Delta-Scar-Map_Auto2.umap'
+[2018.11.08-19.15.36:828][611]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Delta-Scar-Map' took 0.306
+[2018.11.08-19.15.36:828][611]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.306
+[2018.11.08-19.15.36:829][611]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/skyscraper_for_curves] ([1] browsable assets)...
+[2018.11.08-19.15.36:829][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/skyscraper_for_curves]
+[2018.11.08-19.15.36:837][611]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/skyscraper_for_curves_Auto2E7E765424319340080ABBC9E4E9002E1.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/skyscraper_for_curves_Auto2.uasset'
+[2018.11.08-19.15.36:838][611]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pCube1_5] ([1] browsable assets)...
+[2018.11.08-19.15.36:848][611]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/pCube1_5.pCube1]
+[2018.11.08-19.15.36:848][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/pCube1_5]
+[2018.11.08-19.15.36:848][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pCube1_5" FILE="../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/pCube1_5_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.11.08-19.15.36:865][611]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/pCube1_5_Auto23A24E7D74D254692720033BB7E95C13D.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/pCube1_5_Auto2.uasset'
+[2018.11.08-19.15.36:866][611]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FbxScene_skyscraper_for_curves] ([1] browsable assets)...
+[2018.11.08-19.15.36:874][611]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FbxScene_skyscraper_for_curves.FbxScene_skyscraper_for_curves]
+[2018.11.08-19.15.36:874][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/FbxScene_skyscraper_for_curves]
+[2018.11.08-19.15.36:893][611]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/FbxScene_skyscraper_for_curves_AFC3AB56448683E97984E73915FEF915B.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/FbxScene_skyscraper_for_curves_Auto2.uasset'
+[2018.11.08-19.15.36:893][611]LogFileHelpers: Auto-saving content packages took 0.065
+[2018.11.08-19.16.26:900][243]LogSlate: Window 'Message Log' being destroyed
+[2018.11.08-19.16.26:904][243]LogSlate: Window 'Message Log' being destroyed
+[2018.11.08-19.16.30:784][706]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-19.16.30:863][715]LogSlate: Window 'FbxScene_skyscraper_for_curves*' being destroyed
+[2018.11.08-19.16.30:866][715]LogSlate: Window 'FbxScene_skyscraper_for_curves*' being destroyed
+[2018.11.08-19.16.34:784][173]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-19.16.40:341][837]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_2_C (FbxScene_skyscraper_5)
+[2018.11.08-19.16.41:519][974]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_for_curves_C (FbxScene_skyscraper_for_curves)
+[2018.11.08-19.16.48:801][839]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_1_C (FbxScene_skyscraper_90)
+[2018.11.08-19.16.49:557][926]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_for_curves_C (FbxScene_skyscraper_for_curves)
+[2018.11.08-19.16.50:662][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-19.17.33:498][151]LogSlate: FSceneViewport::OnFocusLost() reason 0
