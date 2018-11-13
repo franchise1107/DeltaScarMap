@@ -349,3 +349,21 @@ LogInit: Object subsystem initialized
 [2018.11.13-18.20.37:744][692]Cmd: MAP CHECKDEP NOCLEARLOG
 [2018.11.13-18.20.37:800][692]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 55.468ms to complete.
 [2018.11.13-18.20.37:800][692]LogFileHelpers: Loading map 'Delta-Scar-Map' took 0.172
+[2018.11.13-18.20.52:929][ 35]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane_18)
+[2018.11.13-18.21.21:266][974]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-18.21.23:581][980]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-18.21.56:677][427]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-18.27.54:738][695]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.13-18.29.19:262][200]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.11.13-18.29.20:995][399]LogEditorViewport: Clicking on Actor (LMB): FbxScene_MachinegunTurret_C (FbxScene_MachinegunTurret)
+[2018.11.13-18.29.22:103][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-18.29.22:717][601]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FbxScene_MachinegunTurret.FbxScene_MachinegunTurret
+[2018.11.13-18.29.23:114][601]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.11.13-18.29.23:751][601]LogSlate: Took 0.001362 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.13-18.34.39:246][767]LogSlate: Took 0.001735 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.13-19.10.54:941][870]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-19.10.56:363][ 25]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.11.13-19.16.30:117][842]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-19.16.31:719][995]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-19.22.22:266][941]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.13-19.22.24:711][228]LogSlate: FSceneViewport::OnFocusLost() reason 2
