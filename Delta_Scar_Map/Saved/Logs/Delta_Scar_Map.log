@@ -1,4 +1,4 @@
-﻿Log file open, 12/05/18 17:48:36
+﻿Log file open, 12/06/18 01:54:46
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
@@ -10,7 +10,7 @@ LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: Delta_Scar_Map
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.814982
+LogStats: Stats thread started at 0.267124
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -93,7 +93,7 @@ LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WindowsMoviePlayer
-LogStreaming: Display: Took  0.105s to configure plugins.
+LogStreaming: Display: Took  0.078s to configure plugins.
 LogInit: Using libcurl 7.55.1-DEV
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2h
@@ -150,370 +150,356 @@ LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
 LogStreaming: Display: Took  0.000s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2018.12.05-22.48.36:536][  0]LogInit: Selected Device Profile: [Windows]
-[2018.12.05-22.48.36:536][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2018.12.05-22.48.36:550][  0]LogHAL: Display: Platform has ~ 32 GB [34254376960 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2018.12.05-22.48.36:550][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
-[2018.12.05-22.48.36:550][  0]LogInit: Going up to parent DeviceProfile []
-[2018.12.05-22.48.36:552][  0]LogInit: Computer: IMSKNG027AW24
-[2018.12.05-22.48.36:552][  0]LogInit: User: sapienfm
-[2018.12.05-22.48.36:552][  0]LogInit: CPU Page size=4096, Cores=4
-[2018.12.05-22.48.36:552][  0]LogInit: High frequency timer resolution =3.515631 MHz
-[2018.12.05-22.48.36:553][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
-[2018.12.05-22.48.36:553][  0]LogMemory: Platform Memory Stats for Windows
-[2018.12.05-22.48.36:553][  0]LogMemory: Process Physical Memory: 99.99 MB used, 99.99 MB peak
-[2018.12.05-22.48.36:553][  0]LogMemory: Process Virtual Memory: 90.86 MB used, 90.86 MB peak
-[2018.12.05-22.48.36:553][  0]LogMemory: Physical Memory: 8623.35 MB used,  24044.17 MB free, 32667.52 MB total
-[2018.12.05-22.48.36:553][  0]LogMemory: Virtual Memory: 4645.17 MB used,  24044.17 MB free, 134217728.00 MB total
-[2018.12.05-22.48.36:648][  0]LogInit: Using OS detected language (en-US).
-[2018.12.05-22.48.36:648][  0]LogInit: Using OS detected locale (en-US).
-[2018.12.05-22.48.36:651][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2018.12.05-22.48.37:040][  0]LogStreaming: Display: Took  0.391s to InitEngineTextLocalization.
-[2018.12.05-22.48.37:040][  0]LogInit: Setting process to per monitor DPI aware
-[2018.12.05-22.48.37:103][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2018.12.05-22.48.37:103][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2018.12.05-22.48.37:424][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.12.05-22.48.37:424][  0]LogD3D11RHI: D3D11 adapters:
-[2018.12.05-22.48.37:483][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
-[2018.12.05-22.48.37:483][  0]LogD3D11RHI:       8079/0/16333 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2018.12.05-22.48.37:491][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
-[2018.12.05-22.48.37:491][  0]LogD3D11RHI:       128/0/16333 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
-[2018.12.05-22.48.37:493][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2018.12.05-22.48.37:493][  0]LogD3D11RHI:       0/0/16333 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2018.12.05-22.48.37:493][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2018.12.05-22.48.37:501][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2018.12.05-22.48.37:501][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
-[2018.12.05-22.48.37:501][  0]LogWindows: EnumDisplayDevices:
-[2018.12.05-22.48.37:501][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
-[2018.12.05-22.48.37:502][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
-[2018.12.05-22.48.37:502][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
-[2018.12.05-22.48.37:502][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
-[2018.12.05-22.48.37:502][  0]LogWindows:    4. 'Intel(R) HD Graphics 630' (P:0 D:0)
-[2018.12.05-22.48.37:502][  0]LogWindows:    5. 'Intel(R) HD Graphics 630' (P:0 D:0)
-[2018.12.05-22.48.37:503][  0]LogWindows:    6. 'Intel(R) HD Graphics 630' (P:0 D:0)
-[2018.12.05-22.48.37:503][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
-[2018.12.05-22.48.37:503][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
-[2018.12.05-22.48.37:503][  0]LogD3D11RHI:   Driver Version: 397.93 (internal:24.21.13.9793, unified:397.93)
-[2018.12.05-22.48.37:503][  0]LogD3D11RHI:      Driver Date: 5-22-2018
-[2018.12.05-22.48.37:503][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
-[2018.12.05-22.48.37:538][  0]LogD3D11RHI: Async texture creation enabled
-[2018.12.05-22.48.37:566][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
-[2018.12.05-22.48.37:611][  0]LogShaderCompilers: Guid format shader working directory is -39 characters bigger than the processId version (../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Intermediate/Shaders/WorkingDirectory/15132/).
-[2018.12.05-22.48.37:611][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/sapienfm/AppData/Local/Temp/UnrealShaderWorkingDir/9BB459124FD18B48AB4E0CB58B2F3937/'.
-[2018.12.05-22.48.38:042][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2018.12.05-22.48.38:056][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2018.12.05-22.48.38:069][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2018.12.05-22.48.38:084][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2018.12.05-22.48.38:099][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2018.12.05-22.48.38:114][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2018.12.05-22.48.38:129][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2018.12.05-22.48.38:143][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2018.12.05-22.48.38:151][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2018.12.05-22.48.38:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.05-22.48.38:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.05-22.48.38:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.05-22.48.38:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.05-22.48.38:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.05-22.48.38:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.05-22.48.38:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.05-22.48.38:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.05-22.48.38:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.05-22.48.38:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.05-22.48.38:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.05-22.48.38:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.05-22.48.38:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.05-22.48.38:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.05-22.48.38:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.05-22.48.38:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.05-22.48.38:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.05-22.48.38:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.05-22.48.38:239][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2018.12.05-22.48.38:305][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.12.05-22.48.38:305][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.12.05-22.48.38:330][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.12.05-22.48.38:330][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.12.05-22.48.38:346][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2018.12.05-22.48.38:361][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2018.12.05-22.48.38:375][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2018.12.05-22.48.38:389][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2018.12.05-22.48.38:400][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
-[2018.12.05-22.48.38:400][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2018.12.05-22.48.38:510][  0]LogXGEController: Cleaning working directory: C:/Users/sapienfm/AppData/Local/Temp/UnrealXGEWorkingDir/
-[2018.12.05-22.48.38:511][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2018.12.05-22.48.38:511][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2018.12.05-22.48.38:511][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2018.12.05-22.48.39:410][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2018.12.05-22.48.39:803][  0]LogDerivedDataCache: Loaded boot cache 0.39s 71MB C:/Users/sapienfm/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
-[2018.12.05-22.48.39:803][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/sapienfm/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
-[2018.12.05-22.48.39:803][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2018.12.05-22.48.39:803][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2018.12.05-22.48.39:803][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2018.12.05-22.48.39:803][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2018.12.05-22.48.39:822][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2018.12.05-22.48.39:834][  0]LogDerivedDataCache: Using Local data cache path C:/Users/sapienfm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2018.12.05-22.48.39:834][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2018.12.05-22.48.39:834][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2018.12.05-22.48.39:884][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2018.12.05-22.48.39:890][  0]LogSlate: Using FreeType 2.6.0
-[2018.12.05-22.48.39:894][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.12.05-22.48.40:022][  0]LogAssetRegistry: FAssetRegistry took 0.0290 seconds to start up
-[2018.12.05-22.48.40:410][  0]LogInit: Selected Device Profile: [Windows]
-[2018.12.05-22.48.40:640][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2018.12.05-22.48.40:659][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2018.12.05-22.48.40:660][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2018.12.05-22.48.40:660][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2018.12.05-22.48.40:660][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2018.12.05-22.48.40:698][  0]LogNetVersion: Delta_Scar_Map 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2686675077)
-[2018.12.05-22.48.41:530][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.104241 seconds
-[2018.12.05-22.48.41:538][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
-[2018.12.05-22.48.41:538][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
-[2018.12.05-22.48.41:538][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2018.12.05-22.48.43:121][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2018.12.05-22.48.43:137][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2018.12.05-22.48.43:379][  0]SourceControl: Source control is disabled
-[2018.12.05-22.48.43:380][  0]SourceControl: Source control is disabled
-[2018.12.05-22.48.43:391][  0]SourceControl: Source control is disabled
-[2018.12.05-22.48.43:396][  0]SourceControl: Source control is disabled
-[2018.12.05-22.48.43:671][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2018.12.05-22.48.43:800][  0]LogOcInput: OculusInput pre-init called
-[2018.12.05-22.48.43:900][  0]LogEngine: Initializing Engine...
-[2018.12.05-22.48.43:902][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.12.05-22.48.43:905][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
-[2018.12.05-22.48.43:905][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.12.05-22.48.43:905][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
-[2018.12.05-22.48.43:905][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.12.05-22.48.44:332][  0]LogInit: Initializing FReadOnlyCVARCache
-[2018.12.05-22.48.44:359][  0]LogAIModule: Creating AISystem for world Untitled
-[2018.12.05-22.48.44:395][  0]LogInit: XAudio2 using 'Dell S2417DG (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
-[2018.12.05-22.48.44:411][  0]LogInit: FAudioDevice initialized.
-[2018.12.05-22.48.44:412][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2018.12.05-22.48.44:465][  0]LogDerivedDataCache: Saved boot cache 0.05s 71MB C:/Users/sapienfm/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
-[2018.12.05-22.48.44:474][  0]LogInit: Texture streaming: Enabled
-[2018.12.05-22.48.44:497][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2018.12.05-22.48.44:521][  0]LogInit: Transaction tracking system initialized
-[2018.12.05-22.48.44:572][  0]BlueprintLog: New page: Editor Load
-[2018.12.05-22.48.44:744][  0]LocalizationService: Localization service is disabled
-[2018.12.05-22.48.45:108][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2018.12.05-22.48.45:109][  0]LogCook: Display: Mobile HDR setting 1
-[2018.12.05-22.48.45:109][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/' took 0.01s
-[2018.12.05-22.48.45:109][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2018.12.05-22.48.45:109][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
-[2018.12.05-22.48.45:109][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.12.05-22.48.45:109][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
-[2018.12.05-22.48.45:110][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.12.05-22.48.45:350][  0]SourceControl: Source control is disabled
-[2018.12.05-22.48.45:351][  0]Cmd: MAP LOAD FILE="../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.12.05-22.48.45:352][  0]LightingResults: New page: Lighting Build
-[2018.12.05-22.48.45:361][  0]MapCheck: New page: Map Check
-[2018.12.05-22.48.45:361][  0]LightingResults: New page: Lighting Build
-[2018.12.05-22.48.45:751][  0]LogLinker: Warning: Can't find file '/Game/Delta-Scar-Map_BuiltData'
-[2018.12.05-22.48.45:751][  0]LogLinker: Warning: Can't find file for asset '/Game/Delta-Scar-Map_BuiltData' while loading ../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map.umap.
-[2018.12.05-22.48.45:751][  0]LoadErrors: Error: /Game/Delta-Scar-Map : Can't find file for asset. /Game/Delta-Scar-Map_BuiltData
-[2018.12.05-22.48.45:772][  0]LogLinker: Warning: Can't find file '/Game/Delta-Scar-Map_BuiltData'
-[2018.12.05-22.48.45:772][  0]LogLinker: Warning: Can't find file for asset '/Game/Delta-Scar-Map_BuiltData' while loading ../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map.umap.
-[2018.12.05-22.48.45:772][  0]LoadErrors: Error: /Game/Delta-Scar-Map : Can't find file for asset. /Game/Delta-Scar-Map_BuiltData
-[2018.12.05-22.48.45:816][  0]LogLinker: Warning: Can't find file '/Game/Delta-Scar-Map_BuiltData'
-[2018.12.05-22.48.45:816][  0]LogLinker: Warning: Can't find file for asset '/Game/Delta-Scar-Map_BuiltData' while loading NULL.
-[2018.12.05-22.48.45:816][  0]LogLinker: Warning: Can't find file '/Game/Delta-Scar-Map_BuiltData'
-[2018.12.05-22.48.45:817][  0]LogLinker: Warning: Can't find file for asset '/Game/Delta-Scar-Map_BuiltData' while loading NULL.
-[2018.12.05-22.48.45:860][  0]LogLinker: Warning: Can't find file '/Game/Delta-Scar-Map_BuiltData'
-[2018.12.05-22.48.45:860][  0]LoadErrors: Failed to load /Game/Delta-Scar-Map_BuiltData.Delta-Scar-Map_BuiltData Referenced by PersistentLevel
-[2018.12.05-22.48.45:860][  0]LogLinker: Warning: Can't find file for asset '/Game/Delta-Scar-Map_BuiltData' while loading NULL.
-[2018.12.05-22.48.45:860][  0]LoadErrors: Failed to load /Game/Delta-Scar-Map_BuiltData.Delta-Scar-Map_BuiltData Referenced by PersistentLevel
-[2018.12.05-22.48.46:066][  0]LogStaticMesh: Building static mesh pCube1...
-[2018.12.05-22.48.46:073][  0]LogStaticMesh: Built static mesh [0.01s] /Game/pCube1_6.pCube1
-[2018.12.05-22.48.46:076][  0]LogStaticMesh: Building static mesh pCube2...
-[2018.12.05-22.48.46:077][  0]LogStaticMesh: Built static mesh [0.00s] /Game/pCube2_1.pCube2
-[2018.12.05-22.48.46:079][  0]LogStaticMesh: Building static mesh pCylinder3...
-[2018.12.05-22.48.46:082][  0]LogStaticMesh: Built static mesh [0.00s] /Game/pCylinder3_2.pCylinder3
-[2018.12.05-22.48.46:085][  0]LogStaticMesh: Building static mesh pCylinder4...
-[2018.12.05-22.48.46:088][  0]LogStaticMesh: Built static mesh [0.00s] /Game/pCylinder4_2.pCylinder4
-[2018.12.05-22.48.46:090][  0]LogStaticMesh: Building static mesh pCylinder5...
-[2018.12.05-22.48.46:094][  0]LogStaticMesh: Built static mesh [0.00s] /Game/pCylinder5_2.pCylinder5
-[2018.12.05-22.48.46:096][  0]LogStaticMesh: Building static mesh pCylinder6...
-[2018.12.05-22.48.46:100][  0]LogStaticMesh: Built static mesh [0.00s] /Game/pCylinder6_2.pCylinder6
-[2018.12.05-22.48.46:102][  0]LogStaticMesh: Building static mesh pCylinder9...
-[2018.12.05-22.48.46:106][  0]LogStaticMesh: Built static mesh [0.00s] /Game/pCylinder9_1.pCylinder9
-[2018.12.05-22.48.46:112][  0]LogStaticMesh: Building static mesh pSphere1...
-[2018.12.05-22.48.46:146][  0]LogStaticMesh: Built static mesh [0.03s] /Game/pSphere1.pSphere1
-[2018.12.05-22.48.46:434][  0]LogMaterial: Display: Missing cached shader map for material Turret_Pivot, compiling. 
-[2018.12.05-22.48.46:510][  0]LogMaterial: Display: Missing cached shader map for material Turret_Barrels, compiling. 
-[2018.12.05-22.48.46:529][  0]LogShaderCompilers: Display: Shaders left to compile 31
-[2018.12.05-22.48.46:529][  0]LogShaderCompilers: Display: Shaders left to compile 21
-[2018.12.05-22.48.46:529][  0]LogShaderCompilers: Display: Shaders left to compile 11
-[2018.12.05-22.48.46:529][  0]LogShaderCompilers: Display: Shaders left to compile 1
-[2018.12.05-22.48.46:529][  0]LogMaterial: Display: Missing cached shader map for material turret_metal, compiling. 
-[2018.12.05-22.48.46:548][  0]LogMaterial: Display: Missing cached shader map for material turret_base, compiling. 
-[2018.12.05-22.48.46:613][  0]LogShaderCompilers: Display: Shaders left to compile 62
-[2018.12.05-22.48.46:613][  0]LogMaterial: Display: Missing cached shader map for material None__TextDamageDecal5_png, compiling. 
-[2018.12.05-22.48.46:639][  0]LogMaterial: Display: Missing cached shader map for material None__RoadTexture3_jpg, compiling. 
-[2018.12.05-22.48.46:663][  0]LogMaterial: Display: Missing cached shader map for material None__RoadTexture2_jpg_ncl1_1, compiling. 
-[2018.12.05-22.48.46:693][  0]LogMaterial: Display: Missing cached shader map for material None__RoadTexture2_jpg, compiling. 
-[2018.12.05-22.48.46:747][  0]LogAIModule: Creating AISystem for world Delta-Scar-Map
-[2018.12.05-22.48.46:909][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.12.05-22.48.46:944][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.12.05-22.48.47:037][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 93.242ms to complete.
-[2018.12.05-22.48.47:037][  0]LogFileHelpers: Loading map 'Delta-Scar-Map' took 1.686
-[2018.12.05-22.48.47:177][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.12.05-22.48.47:190][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.12.05-22.48.47:202][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.12.05-22.48.47:214][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.12.05-22.48.47:229][  0]LogCollectionManager: Loaded 0 collections in 0.001891 seconds
-[2018.12.05-22.48.47:286][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Collections/' took 0.01s
-[2018.12.05-22.48.47:286][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Developers/sapienfm/Collections/' took 0.01s
-[2018.12.05-22.48.47:286][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Collections/' took 0.01s
-[2018.12.05-22.48.47:286][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
-[2018.12.05-22.48.47:306][  0]LogContentBrowser: Native class hierarchy populated in 0.0179 seconds. Added 2572 classes and 603 folders.
-[2018.12.05-22.48.47:321][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2018.12.05-22.48.47:466][  0]LogShaderCompilers: Display: Shaders left to compile 207
-[2018.12.05-22.48.47:466][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2018.12.05-22.48.47:478][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
-[2018.12.05-22.48.47:529][  0]LogSlate: Took 0.001282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2018.12.05-22.48.47:533][  0]LogSlate: Took 0.001387 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2018.12.05-22.48.47:543][  0]LogSlate: Took 0.001344 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2018.12.05-22.48.47:662][  0]LogRenderer: Reallocating scene render targets to support 1208x608 Format 10 NumSamples 1 (Frame:1).
-[2018.12.05-22.48.47:776][  0]LogSlate: Took 0.001167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2018.12.05-22.48.48:202][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2018.12.05-22.48.48:202][  0]LogLoad: (Engine Initialization) Total time: 15.39 seconds
-[2018.12.05-22.48.48:202][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2018.12.05-22.48.48:220][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.12.05-22.48.48:250][  0]LogContentStreaming: Texture pool size now 3000 MB
-[2018.12.05-22.48.48:255][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.12.05-22.48.48:568][  2]LogAssetRegistry: Asset discovery search completed in 8.5681 seconds
-[2018.12.05-22.48.48:571][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
-[2018.12.05-22.48.48:571][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000079 seconds (updated 0 objects)
-[2018.12.05-22.48.49:242][ 56]LogLinker: Warning: Can't resolve asset name
-[2018.12.05-22.48.49:247][ 56]LogSlate: Took 0.000256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2018.12.05-22.48.49:253][ 56]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FbxScene_new_turret.FbxScene_new_turret
-[2018.12.05-22.48.50:051][ 56]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
-[2018.12.05-22.48.51:039][ 56]LogShaderCompilers: Display: Shaders left to compile 197
-[2018.12.05-22.48.51:039][ 56]LogShaderCompilers: Display: Shaders left to compile 187
-[2018.12.05-22.48.51:039][ 56]LogShaderCompilers: Display: Shaders left to compile 177
-[2018.12.05-22.48.51:190][ 56]LogSlate: Took 0.001367 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
-[2018.12.05-22.48.52:597][208]LogShaderCompilers: Display: Shaders left to compile 167
-[2018.12.05-22.48.52:681][218]LogShaderCompilers: Display: Shaders left to compile 157
-[2018.12.05-22.48.54:138][386]LogShaderCompilers: Display: Shaders left to compile 147
-[2018.12.05-22.48.54:777][462]LogShaderCompilers: Display: Shaders left to compile 137
-[2018.12.05-22.48.54:794][464]LogShaderCompilers: Display: Shaders left to compile 127
-[2018.12.05-22.48.56:480][666]LogShaderCompilers: Display: Shaders left to compile 117
-[2018.12.05-22.48.57:243][757]LogShaderCompilers: Display: Shaders left to compile 107
-[2018.12.05-22.48.57:661][807]LogShaderCompilers: Display: Shaders left to compile 97
-[2018.12.05-22.48.59:105][978]LogShaderCompilers: Display: Shaders left to compile 87
-[2018.12.05-22.49.00:197][107]LogShaderCompilers: Display: Shaders left to compile 77
-[2018.12.05-22.49.00:499][143]LogShaderCompilers: Display: Shaders left to compile 67
-[2018.12.05-22.49.01:703][287]LogShaderCompilers: Display: Shaders left to compile 57
-[2018.12.05-22.49.02:608][395]LogShaderCompilers: Display: Shaders left to compile 47
-[2018.12.05-22.49.03:185][464]LogShaderCompilers: Display: Shaders left to compile 37
-[2018.12.05-22.49.04:237][590]LogShaderCompilers: Display: Shaders left to compile 27
-[2018.12.05-22.49.04:840][661]LogShaderCompilers: Display: Shaders left to compile 17
-[2018.12.05-22.49.06:224][826]LogShaderCompilers: Display: Shaders left to compile 7
-[2018.12.05-22.49.14:536][819]LogSlate: Window 'Message Log' being destroyed
-[2018.12.05-22.49.14:539][819]LogSlate: Window 'Message Log' being destroyed
-[2018.12.05-22.49.23:352][844]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.12.05-22.49.24:212][947]MapCheck: New page: Map Check
-[2018.12.05-22.49.24:221][947]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.12.05-22.49.24:226][947]LightingResults: New page: Lighting Build - Dec 5, 2018, 12:49:24 PM
-[2018.12.05-22.49.24:269][947]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
-[2018.12.05-22.49.24:383][947]LogSwarmInterface: [OpenConnection] Connecting to agent ...
-[2018.12.05-22.49.24:394][947]LogSwarmInterface: [TryOpenConnection] Testing the Agent
-[2018.12.05-22.49.25:420][947]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
-[2018.12.05-22.49.25:420][947]LogSwarmInterface: [TryOpenConnection] Local Process ID is 15132
-[2018.12.05-22.49.32:117][947]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
-[2018.12.05-22.49.32:118][947]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
-[2018.12.05-22.49.32:118][947]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
-[2018.12.05-22.49.32:118][947]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
-[2018.12.05-22.49.32:118][947]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
-[2018.12.05-22.49.32:118][947]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
-[2018.12.05-22.49.32:331][947]LogEditorBuildUtils: Build time 0:08
-[2018.12.05-22.49.32:360][947]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer None__TextDamageDecal5_png, compiling. 
-[2018.12.05-22.49.32:370][947]LogShaderCompilers: Display: Shaders left to compile 2
-[2018.12.05-22.49.32:370][947]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer None__TextDamageDecal5_png, compiling. 
-[2018.12.05-22.49.32:385][947]LogShaderCompilers: Display: Shaders left to compile 2
-[2018.12.05-22.49.32:435][949]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer None__RoadTexture2_jpg, compiling. 
-[2018.12.05-22.49.32:443][949]LogShaderCompilers: Display: Shaders left to compile 2
-[2018.12.05-22.49.32:443][949]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer None__RoadTexture2_jpg, compiling. 
-[2018.12.05-22.49.32:455][949]LogShaderCompilers: Display: Shaders left to compile 2
-[2018.12.05-22.49.32:470][950]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer None__RoadTexture3_jpg, compiling. 
-[2018.12.05-22.49.32:482][950]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer None__RoadTexture3_jpg, compiling. 
-[2018.12.05-22.49.32:510][951]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer None__RoadTexture2_jpg_ncl1_1, compiling. 
-[2018.12.05-22.49.32:518][951]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer None__RoadTexture2_jpg_ncl1_1, compiling. 
-[2018.12.05-22.49.32:551][952]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer None__CordonTop_jpg_001_ncl1_2, compiling. 
-[2018.12.05-22.49.32:559][952]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer None__CordonTop_jpg_001_ncl1_2, compiling. 
-[2018.12.05-22.49.32:585][953]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Turret_Barrels, compiling. 
-[2018.12.05-22.49.32:592][953]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Turret_Barrels, compiling. 
-[2018.12.05-22.49.32:617][954]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer turret_metal, compiling. 
-[2018.12.05-22.49.32:626][954]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer turret_metal, compiling. 
-[2018.12.05-22.49.32:650][955]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Turret_Pivot, compiling. 
-[2018.12.05-22.49.32:657][955]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Turret_Pivot, compiling. 
-[2018.12.05-22.49.32:680][956]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer turret_base, compiling. 
-[2018.12.05-22.49.32:691][956]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer turret_base, compiling. 
-[2018.12.05-22.49.35:713][958]LogShaderCompilers: Display: Shaders left to compile 28
-[2018.12.05-22.49.35:713][958]LogShaderCompilers: Display: Shaders left to compile 18
-[2018.12.05-22.49.35:713][958]LogShaderCompilers: Display: Shaders left to compile 8
-[2018.12.05-22.49.51:016][216]Job is a success!
-[2018.12.05-22.49.51:447][217]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.067s
-[2018.12.05-22.49.51:447][217]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
-[2018.12.05-22.49.51:447][217]LogVolumetricLightmapImport:      BrickData 1280x10x5 = 2.3Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
-[2018.12.05-22.49.51:447][217]LogVolumetricLightmapImport:      Bricks at Level
-[2018.12.05-22.49.51:447][217]LogVolumetricLightmapImport:          0: 0.2% covering 100.0% of volume
-[2018.12.05-22.49.51:447][217]LogVolumetricLightmapImport:          1: 3.4% covering 25.0% of volume
-[2018.12.05-22.49.51:447][217]LogVolumetricLightmapImport:          2: 96.4% covering 11.1% of volume
-[2018.12.05-22.49.51:645][217]LogMaterial: Warning: Material /Game/None__CordonTop_jpg_001_ncl1_2.None__CordonTop_jpg_001_ncl1_2 needed to have new flag set bUsedWithStaticLighting !
-[2018.12.05-22.49.51:648][217]LogMaterial: Display: Missing cached shader map for material None__CordonTop_jpg_001_ncl1_2, compiling. 
-[2018.12.05-22.49.51:677][217]LogShaderCompilers: Display: Shaders left to compile 31
-[2018.12.05-22.49.51:677][217]LogShaderCompilers: Display: Shaders left to compile 21
-[2018.12.05-22.49.51:677][217]LogShaderCompilers: Display: Shaders left to compile 11
-[2018.12.05-22.49.51:677][217]LogShaderCompilers: Display: Shaders left to compile 1
-[2018.12.05-22.49.53:411][217]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
-[2018.12.05-22.49.53:411][217]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
-[2018.12.05-22.49.53:411][217]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
-[2018.12.05-22.49.53:411][217]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
-[2018.12.05-22.49.53:411][217]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
-[2018.12.05-22.49.53:411][217]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
-[2018.12.05-22.49.53:411][217]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 64X64)
-[2018.12.05-22.49.53:411][217]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 64X64)
-[2018.12.05-22.49.53:612][217]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 32X32)
-[2018.12.05-22.49.53:612][217]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X512)
-[2018.12.05-22.49.53:771][217]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
-[2018.12.05-22.49.53:821][217]Lightmass on IMSKNG027AW24: 16.8 sec total, 196 ms importing, 20 ms setup, 2.27 sec photons, 14.3 sec processing, 0 ms extra exporting [380/380 mappings]. Threads: 1:40 min total, 57.7 sec processing.
-[2018.12.05-22.49.53:864][217]LogStaticLightingSystem: Illumination: 29.2 sec (1.75 sec encoding lightmaps, 338 ms encoding shadowmaps)
-[2018.12.05-22.49.53:864][217]LogStaticLightingSystem: Lightmap texture memory:  6.0 MB (6.0 MB streaming, 0.0 MB non-streaming), 8 textures
-[2018.12.05-22.49.53:864][217]LogStaticLightingSystem: Shadowmap texture memory: 2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 3 textures
-[2018.12.05-22.49.54:540][217]DumpUnbuiltLightIteractions
-[2018.12.05-22.49.54:540][217]Lights with unbuilt interactions: 0
-[2018.12.05-22.49.54:540][217]
-[2018.12.05-22.49.54:540][217]Primitives with unbuilt interactions: 0
-[2018.12.05-22.49.56:298][218]Cmd: MAP CHECK NOTIFYRESULTS
-[2018.12.05-22.49.56:298][218]MapCheck: New page: Delta-Scar-Map - Dec 5, 2018, 12:49:56 PM
-[2018.12.05-22.49.56:386][218]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 88.956ms to complete.
-[2018.12.05-22.50.28:897][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.12.05-22.58.56:249][927]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Delta-Scar-Map_Auto15461E97842D3516222C8FF846EB7BC7D.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/Delta-Scar-Map_Auto1.umap'
-[2018.12.05-22.58.56:258][927]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Delta-Scar-Map' took 0.585
-[2018.12.05-22.58.56:258][927]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.585
-[2018.12.05-22.58.56:260][927]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/None__CordonTop_jpg_001_ncl1_2] ([1] browsable assets)...
-[2018.12.05-22.58.56:280][927]OBJ SavePackage:     Rendered thumbnail for [Material /Game/None__CordonTop_jpg_001_ncl1_2.None__CordonTop_jpg_001_ncl1_2]
-[2018.12.05-22.58.56:281][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/None__CordonTop_jpg_001_ncl1_2]
-[2018.12.05-22.58.56:311][927]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/None__CordonTop_jpg_001_ncl1_2_AFAFBC6B546AD9C1CF179BBA54C97453A.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/None__CordonTop_jpg_001_ncl1_2_Auto1.uasset'
-[2018.12.05-22.58.56:313][927]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Delta-Scar-Map_BuiltData] ([1] browsable assets)...
-[2018.12.05-22.58.56:313][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/Delta-Scar-Map_BuiltData]
-[2018.12.05-22.58.56:347][927]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Delta-Scar-Map_BuiltData_Auto1CDBEBCAB4E9138AE0C7646857B99092E.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Autosaves/Game/Delta-Scar-Map_BuiltData_Auto1.uasset'
-[2018.12.05-22.58.56:349][927]LogFileHelpers: Auto-saving content packages took 0.089
-[2018.12.06-00.30.32:931][ 97]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_2_C (FbxScene_skyscraper_31)
-[2018.12.06-00.30.35:282][374]LogEditorViewport: Clicking on Actor (LMB): FbxScene_refinery_C (FbxScene_refinery)
-[2018.12.06-00.30.37:458][631]LogEditorViewport: Clicking on Actor (LMB): FbxScene_capital_building_C (FbxScene_capital_building)
-[2018.12.06-00.30.45:843][629]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
-[2018.12.06-00.31.24:356][223]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.12.06-01.47.22:736][123]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
-[2018.12.06-01.47.44:936][593]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_2_C (FbxScene_skyscraper_78)
-[2018.12.06-01.47.47:074][831]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
-[2018.12.06-03.35.02:580][705]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.12.06-03.35.03:256][705]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Delta-Scar-Map1A0460214F13E816A85731A3CC9614DF.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map.umap'
-[2018.12.06-03.35.03:795][705]LogSavePackage: Moving '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Delta-Scar-Map_BuiltData9D074BAB4173681FDFF8648372170880.tmp' to '../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map_BuiltData.uasset'
-[2018.12.06-03.35.03:887][712]LogSlate: Took 0.002307 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
-[2018.12.06-04.44.10:787][851]LogEditorViewport: Clicking on Actor (LMB): FbxScene_skyscraper_1_C (FbxScene_skyscraper_1)
-[2018.12.06-04.44.23:998][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.12.06-04.44.39:321][155]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
-[2018.12.06-04.44.39:336][155]LogShaderCompilers: Display: Shaders left to compile 31
-[2018.12.06-04.44.39:336][155]LogShaderCompilers: Display: Shaders left to compile 21
-[2018.12.06-04.44.39:336][155]LogShaderCompilers: Display: Shaders left to compile 11
-[2018.12.06-04.44.39:336][155]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.06-06.54.46:751][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.06-06.54.46:751][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.06-06.54.46:761][  0]LogHAL: Display: Platform has ~ 32 GB [34254376960 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.06-06.54.46:761][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.12.06-06.54.46:761][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.06-06.54.46:762][  0]LogInit: Computer: IMSKNG027AW24
+[2018.12.06-06.54.46:762][  0]LogInit: User: sapienfm
+[2018.12.06-06.54.46:762][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.06-06.54.46:762][  0]LogInit: High frequency timer resolution =3.515631 MHz
+[2018.12.06-06.54.46:762][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2018.12.06-06.54.46:762][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.06-06.54.46:762][  0]LogMemory: Process Physical Memory: 100.10 MB used, 100.10 MB peak
+[2018.12.06-06.54.46:762][  0]LogMemory: Process Virtual Memory: 90.96 MB used, 90.96 MB peak
+[2018.12.06-06.54.46:762][  0]LogMemory: Physical Memory: 6503.45 MB used,  26164.07 MB free, 32667.52 MB total
+[2018.12.06-06.54.46:762][  0]LogMemory: Virtual Memory: 4645.17 MB used,  26164.07 MB free, 134217728.00 MB total
+[2018.12.06-06.54.46:772][  0]LogInit: Using OS detected language (en-US).
+[2018.12.06-06.54.46:772][  0]LogInit: Using OS detected locale (en-US).
+[2018.12.06-06.54.46:772][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.06-06.54.47:077][  0]LogStreaming: Display: Took  0.305s to InitEngineTextLocalization.
+[2018.12.06-06.54.47:077][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.06-06.54.47:098][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.06-06.54.47:098][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.06-06.54.47:242][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.06-06.54.47:242][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.06-06.54.47:303][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.12.06-06.54.47:303][  0]LogD3D11RHI:       8079/0/16333 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.12.06-06.54.47:309][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.12.06-06.54.47:309][  0]LogD3D11RHI:       128/0/16333 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.12.06-06.54.47:310][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.06-06.54.47:310][  0]LogD3D11RHI:       0/0/16333 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.06-06.54.47:310][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.06-06.54.47:317][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.06-06.54.47:317][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.06-06.54.47:317][  0]LogWindows: EnumDisplayDevices:
+[2018.12.06-06.54.47:317][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.12.06-06.54.47:317][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.12.06-06.54.47:317][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.12.06-06.54.47:318][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.12.06-06.54.47:318][  0]LogWindows:    4. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.12.06-06.54.47:318][  0]LogWindows:    5. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.12.06-06.54.47:318][  0]LogWindows:    6. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.12.06-06.54.47:318][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.12.06-06.54.47:318][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.12.06-06.54.47:318][  0]LogD3D11RHI:   Driver Version: 397.93 (internal:24.21.13.9793, unified:397.93)
+[2018.12.06-06.54.47:318][  0]LogD3D11RHI:      Driver Date: 5-22-2018
+[2018.12.06-06.54.47:318][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2018.12.06-06.54.47:348][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.06-06.54.47:364][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.06-06.54.47:407][  0]LogShaderCompilers: Guid format shader working directory is -38 characters bigger than the processId version (../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Intermediate/Shaders/WorkingDirectory/6392/).
+[2018.12.06-06.54.47:407][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/sapienfm/AppData/Local/Temp/UnrealShaderWorkingDir/D2950D4B44B1E71B47DD408DD1B9CAFD/'.
+[2018.12.06-06.54.47:626][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.06-06.54.47:636][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.06-06.54.47:647][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.06-06.54.47:657][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.06-06.54.47:669][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.06-06.54.47:680][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.06-06.54.47:691][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.06-06.54.47:702][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.06-06.54.47:707][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.06-06.54.47:779][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-06.54.47:779][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-06.54.47:779][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-06.54.47:779][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-06.54.47:779][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-06.54.47:779][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-06.54.47:779][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-06.54.47:779][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-06.54.47:779][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-06.54.47:779][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-06.54.47:779][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-06.54.47:779][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-06.54.47:779][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-06.54.47:779][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-06.54.47:779][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-06.54.47:779][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-06.54.47:779][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-06.54.47:779][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-06.54.47:780][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.06-06.54.47:839][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.06-06.54.47:839][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.06-06.54.47:859][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.06-06.54.47:859][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.06-06.54.47:869][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.06-06.54.47:879][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.06-06.54.47:892][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.06-06.54.47:904][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.06-06.54.47:911][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.06-06.54.47:911][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.06-06.54.47:955][  0]LogXGEController: Cleaning working directory: C:/Users/sapienfm/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.12.06-06.54.47:955][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.06-06.54.47:955][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.06-06.54.47:955][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.06-06.54.48:551][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.06-06.54.48:604][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/sapienfm/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.06-06.54.48:605][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/sapienfm/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.12.06-06.54.48:605][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.06-06.54.48:605][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.06-06.54.48:605][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.06-06.54.48:605][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.06-06.54.48:616][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.06-06.54.48:628][  0]LogDerivedDataCache: Using Local data cache path C:/Users/sapienfm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.06-06.54.48:628][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.06-06.54.48:628][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.06-06.54.48:660][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.06-06.54.48:662][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.06-06.54.48:662][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.06-06.54.48:727][  0]LogAssetRegistry: FAssetRegistry took 0.0252 seconds to start up
+[2018.12.06-06.54.48:973][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.06-06.54.49:076][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.06-06.54.49:078][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.06-06.54.49:078][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.06-06.54.49:078][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.06-06.54.49:078][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.06-06.54.49:090][  0]LogNetVersion: Delta_Scar_Map 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2686675077)
+[2018.12.06-06.54.49:511][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.075202 seconds
+[2018.12.06-06.54.49:516][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.12.06-06.54.49:516][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.12.06-06.54.49:516][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.06-06.54.50:177][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.06-06.54.50:190][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.06-06.54.50:331][  0]SourceControl: Source control is disabled
+[2018.12.06-06.54.50:331][  0]SourceControl: Source control is disabled
+[2018.12.06-06.54.50:332][  0]SourceControl: Source control is disabled
+[2018.12.06-06.54.50:333][  0]SourceControl: Source control is disabled
+[2018.12.06-06.54.50:471][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.06-06.54.50:556][  0]LogOcInput: OculusInput pre-init called
+[2018.12.06-06.54.50:605][  0]LogEngine: Initializing Engine...
+[2018.12.06-06.54.50:605][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.06-06.54.50:606][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.06-06.54.50:606][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.06-06.54.50:606][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.06-06.54.50:606][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.06-06.54.50:773][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.06-06.54.50:783][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.06-06.54.50:804][  0]LogInit: XAudio2 using 'Dell S2417DG (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.06-06.54.50:815][  0]LogInit: FAudioDevice initialized.
+[2018.12.06-06.54.50:815][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.06-06.54.50:856][  0]LogDerivedDataCache: Saved boot cache 0.04s 71MB C:/Users/sapienfm/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.06-06.54.50:863][  0]LogInit: Texture streaming: Enabled
+[2018.12.06-06.54.50:875][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.06-06.54.50:889][  0]LogInit: Transaction tracking system initialized
+[2018.12.06-06.54.50:904][  0]BlueprintLog: New page: Editor Load
+[2018.12.06-06.54.50:956][  0]LocalizationService: Localization service is disabled
+[2018.12.06-06.54.51:166][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.06-06.54.51:166][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.06-06.54.51:166][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.06-06.54.51:166][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.06-06.54.51:166][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.06-06.54.51:166][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.06-06.54.51:166][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.06-06.54.51:250][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/' took 0.01s
+[2018.12.06-06.54.51:250][  0]SourceControl: Source control is disabled
+[2018.12.06-06.54.51:250][  0]Cmd: MAP LOAD FILE="../../../../../../Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Delta-Scar-Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.06-06.54.51:250][  0]LightingResults: New page: Lighting Build
+[2018.12.06-06.54.51:252][  0]MapCheck: New page: Map Check
+[2018.12.06-06.54.51:252][  0]LightingResults: New page: Lighting Build
+[2018.12.06-06.54.52:021][  0]LogAIModule: Creating AISystem for world Delta-Scar-Map
+[2018.12.06-06.54.52:126][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.06-06.54.52:148][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.06-06.54.52:208][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.267ms to complete.
+[2018.12.06-06.54.52:208][  0]LogFileHelpers: Loading map 'Delta-Scar-Map' took 0.958
+[2018.12.06-06.54.52:282][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.06-06.54.52:288][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.06-06.54.52:294][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.06-06.54.52:300][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.06-06.54.52:304][  0]LogCollectionManager: Loaded 0 collections in 0.001328 seconds
+[2018.12.06-06.54.52:343][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Saved/Collections/' took 0.01s
+[2018.12.06-06.54.52:343][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Developers/sapienfm/Collections/' took 0.01s
+[2018.12.06-06.54.52:343][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sapienfm/Documents/GitHub/DeltaScar/DeltaScarMap/Delta_Scar_Map/Content/Collections/' took 0.01s
+[2018.12.06-06.54.52:343][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.12.06-06.54.52:351][  0]LogContentBrowser: Native class hierarchy populated in 0.0075 seconds. Added 2572 classes and 603 folders.
+[2018.12.06-06.54.52:356][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.06-06.54.52:387][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.06-06.54.52:390][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.12.06-06.54.52:403][  0]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.06-06.54.52:404][  0]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.06-06.54.52:408][  0]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.06-06.54.52:474][  0]LogRenderer: Reallocating scene render targets to support 1208x608 Format 10 NumSamples 1 (Frame:1).
+[2018.12.06-06.54.52:523][  0]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.06-06.54.52:622][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.06-06.54.52:622][  0]LogLoad: (Engine Initialization) Total time: 7.19 seconds
+[2018.12.06-06.54.52:622][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.06-06.54.52:707][  0]LogAssetRegistry: Asset discovery search completed in 4.0019 seconds
+[2018.12.06-06.54.52:708][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.06-06.54.52:708][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000038 seconds (updated 0 objects)
+[2018.12.06-06.54.52:709][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.12.06-06.54.53:681][  4]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.06-06.54.53:686][  4]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FbxScene_skyscraper_1.FbxScene_skyscraper_1
+[2018.12.06-06.54.54:046][  4]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.12.06-06.54.54:687][  4]LogSlate: Took 0.001276 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.06-06.54.57:363][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.06-06.55.07:259][161]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.06-06.55.27:583][780]LogSlate: Window 'Asset Report' being destroyed
+[2018.12.06-06.55.44:290][780]AssetTools: New page: Content migration completed successfully!
+[2018.12.06-06.55.44:290][780]AssetTools: /Game/Delta-Scar-Map
+[2018.12.06-06.55.44:290][780]AssetTools: /Game/FbxScene_capital_building
+[2018.12.06-06.55.44:290][780]AssetTools: /Game/pPrism1
+[2018.12.06-06.55.44:290][780]AssetTools: /Game/blinn1
+[2018.12.06-06.55.44:290][780]AssetTools: /Game/pPyramid1
+[2018.12.06-06.55.44:290][780]AssetTools: /Game/phong1
+[2018.12.06-06.55.44:290][780]AssetTools: /Game/FbxScene_factory
+[2018.12.06-06.55.44:290][780]AssetTools: /Game/pCube10_1
+[2018.12.06-06.55.44:290][780]AssetTools: /Game/factory
+[2018.12.06-06.55.44:290][780]AssetTools: /Game/phong4
+[2018.12.06-06.55.44:290][780]AssetTools: /Game/pCube11_1
+[2018.12.06-06.55.44:290][780]AssetTools: /Game/pCube1_2
+[2018.12.06-06.55.44:290][780]AssetTools: /Game/phong3
+[2018.12.06-06.55.44:290][780]AssetTools: /Game/pCube3_1
+[2018.12.06-06.55.44:290][780]AssetTools: /Game/pCube4_1
+[2018.12.06-06.55.44:290][780]AssetTools: /Game/pCube5_1
+[2018.12.06-06.55.44:290][780]AssetTools: /Game/lambert2
+[2018.12.06-06.55.44:290][780]AssetTools: /Game/pCube6_1
+[2018.12.06-06.55.44:290][780]AssetTools: /Game/pCube7_1
+[2018.12.06-06.55.44:290][780]AssetTools: /Game/pCube8_1
+[2018.12.06-06.55.44:290][780]AssetTools: /Game/pCube9_1
+[2018.12.06-06.55.44:290][780]AssetTools: /Game/pCylinder1_1
+[2018.12.06-06.55.44:290][780]AssetTools: /Game/pCylinder2_1
+[2018.12.06-06.55.44:290][780]AssetTools: /Game/pCylinder3_1
+[2018.12.06-06.55.44:290][780]AssetTools: /Game/pCylinder4_1
+[2018.12.06-06.55.44:290][780]AssetTools: /Game/pCylinder5_1
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/pCylinder6_1
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/pCylinder7_1
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/pCylinder8_1
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/FbxScene_hospital
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/default_windows_bldg10
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/kain
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/pCube10
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/hospital
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/pCube11
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/pCube12
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/pCube13
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/pCube1_1
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/blinn2
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/pCube2
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/lambert1
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/pCube3
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/pCube4
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/pCube5
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/pCube6
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/pCube7
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/pCube8
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/pCube9
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/FbxScene_new_turret
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/pCube1_6
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/new_turret
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/turret_base
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/turret_metal
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/pCube2_1
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/pCylinder3_2
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/Turret_Barrels
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/pCylinder4_2
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/pCylinder5_2
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/pCylinder6_2
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/Turret_Pivot
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/pCylinder9_1
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/pSphere1
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/FbxScene_order_temple
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/pCone1
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/order_temple
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/pCube1
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/pCylinder1
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/pCylinder10
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/pCylinder11
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/pCylinder2
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/pCylinder3
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/pCylinder4
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/pCylinder5
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/pCylinder6
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/pCylinder7
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/pCylinder8
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/pCylinder9
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/pDisc1
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/lambert3
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/lambert4
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/pPlatonic1
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/phong2
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/pTorus1
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/FbxScene_refinery
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/Refinery_pCube14
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/refinery
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/anisotropic1
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/Refinery_pCube27
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/Refinery_pCube28
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/Refinery_pCube29
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/Refinery_pCylinder116
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/Refinery_pCylinder117
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/Refinery_pCylinder118
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/Refinery_pCylinder119
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/Refinery_pCylinder120
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/Refinery_pCylinder121
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/Refinery_pCylinder122
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/Refinery_pCylinder123
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/Refinery_pCylinder124
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/Refinery_pCylinder60
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/Refinery_pCylinder61
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/Refinery_pSphere20
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/Refinery_Refinery_Tower_pCylinder51
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/anisotropic4
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/Refinery_Refinery_Tower_pCylinder52
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/Refinery_Refinery_Tower_pCylinder53
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/Refinery_Refinery_Tower_pCylinder54
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/Refinery_Refinery_Tower_pCylinder55
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/Refinery_Refinery_Tower_pCylinder56
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/Refinery_Refinery_Tower_pCylinder57
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/Refinery_Refinery_Tower_pCylinder58
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/Refinery_Refinery_Tower_pCylinder59
+[2018.12.06-06.55.44:291][780]AssetTools: /Game/Refinery_Refinery_Tower_pCylinder60
+[2018.12.06-06.55.44:292][780]AssetTools: /Game/Refinery_Refinery_Tower_pCylinder61
+[2018.12.06-06.55.44:292][780]AssetTools: /Game/FbxScene_skyscraper_1
+[2018.12.06-06.55.44:292][780]AssetTools: /Game/pCube1_3
+[2018.12.06-06.55.44:292][780]AssetTools: /Game/skyscraper_1
+[2018.12.06-06.55.44:292][780]AssetTools: /Game/FbxScene_skyscraper_2
+[2018.12.06-06.55.44:292][780]AssetTools: /Game/pCube1_4
+[2018.12.06-06.55.44:292][780]AssetTools: /Game/skyscraper_2
+[2018.12.06-06.55.44:292][780]AssetTools: /Game/FbxScene_skyscraper_for_curves
+[2018.12.06-06.55.44:292][780]AssetTools: /Game/pCube1_5
+[2018.12.06-06.55.44:292][780]AssetTools: /Game/skyscraper_for_curves
+[2018.12.06-06.55.44:292][780]AssetTools: /Game/Delta-Scar-Map_BuiltData
+[2018.12.06-06.55.44:292][780]AssetTools: /Game/None__CordonTop_jpg_001
+[2018.12.06-06.55.44:292][780]AssetTools: /Game/Vereda
+[2018.12.06-06.55.44:292][780]AssetTools: /Game/None__CordonTop_jpg_001_ncl1_2
+[2018.12.06-06.55.44:292][780]AssetTools: /Game/None__RoadTexture2_jpg
+[2018.12.06-06.55.44:292][780]AssetTools: /Game/Roadstraight
+[2018.12.06-06.55.44:292][780]AssetTools: /Game/None__RoadTexture2_jpg_ncl1_1
+[2018.12.06-06.55.44:292][780]AssetTools: /Game/None__RoadTexture3_jpg
+[2018.12.06-06.55.44:292][780]AssetTools: /Game/RoadTexture3
+[2018.12.06-06.55.44:292][780]AssetTools: /Game/None__TextDamageDecal5_png
+[2018.12.06-06.55.44:292][780]AssetTools: /Game/TextDamageDecal5
+[2018.12.06-06.55.44:292][780]AssetTools: /Game/Plane
+[2018.12.06-06.55.44:292][780]AssetTools: /Game/Roads
+[2018.12.06-06.55.44:292][780]AssetTools: /Game/None__CordonMedium_jpg_001
+[2018.12.06-06.55.44:292][780]AssetTools: /Game/CordonTop
+[2018.12.06-06.55.44:292][780]AssetTools: /Game/None__FloorsRegular0277_1_S_jpg_001
+[2018.12.06-06.55.44:292][780]AssetTools: /Game/None__Roads0069_9_S_jpg
+[2018.12.06-06.55.44:292][780]AssetTools: /Game/unnamed
+[2018.12.06-06.55.44:292][780]AssetTools: /Game/CordonMedium
+[2018.12.06-06.55.44:292][780]AssetTools: /Game/Plane_007
+[2018.12.06-06.55.44:292][780]AssetTools: /Game/None__FloorsRegular0277_1_S_jpg_001_ncl1_3
+[2018.12.06-06.55.44:292][780]AssetTools: /Game/RoadTexture2
+[2018.12.06-06.55.44:292][780]AssetTools: /Game/None__Roads0069_9_S_jpg_ncl1_3
+[2018.12.06-06.55.44:292][780]AssetTools: /Game/Plane_017
+[2018.12.06-06.55.44:292][780]AssetTools: /Game/Plane_018
+[2018.12.06-06.55.44:292][780]AssetTools: /Game/Plane_023
+[2018.12.06-06.55.44:292][780]AssetTools: /Game/None__CordonAmarillo_png
+[2018.12.06-06.55.44:292][780]AssetTools: /Game/None__CordonMedium_jpg_001_ncl1_1
+[2018.12.06-06.55.44:292][780]AssetTools: /Game/None__CordonTop_jpg_001_ncl1_1
+[2018.12.06-06.55.44:293][780]AssetTools: /Game/EsquinaTextura
+[2018.12.06-06.55.44:293][780]AssetTools: /Game/None__EsquinaTextura_png
+[2018.12.06-06.55.44:293][780]AssetTools: /Game/None__FloorsRegular0277_1_S_jpg_001_ncl1_1
+[2018.12.06-06.55.44:293][780]AssetTools: /Game/None__Roads0069_9_S_jpg_ncl1_1
+[2018.12.06-06.55.53:086][821]LogSlate: Window 'Open Level' being destroyed
+[2018.12.06-06.55.57:040][287]LogSlate: Window 'Open Level' being destroyed
+[2018.12.06-06.57.16:333][162]LogSlate: FSceneViewport::OnFocusLost() reason 2
